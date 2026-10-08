@@ -11,6 +11,9 @@ Site estático hospedado no Cloudflare Pages. Cada produto é uma pasta; cada p�
 /rabisco-stickers/privacidade/     → política de privacidade do Rabisco Stickers
 /whatss-stickers/privacidade/      → política de privacidade do AppFunStickers
 /app-ads.txt                       → autorização do AdMob (vale para todos os apps da conta)
+/cinema-history/media/             → arquivos que o app Cinema History carrega pela internet
+                                     (images/: imagens das timelines, antes no Firebase Storage)
+/_headers                          → cache longo para /*/media/*
 ```
 
 Para um produto novo: criar `/<produto>/index.html` e `/<produto>/privacidade/index.html`.
