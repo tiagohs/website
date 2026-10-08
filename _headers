@@ -1,0 +1,4 @@
+# Arquivos de mídia dos apps: cache longo (os nomes não mudam; para trocar uma imagem, use outro nome).
+/cinema-history/media/*
+  Cache-Control: public, max-age=31536000, immutable
+  Access-Control-Allow-Origin: *
