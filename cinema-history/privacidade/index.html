@@ -22,7 +22,7 @@
 <body>
 
 <h1>Cinema History</h1>
-<p class="muted">Última atualização / Last updated / Última actualización: 07/10/2026</p>
+<p class="muted">Vigente a partir de / Effective from / Vigente desde: 09/10/2026</p>
 
 <nav>
   <a href="#pt">Português</a>
@@ -35,32 +35,88 @@
 <h1>Política de Privacidade</h1>
 
 <p>O aplicativo <strong>Cinema History</strong> (História do Cinema) é desenvolvido por Tiago Henrique da Silva e oferecido
-gratuitamente. O app é mantido com <strong>anúncios</strong>. Esta página explica quais dados são tratados, por quem e como você pode controlá-los.</p>
+gratuitamente. O app é mantido com <strong>anúncios</strong> e, no Brasil, com um <strong>apoio opcional por compra única</strong>.
+Esta página explica quais dados são tratados, por quem e como você pode controlá-los.</p>
 
 <h2>1. Dados que eu coleto</h2>
-<p>O app não tem cadastro nem login e não pede seu nome, e-mail, telefone, fotos ou contatos. Todo o conteúdo do app
-(capítulos, linha do tempo, prêmios, glossário) já vem dentro do aplicativo. Suas preferências (como o idioma escolhido)
-ficam salvas apenas no seu aparelho.</p>
+<p>O app não tem cadastro nem login e não pede seu nome, e-mail, telefone, fotos, contatos ou localização. Eu não tenho servidor
+que receba dados pessoais seus: o conteúdo principal (capítulos, linha do tempo, prêmios, glossário) já vem dentro do aplicativo,
+e o que é baixado pela internet (seções 4 e 5) são arquivos públicos, iguais para todos os usuários.</p>
 
-<h2>2. Serviços de terceiros</h2>
+<h2>2. Dados guardados apenas no seu aparelho</h2>
+<p>Para funcionar, o app guarda algumas informações <strong>somente no seu aparelho</strong>. Elas não são enviadas para mim
+e são apagadas se você limpar os dados do app ou desinstalá-lo:</p>
+<ul>
+  <li><strong>Preferências</strong>: idioma escolhido, tema claro/escuro, última era lida e se você já viu a apresentação inicial (onboarding).</li>
+  <li><strong>Apoio</strong>: se você é apoiador (e qual opção de apoio comprou), se há um pagamento aguardando confirmação, o país da
+  conta do Google Play (seção 3) e quantos capítulos você concluiu (para mostrar, de vez em quando, um convite discreto ao apoio).</li>
+  <li><strong>Narração em áudio</strong>: a posição em que você parou em cada capítulo, a velocidade escolhida, os capítulos baixados
+  para ouvir offline e os próprios arquivos de áudio baixados.</li>
+  <li><strong>Conteúdo atualizado</strong>: cópias dos arquivos de conteúdo baixados (seção 5) e a data da última atualização.</li>
+  <li><strong>Anúncios</strong>: contadores usados para limitar a frequência dos anúncios em tela cheia.</li>
+</ul>
+
+<h2>3. Apoio ao app (compras no app pelo Google Play)</h2>
+<ul>
+  <li>O apoio é <strong>opcional</strong>, por pagamento único, e só aparece para contas do Google Play do Brasil com o app em português.
+  Quem apoia fica sem anúncios e libera a narração em áudio dos capítulos.</li>
+  <li>O pagamento é feito e processado inteiramente pelo <strong>Google Play</strong>. O app <strong>não recebe nem guarda</strong> dados de
+  cartão, Pix, boleto, nome ou endereço de cobrança. Esses dados são tratados pelo Google conforme os
+  <a href="https://play.google.com/about/play-terms/" target="_blank" rel="noopener">Termos de Serviço do Google Play</a> e a
+  <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Política de Privacidade do Google</a>.</li>
+  <li>O app consulta a biblioteca de faturamento do Google Play (Play Billing Library) para saber se a sua conta tem uma compra de apoio
+  válida e guarda localmente apenas o <strong>status de apoiador</strong> (seção 2). Esse status é reconfirmado com o Google Play
+  sempre que o app é aberto; se a compra for reembolsada ou cancelada, o apoio é removido.</li>
+  <li>O app também pede ao Google Play o <strong>país da conta do Play</strong> (por exemplo, "BR"). Ele é usado <strong>apenas</strong>
+  para decidir se a oferta de apoio deve aparecer e fica guardado só no aparelho.</li>
+  <li>O Google Analytics para Firebase registra automaticamente compras feitas no app (produto, valor e moeda) e o app registra
+  quando a tela de apoio é aberta e a partir de onde, sem identificar você. Isso serve para estatísticas agregadas (seção 6).</li>
+</ul>
+
+<h2>4. Narração em áudio</h2>
+<ul>
+  <li>Os arquivos de narração ficam em um servidor de armazenamento da <strong>Cloudflare</strong> (R2) e são tocados por
+  <strong>streaming</strong>. Se você pedir, eles podem ser <strong>baixados</strong> para ouvir offline; nesse caso ficam guardados no
+  seu aparelho e você pode apagá-los no próprio app.</li>
+  <li>Nenhum dado pessoal é enviado para baixar o áudio. O servidor recebe apenas o que qualquer requisição na internet envia
+  (endereço IP, data e hora, arquivo pedido e a identificação técnica do app/sistema), que pode ficar nos registros técnicos da Cloudflare.</li>
+  <li>Para continuar tocando com a tela bloqueada ou com o app em segundo plano, o app usa um <strong>serviço em primeiro plano de
+  reprodução de mídia</strong>, com uma notificação de mídia (tocar/pausar, avançar/voltar). Esse serviço só toca o áudio:
+  o app <strong>não grava áudio e não usa o microfone</strong>.</li>
+  <li>A posição de escuta fica salva apenas no aparelho (seção 2).</li>
+</ul>
+
+<h2>5. Conteúdo atualizado e imagens pela internet</h2>
+<p>Parte do conteúdo (por exemplo, os prêmios) pode ser atualizada sem nova versão do app, e as imagens das páginas são carregadas
+pela internet. Esses arquivos são públicos e ficam hospedados no site do app, no <strong>Cloudflare Pages</strong>. São requisições
+comuns (HTTP): nenhum dado pessoal é enviado, mas o servidor recebe o endereço IP e a identificação técnica do app/sistema, que
+podem ficar nos registros técnicos do provedor.
+<a href="https://www.cloudflare.com/privacypolicy/" target="_blank" rel="noopener">Política de privacidade da Cloudflare</a>.</p>
+
+<h2>6. Serviços de terceiros</h2>
 <p>O app usa serviços do Google e de outros parceiros que podem coletar dados automaticamente:</p>
 <ul>
   <li><strong>Google AdMob</strong> (anúncios): pode usar o identificador de publicidade do aparelho, endereço IP
   (localização aproximada), informações do aparelho e interações com os anúncios, para exibir, medir e, quando
-  permitido, personalizar anúncios, além de prevenir fraudes.
+  permitido, personalizar anúncios, além de prevenir fraudes. Para apoiadores, o SDK de anúncios não é iniciado.
   <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener">Como o Google usa dados de apps parceiros</a>.</li>
-  <li><strong>Google Analytics para Firebase</strong>: estatísticas de uso agregadas (telas abertas, tempo de uso), para melhorar o app.</li>
+  <li><strong>Google Play</strong> (compras no app): processa o pagamento do apoio (seção 3).</li>
+  <li><strong>Google Analytics para Firebase</strong>: estatísticas de uso agregadas (telas abertas, tempo de uso, compras no app), para melhorar o app.</li>
   <li><strong>Firebase Crashlytics</strong>: relatórios de erro (modelo do aparelho, versão do Android, momento e detalhes técnicos do erro).</li>
-  <li><strong>Firebase Remote Config e Cloud Storage</strong>: ajustes do app (por exemplo, limites de frequência dos anúncios) e imagens.</li>
-  <li><strong>The Movie Database (TMDB)</strong>: o app consulta informações de filmes e pessoas (sinopses, elenco, imagens). Essas
-  consultas não incluem dados pessoais seus, mas o servidor recebe dados técnicos normais de qualquer conexão, como o endereço IP.</li>
+  <li><strong>Firebase Remote Config</strong>: ajustes do app (por exemplo, limites de frequência dos anúncios).</li>
+  <li><strong>Cloudflare</strong> (Pages e R2): hospedagem das imagens, do conteúdo atualizado e dos arquivos de áudio (seções 4 e 5).</li>
+  <li><strong>The Movie Database (TMDB)</strong> e <strong>OMDb</strong>: o app consulta informações de filmes e pessoas (sinopses, elenco,
+  imagens, notas). Essas consultas não incluem dados pessoais seus, mas o servidor recebe dados técnicos normais de qualquer conexão, como o endereço IP.</li>
+  <li><strong>YouTube</strong>: miniaturas de vídeos são carregadas dos servidores do YouTube, e os vídeos abrem no app do YouTube ou no navegador.</li>
+  <li><strong>X (Twitter)</strong>: alguns capítulos mostram publicações incorporadas do X; ao exibi-las, o X recebe dados técnicos da conexão (como o endereço IP) conforme a <a href="https://x.com/privacy" target="_blank" rel="noopener">política dele</a>.</li>
 </ul>
 <p>Políticas desses serviços: <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google</a>,
 <a href="https://support.google.com/admob/answer/6128543" target="_blank" rel="noopener">AdMob</a>,
 <a href="https://firebase.google.com/support/privacy" target="_blank" rel="noopener">Firebase</a>,
+<a href="https://www.cloudflare.com/privacypolicy/" target="_blank" rel="noopener">Cloudflare</a>,
 <a href="https://www.themoviedb.org/privacy-policy" target="_blank" rel="noopener">TMDB</a>.</p>
 
-<h2>3. Anúncios e consentimento</h2>
+<h2>7. Anúncios e consentimento</h2>
 <ul>
   <li>Os anúncios aparecem como cards identificados com o selo "Anúncio" e, ocasionalmente, em tela cheia na troca de capítulos, com limite de frequência.</li>
   <li>Se você estiver no Espaço Econômico Europeu, Reino Unido, Suíça ou em estados dos EUA com leis de privacidade, o app pede seu
@@ -71,23 +127,25 @@ ficam salvas apenas no seu aparelho.</p>
   <li>Eu não vendo seus dados pessoais.</li>
 </ul>
 
-<h2>4. Seus direitos (LGPD, GDPR e leis dos EUA)</h2>
+<h2>8. Seus direitos (LGPD, GDPR e leis dos EUA)</h2>
 <p>Você pode pedir informações, correção ou exclusão de dados e revogar o consentimento. Como o app não tem contas, eu não
-consigo identificar você nos dados dos parceiros. Para dados de anúncios e de análise, use os controles descritos acima ou
-as ferramentas do Google em <a href="https://myadcenter.google.com" target="_blank" rel="noopener">myadcenter.google.com</a>. Para dúvidas, fale comigo pelo e-mail abaixo.</p>
+consigo identificar você nos dados dos parceiros. Os dados guardados no aparelho (seção 2) podem ser apagados limpando os dados
+do app ou desinstalando-o. Para dados de anúncios e de análise, use os controles descritos acima ou
+as ferramentas do Google em <a href="https://myadcenter.google.com" target="_blank" rel="noopener">myadcenter.google.com</a>. Para dados
+de compras, use sua conta do Google Play. Para dúvidas, fale comigo pelo e-mail abaixo.</p>
 
-<h2>5. Crianças</h2>
+<h2>9. Crianças</h2>
 <p>O app não é direcionado a crianças menores de 13 anos e eu não coleto dados delas intencionalmente. Se você souber que uma
 criança forneceu dados, entre em contato para que eu tome as providências.</p>
 
-<h2>6. Segurança e links externos</h2>
-<p>As comunicações do app usam conexão criptografada (HTTPS). O app contém links para sites externos (vídeos, livros,
-serviços de streaming), que têm políticas próprias.</p>
+<h2>10. Segurança e links externos</h2>
+<p>As comunicações do app usam conexão criptografada (HTTPS), exceto quando um serviço externo só oferece HTTP. O app contém links
+para sites externos (vídeos, livros, serviços de streaming), que têm políticas próprias.</p>
 
-<h2>7. Alterações</h2>
+<h2>11. Alterações</h2>
 <p>Esta política pode ser atualizada. A data no topo indica a versão em vigor.</p>
 
-<h2>8. Contato</h2>
+<h2>12. Contato</h2>
 <p>Tiago Henrique da Silva — <a href="mailto:tiago.hsilva@gmail.com">tiago.hsilva@gmail.com</a></p>
 </section>
 
@@ -96,30 +154,85 @@ serviços de streaming), que têm políticas próprias.</p>
 <h1>Privacy Policy</h1>
 
 <p>The <strong>Cinema History</strong> app is developed by Tiago Henrique da Silva and offered free of charge. The app is supported by
-<strong>ads</strong>. This page explains what data is processed, by whom, and how you can control it.</p>
+<strong>ads</strong> and, in Brazil, by an <strong>optional one-time support purchase</strong>. This page explains what data is processed,
+by whom, and how you can control it.</p>
 
 <h2>1. Data I collect</h2>
-<p>The app has no sign-up or login and does not ask for your name, email, phone number, photos or contacts. All app content
-(chapters, timeline, awards, glossary) ships inside the app. Your preferences (such as the chosen language) are stored only on your device.</p>
+<p>The app has no sign-up or login and does not ask for your name, email, phone number, photos, contacts or location. I have no
+server that receives your personal data: the main content (chapters, timeline, awards, glossary) ships inside the app, and what
+is downloaded from the internet (sections 4 and 5) are public files, the same for every user.</p>
 
-<h2>2. Third-party services</h2>
+<h2>2. Data stored only on your device</h2>
+<p>To work, the app stores some information <strong>only on your device</strong>. It is not sent to me and is deleted if you clear
+the app's data or uninstall it:</p>
+<ul>
+  <li><strong>Preferences</strong>: chosen language, light/dark theme, last era read and whether you have seen the welcome screens (onboarding).</li>
+  <li><strong>Support</strong>: whether you are a supporter (and which support option you bought), whether a payment is awaiting confirmation,
+  the country of your Google Play account (section 3) and how many chapters you have finished (to show, once in a while, a discreet invitation to support).</li>
+  <li><strong>Audio narration</strong>: where you stopped in each chapter, the chosen speed, the chapters downloaded for offline listening and the downloaded audio files themselves.</li>
+  <li><strong>Updated content</strong>: copies of the downloaded content files (section 5) and the date of the last update.</li>
+  <li><strong>Ads</strong>: counters used to cap how often full-screen ads appear.</li>
+</ul>
+
+<h2>3. Supporting the app (in-app purchases through Google Play)</h2>
+<ul>
+  <li>Support is <strong>optional</strong>, a one-time payment, and is only offered to Google Play accounts in Brazil with the app in Portuguese.
+  Supporters get no ads and unlock the audio narration of the chapters.</li>
+  <li>Payment is made and processed entirely by <strong>Google Play</strong>. The app <strong>does not receive or store</strong> card, Pix,
+  boleto, name or billing address data. That data is handled by Google under the
+  <a href="https://play.google.com/about/play-terms/" target="_blank" rel="noopener">Google Play Terms of Service</a> and the
+  <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Privacy Policy</a>.</li>
+  <li>The app uses the Google Play Billing Library to check whether your account has a valid support purchase and stores locally only your
+  <strong>supporter status</strong> (section 2). The status is re-checked with Google Play every time the app opens; if the purchase is
+  refunded or canceled, the support is removed.</li>
+  <li>The app also asks Google Play for the <strong>country of your Play account</strong> (for example, "BR"). It is used <strong>only</strong>
+  to decide whether the support offer should appear, and it is stored only on your device.</li>
+  <li>Google Analytics for Firebase automatically records in-app purchases (product, amount and currency), and the app records when the
+  support screen is opened and from where, without identifying you. This is used for aggregated statistics (section 6).</li>
+</ul>
+
+<h2>4. Audio narration</h2>
+<ul>
+  <li>The narration files are stored on a <strong>Cloudflare</strong> storage server (R2) and played by <strong>streaming</strong>. If you
+  ask, they can be <strong>downloaded</strong> for offline listening; in that case they are kept on your device and you can delete them in the app.</li>
+  <li>No personal data is sent to download the audio. The server only receives what any internet request sends (IP address, date and
+  time, requested file and the technical identification of the app/system), which may be kept in Cloudflare's technical logs.</li>
+  <li>To keep playing with the screen locked or the app in the background, the app uses a <strong>media playback foreground service</strong>
+  with a media notification (play/pause, skip forward/back). This service only plays audio: the app
+  <strong>does not record audio and does not use the microphone</strong>.</li>
+  <li>Your listening position is saved only on your device (section 2).</li>
+</ul>
+
+<h2>5. Updated content and images from the internet</h2>
+<p>Part of the content (for example, the awards) can be updated without a new app version, and page images are loaded from the
+internet. These files are public and hosted on the app's website on <strong>Cloudflare Pages</strong>. They are ordinary (HTTP)
+requests: no personal data is sent, but the server receives your IP address and the technical identification of the app/system,
+which may be kept in the provider's technical logs.
+<a href="https://www.cloudflare.com/privacypolicy/" target="_blank" rel="noopener">Cloudflare privacy policy</a>.</p>
+
+<h2>6. Third-party services</h2>
 <p>The app uses services from Google and other partners that may collect data automatically:</p>
 <ul>
   <li><strong>Google AdMob</strong> (ads): may use your device's advertising ID, IP address (approximate location), device
-  information and ad interactions to serve, measure and, where allowed, personalize ads, and to prevent fraud.
+  information and ad interactions to serve, measure and, where allowed, personalize ads, and to prevent fraud. For supporters, the ads SDK is not started.
   <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener">How Google uses data from partner apps</a>.</li>
-  <li><strong>Google Analytics for Firebase</strong>: aggregated usage statistics (screens opened, time in app) to improve the app.</li>
+  <li><strong>Google Play</strong> (in-app purchases): processes the support payment (section 3).</li>
+  <li><strong>Google Analytics for Firebase</strong>: aggregated usage statistics (screens opened, time in app, in-app purchases) to improve the app.</li>
   <li><strong>Firebase Crashlytics</strong>: crash reports (device model, Android version, time and technical details of the error).</li>
-  <li><strong>Firebase Remote Config and Cloud Storage</strong>: app settings (for example, ad frequency limits) and images.</li>
-  <li><strong>The Movie Database (TMDB)</strong>: the app fetches movie and people information (synopses, cast, images). These
-  requests contain no personal data about you, but the server receives the usual technical data of any connection, such as your IP address.</li>
+  <li><strong>Firebase Remote Config</strong>: app settings (for example, ad frequency limits).</li>
+  <li><strong>Cloudflare</strong> (Pages and R2): hosting of images, updated content and audio files (sections 4 and 5).</li>
+  <li><strong>The Movie Database (TMDB)</strong> and <strong>OMDb</strong>: the app fetches movie and people information (synopses, cast,
+  images, ratings). These requests contain no personal data about you, but the server receives the usual technical data of any connection, such as your IP address.</li>
+  <li><strong>YouTube</strong>: video thumbnails are loaded from YouTube's servers, and videos open in the YouTube app or in the browser.</li>
+  <li><strong>X (Twitter)</strong>: some chapters show embedded X posts; when they are displayed, X receives technical connection data (such as your IP address) under <a href="https://x.com/privacy" target="_blank" rel="noopener">its policy</a>.</li>
 </ul>
 <p>Policies of these services: <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google</a>,
 <a href="https://support.google.com/admob/answer/6128543" target="_blank" rel="noopener">AdMob</a>,
 <a href="https://firebase.google.com/support/privacy" target="_blank" rel="noopener">Firebase</a>,
+<a href="https://www.cloudflare.com/privacypolicy/" target="_blank" rel="noopener">Cloudflare</a>,
 <a href="https://www.themoviedb.org/privacy-policy" target="_blank" rel="noopener">TMDB</a>.</p>
 
-<h2>3. Ads and consent</h2>
+<h2>7. Ads and consent</h2>
 <ul>
   <li>Ads appear as cards labeled "Ad" and, occasionally, full screen between chapters, with a frequency cap.</li>
   <li>If you are in the European Economic Area, the UK, Switzerland or a US state with a privacy law, the app asks for your consent
@@ -129,23 +242,25 @@ serviços de streaming), que têm políticas próprias.</p>
   <li>I do not sell your personal data.</li>
 </ul>
 
-<h2>4. Your rights (GDPR, LGPD and US state laws)</h2>
+<h2>8. Your rights (GDPR, LGPD and US state laws)</h2>
 <p>You may request access, correction or deletion of data and withdraw consent. Because the app has no accounts, I cannot
-identify you in partners' data. For ad and analytics data, use the controls above or Google's tools at
-<a href="https://myadcenter.google.com" target="_blank" rel="noopener">myadcenter.google.com</a>. For questions, contact me at the email below.</p>
+identify you in partners' data. Data stored on your device (section 2) can be deleted by clearing the app's data or uninstalling it.
+For ad and analytics data, use the controls above or Google's tools at
+<a href="https://myadcenter.google.com" target="_blank" rel="noopener">myadcenter.google.com</a>. For purchase data, use your Google Play
+account. For questions, contact me at the email below.</p>
 
-<h2>5. Children</h2>
+<h2>9. Children</h2>
 <p>The app is not directed to children under 13 and I do not knowingly collect their data. If you learn that a child has
 provided data, please contact me so I can take action.</p>
 
-<h2>6. Security and external links</h2>
-<p>The app communicates over encrypted connections (HTTPS). It contains links to external sites (videos, books, streaming
-services), which have their own policies.</p>
+<h2>10. Security and external links</h2>
+<p>The app communicates over encrypted connections (HTTPS), except where an external service only offers HTTP. It contains links to
+external sites (videos, books, streaming services), which have their own policies.</p>
 
-<h2>7. Changes</h2>
+<h2>11. Changes</h2>
 <p>This policy may be updated. The date at the top shows the version in effect.</p>
 
-<h2>8. Contact</h2>
+<h2>12. Contact</h2>
 <p>Tiago Henrique da Silva — <a href="mailto:tiago.hsilva@gmail.com">tiago.hsilva@gmail.com</a></p>
 </section>
 
@@ -154,30 +269,87 @@ services), which have their own policies.</p>
 <h1>Política de Privacidad</h1>
 
 <p>La aplicación <strong>Cinema History</strong> es desarrollada por Tiago Henrique da Silva y se ofrece de forma gratuita. La app se
-sostiene con <strong>anuncios</strong>. Esta página explica qué datos se procesan, quién los procesa y cómo puedes controlarlos.</p>
+sostiene con <strong>anuncios</strong> y, en Brasil, con un <strong>apoyo opcional mediante compra única</strong>. Esta página explica
+qué datos se procesan, quién los procesa y cómo puedes controlarlos.</p>
 
 <h2>1. Datos que recopilo</h2>
-<p>La app no tiene registro ni inicio de sesión y no solicita tu nombre, correo, teléfono, fotos ni contactos. Todo el contenido
-(capítulos, línea de tiempo, premios, glosario) viene dentro de la app. Tus preferencias (como el idioma elegido) se guardan solo en tu dispositivo.</p>
+<p>La app no tiene registro ni inicio de sesión y no solicita tu nombre, correo, teléfono, fotos, contactos ni ubicación. No tengo
+un servidor que reciba tus datos personales: el contenido principal (capítulos, línea de tiempo, premios, glosario) viene dentro de
+la app, y lo que se descarga de internet (secciones 4 y 5) son archivos públicos, iguales para todos los usuarios.</p>
 
-<h2>2. Servicios de terceros</h2>
+<h2>2. Datos guardados solo en tu dispositivo</h2>
+<p>Para funcionar, la app guarda alguna información <strong>solo en tu dispositivo</strong>. No se me envía y se elimina si borras
+los datos de la app o la desinstalas:</p>
+<ul>
+  <li><strong>Preferencias</strong>: idioma elegido, tema claro/oscuro, última era leída y si ya viste la presentación inicial (onboarding).</li>
+  <li><strong>Apoyo</strong>: si eres colaborador (y qué opción de apoyo compraste), si hay un pago pendiente de confirmación, el país de la
+  cuenta de Google Play (sección 3) y cuántos capítulos terminaste (para mostrar, de vez en cuando, una invitación discreta a apoyar).</li>
+  <li><strong>Narración en audio</strong>: dónde te detuviste en cada capítulo, la velocidad elegida, los capítulos descargados para escuchar sin conexión y los propios archivos de audio descargados.</li>
+  <li><strong>Contenido actualizado</strong>: copias de los archivos de contenido descargados (sección 5) y la fecha de la última actualización.</li>
+  <li><strong>Anuncios</strong>: contadores usados para limitar la frecuencia de los anuncios a pantalla completa.</li>
+</ul>
+
+<h2>3. Apoyo a la app (compras en la app mediante Google Play)</h2>
+<ul>
+  <li>El apoyo es <strong>opcional</strong>, mediante un pago único, y solo se ofrece a cuentas de Google Play de Brasil con la app en portugués.
+  Quien apoya no ve anuncios y desbloquea la narración en audio de los capítulos.</li>
+  <li>El pago lo realiza y procesa íntegramente <strong>Google Play</strong>. La app <strong>no recibe ni guarda</strong> datos de tarjeta,
+  Pix, boleto, nombre ni dirección de facturación. Google trata esos datos según las
+  <a href="https://play.google.com/about/play-terms/" target="_blank" rel="noopener">Condiciones de Servicio de Google Play</a> y la
+  <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Política de Privacidad de Google</a>.</li>
+  <li>La app usa la biblioteca de facturación de Google Play (Play Billing Library) para saber si tu cuenta tiene una compra de apoyo válida
+  y guarda localmente solo tu <strong>estado de colaborador</strong> (sección 2). Ese estado se vuelve a confirmar con Google Play cada vez
+  que se abre la app; si la compra se reembolsa o cancela, el apoyo se elimina.</li>
+  <li>La app también pide a Google Play el <strong>país de la cuenta de Play</strong> (por ejemplo, "BR"). Se usa <strong>solo</strong> para
+  decidir si debe mostrarse la oferta de apoyo y se guarda únicamente en el dispositivo.</li>
+  <li>Google Analytics para Firebase registra automáticamente las compras en la app (producto, importe y moneda), y la app registra cuándo
+  se abre la pantalla de apoyo y desde dónde, sin identificarte. Esto se usa para estadísticas agregadas (sección 6).</li>
+</ul>
+
+<h2>4. Narración en audio</h2>
+<ul>
+  <li>Los archivos de narración están en un servidor de almacenamiento de <strong>Cloudflare</strong> (R2) y se reproducen por
+  <strong>streaming</strong>. Si lo pides, pueden <strong>descargarse</strong> para escuchar sin conexión; en ese caso se guardan en tu
+  dispositivo y puedes borrarlos desde la app.</li>
+  <li>No se envía ningún dato personal para descargar el audio. El servidor recibe solo lo que envía cualquier solicitud en internet
+  (dirección IP, fecha y hora, archivo solicitado e identificación técnica de la app/sistema), que puede quedar en los registros técnicos de Cloudflare.</li>
+  <li>Para seguir reproduciendo con la pantalla bloqueada o la app en segundo plano, la app usa un <strong>servicio en primer plano de
+  reproducción multimedia</strong>, con una notificación multimedia (reproducir/pausar, avanzar/retroceder). Este servicio solo reproduce
+  audio: la app <strong>no graba audio ni usa el micrófono</strong>.</li>
+  <li>La posición de escucha se guarda solo en el dispositivo (sección 2).</li>
+</ul>
+
+<h2>5. Contenido actualizado e imágenes desde internet</h2>
+<p>Parte del contenido (por ejemplo, los premios) puede actualizarse sin una nueva versión de la app, y las imágenes de las páginas se
+cargan desde internet. Estos archivos son públicos y están alojados en el sitio de la app en <strong>Cloudflare Pages</strong>. Son
+solicitudes comunes (HTTP): no se envía ningún dato personal, pero el servidor recibe la dirección IP y la identificación técnica de
+la app/sistema, que pueden quedar en los registros técnicos del proveedor.
+<a href="https://www.cloudflare.com/privacypolicy/" target="_blank" rel="noopener">Política de privacidad de Cloudflare</a>.</p>
+
+<h2>6. Servicios de terceros</h2>
 <p>La app usa servicios de Google y de otros socios que pueden recopilar datos automáticamente:</p>
 <ul>
   <li><strong>Google AdMob</strong> (anuncios): puede usar el ID de publicidad del dispositivo, la dirección IP (ubicación aproximada),
-  información del dispositivo e interacciones con los anuncios para mostrarlos, medirlos y, cuando esté permitido, personalizarlos, además de prevenir fraudes.
+  información del dispositivo e interacciones con los anuncios para mostrarlos, medirlos y, cuando esté permitido, personalizarlos, además de
+  prevenir fraudes. Para los colaboradores, el SDK de anuncios no se inicia.
   <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener">Cómo usa Google los datos de las apps asociadas</a>.</li>
-  <li><strong>Google Analytics para Firebase</strong>: estadísticas de uso agregadas (pantallas abiertas, tiempo de uso) para mejorar la app.</li>
+  <li><strong>Google Play</strong> (compras en la app): procesa el pago del apoyo (sección 3).</li>
+  <li><strong>Google Analytics para Firebase</strong>: estadísticas de uso agregadas (pantallas abiertas, tiempo de uso, compras en la app) para mejorar la app.</li>
   <li><strong>Firebase Crashlytics</strong>: informes de errores (modelo del dispositivo, versión de Android, momento y detalles técnicos del error).</li>
-  <li><strong>Firebase Remote Config y Cloud Storage</strong>: ajustes de la app (por ejemplo, límites de frecuencia de anuncios) e imágenes.</li>
-  <li><strong>The Movie Database (TMDB)</strong>: la app consulta información de películas y personas (sinopsis, reparto, imágenes). Estas
-  consultas no incluyen datos personales tuyos, pero el servidor recibe los datos técnicos habituales de cualquier conexión, como la dirección IP.</li>
+  <li><strong>Firebase Remote Config</strong>: ajustes de la app (por ejemplo, límites de frecuencia de anuncios).</li>
+  <li><strong>Cloudflare</strong> (Pages y R2): alojamiento de las imágenes, del contenido actualizado y de los archivos de audio (secciones 4 y 5).</li>
+  <li><strong>The Movie Database (TMDB)</strong> y <strong>OMDb</strong>: la app consulta información de películas y personas (sinopsis, reparto,
+  imágenes, calificaciones). Estas consultas no incluyen datos personales tuyos, pero el servidor recibe los datos técnicos habituales de cualquier conexión, como la dirección IP.</li>
+  <li><strong>YouTube</strong>: las miniaturas de los videos se cargan desde los servidores de YouTube, y los videos se abren en la app de YouTube o en el navegador.</li>
+  <li><strong>X (Twitter)</strong>: algunos capítulos muestran publicaciones incrustadas de X; al mostrarlas, X recibe datos técnicos de la conexión (como la dirección IP) según <a href="https://x.com/privacy" target="_blank" rel="noopener">su política</a>.</li>
 </ul>
 <p>Políticas de estos servicios: <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google</a>,
 <a href="https://support.google.com/admob/answer/6128543" target="_blank" rel="noopener">AdMob</a>,
 <a href="https://firebase.google.com/support/privacy" target="_blank" rel="noopener">Firebase</a>,
+<a href="https://www.cloudflare.com/privacypolicy/" target="_blank" rel="noopener">Cloudflare</a>,
 <a href="https://www.themoviedb.org/privacy-policy" target="_blank" rel="noopener">TMDB</a>.</p>
 
-<h2>3. Anuncios y consentimiento</h2>
+<h2>7. Anuncios y consentimiento</h2>
 <ul>
   <li>Los anuncios aparecen como tarjetas identificadas con la etiqueta "Anuncio" y, ocasionalmente, a pantalla completa al cambiar de capítulo, con límite de frecuencia.</li>
   <li>Si estás en el Espacio Económico Europeo, el Reino Unido, Suiza o en un estado de EE. UU. con leyes de privacidad, la app pide tu
@@ -188,23 +360,25 @@ sostiene con <strong>anuncios</strong>. Esta página explica qué datos se proce
   <li>No vendo tus datos personales.</li>
 </ul>
 
-<h2>4. Tus derechos (GDPR, LGPD y leyes de EE. UU.)</h2>
+<h2>8. Tus derechos (GDPR, LGPD y leyes de EE. UU.)</h2>
 <p>Puedes solicitar acceso, corrección o eliminación de datos y retirar tu consentimiento. Como la app no tiene cuentas, no puedo
-identificarte en los datos de los socios. Para datos de anuncios y análisis, usa los controles anteriores o las herramientas de Google en
-<a href="https://myadcenter.google.com" target="_blank" rel="noopener">myadcenter.google.com</a>. Para dudas, escríbeme al correo de abajo.</p>
+identificarte en los datos de los socios. Los datos guardados en el dispositivo (sección 2) se eliminan borrando los datos de la app o
+desinstalándola. Para datos de anuncios y análisis, usa los controles anteriores o las herramientas de Google en
+<a href="https://myadcenter.google.com" target="_blank" rel="noopener">myadcenter.google.com</a>. Para datos de compras, usa tu cuenta de
+Google Play. Para dudas, escríbeme al correo de abajo.</p>
 
-<h2>5. Niños</h2>
+<h2>9. Niños</h2>
 <p>La app no está dirigida a menores de 13 años y no recopilo sus datos de forma intencional. Si sabes que un menor proporcionó
 datos, contáctame para tomar las medidas necesarias.</p>
 
-<h2>6. Seguridad y enlaces externos</h2>
-<p>La app se comunica mediante conexiones cifradas (HTTPS). Contiene enlaces a sitios externos (videos, libros, servicios de
-streaming), que tienen sus propias políticas.</p>
+<h2>10. Seguridad y enlaces externos</h2>
+<p>La app se comunica mediante conexiones cifradas (HTTPS), salvo cuando un servicio externo solo ofrece HTTP. Contiene enlaces a sitios
+externos (videos, libros, servicios de streaming), que tienen sus propias políticas.</p>
 
-<h2>7. Cambios</h2>
+<h2>11. Cambios</h2>
 <p>Esta política puede actualizarse. La fecha en la parte superior indica la versión vigente.</p>
 
-<h2>8. Contacto</h2>
+<h2>12. Contacto</h2>
 <p>Tiago Henrique da Silva — <a href="mailto:tiago.hsilva@gmail.com">tiago.hsilva@gmail.com</a></p>
 </section>
 
