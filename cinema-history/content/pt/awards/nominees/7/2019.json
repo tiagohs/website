@@ -1,0 +1,859 @@
+{
+ "year": "2019",
+ "content": [
+  {
+   "type": "person_list",
+   "title": "O Júri",
+   "persons": [
+    {
+     "id": 223,
+     "name": "Alejandro González Iñárritu",
+     "profile_path": "/qWrltG9e0ssM3Y9pF86EAgteKHu.jpg"
+    },
+    {
+     "id": 18050,
+     "name": "Elle Fanning",
+     "profile_path": "/e8CUyxQSE99y5IOfzSLtHC0B0Ch.jpg"
+    },
+    {
+     "id": 87422,
+     "name": "Maimouna N'Diaye",
+     "profile_path": "/A34do04RVjH30oMPtG7cP2AEM6C.jpg"
+    },
+    {
+     "id": 56383,
+     "name": "Kelly Reichardt",
+     "profile_path": "/mOjWy2k4mdiEJo43vRwl3u0ukT.jpg"
+    },
+    {
+     "id": 931211,
+     "name": "Alice Rohrwacher",
+     "profile_path": "/6Gvu0TH5Wx8TRc4JunyKzoWgwIZ.jpg"
+    },
+    {
+     "id": 44070,
+     "name": "Enki Bilal",
+     "profile_path": "/s3aCmBRnonAe54ewReghmGPuqht.jpg"
+    },
+    {
+     "id": 17387,
+     "name": "Robin Campillo",
+     "profile_path": "/iIr0WnG8aDdLx9DpjXiXRg4qDYm.jpg"
+    },
+    {
+     "id": 122423,
+     "name": "Yorgos Lanthimos",
+     "profile_path": "/k1jpdKeU4Jbv48vSY8UI0JFiG0i.jpg"
+    },
+    {
+     "id": 64194,
+     "name": "Pawel Pawlikowski ",
+     "profile_path": "/q21Igd2cSUjlKVjTLxZz0eWvp0p.jpg"
+    }
+   ]
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Palma de Ouro",
+   "nominee_list": [
+    {
+     "type": "movie",
+     "id": 496243,
+     "name": "Parasita",
+     "image_path": "/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg",
+     "director": "Bong Joon-ho",
+     "winner": true
+    },
+    {
+     "type": "movie",
+     "id": 535581,
+     "name": "Os Mortos Não Morrem",
+     "image_path": "/uEab4dwlh1VZu8b4kCdXNs36qJZ.jpg",
+     "director": "Jim Jarmusch",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 519010,
+     "name": "Dor e Glória",
+     "image_path": "/bScM0AHRktwfMxmt7lP6IjV7KPR.jpg",
+     "director": "Pedro Almodóvar",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 575452,
+     "name": "O Traidor",
+     "image_path": "/9pppFwylB63oPpsWFLFQMrQ8dsl.jpg",
+     "director": "Marco Bellocchio",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 575428,
+     "name": "O Lago do Ganso Selvagem",
+     "image_path": "/tgn7hqVbubMqYfjiDjl6LVZ251K.jpg",
+     "director": "Diao Yi'nan",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 522373,
+     "name": "O Jovem Ahmed",
+     "image_path": "/do74km7FUJrwB36sQgMNCiyF2aP.jpg",
+     "director": "Jean-Pierre Dardenne e Luc Dardenne",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 574097,
+     "name": "Roubaix, une lumière",
+     "image_path": "/oXRca3OCNdmNAvComBaSXH6ogZq.jpg",
+     "director": "Arnaud Desplechin",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 496967,
+     "name": "Atlantique",
+     "image_path": "/frR4y7647iqEH7uL8Dkhc4eVAMQ.jpg",
+     "director": "Mati Diop",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 519141,
+     "name": "Matthias e Maxime",
+     "image_path": "/AdI0MdA7w5wORB8ETI0ed6wlbx8.jpg",
+     "director": "Xavier Dolan",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 504585,
+     "name": "Little Joe",
+     "image_path": "/q4VMyavCoXxN9U8AONE2YryQDVz.jpg",
+     "director": "Jessica Hausner",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 504588,
+     "name": "Mektoub my love: Intermezzo",
+     "image_path": "/y8DBELlromCQ4ng3ksXfUdb0EyZ.jpg",
+     "director": "",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 522369,
+     "name": "Você Não Estava Aqui",
+     "image_path": "/nnhunzwdEwN4T8eofhqHrzU6iSl.jpg",
+     "director": "Ken Loach",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 586863,
+     "name": "Os Miseráveis",
+     "image_path": "/ywO4oyCfohDvrbU7motFRd2WdqL.jpg",
+     "director": "Ladj Ly",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 403300,
+     "name": "Uma Vida Oculta",
+     "image_path": "/oh5cKQgC54MAu62YCXNHVPiKIoY.jpg",
+     "director": "Terrence Malick",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 446159,
+     "name": "Bacurau",
+     "image_path": "/hu5RpvEdLjJ2sLGkAMzRjoNWbMj.jpg",
+     "director": "Juliano Dornelles",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 504582,
+     "name": "La Gomera - A Ilha dos Assobios",
+     "image_path": "/uRYJqlac3OswbWKrCNSjnup1kMv.jpg",
+     "director": "Corneliu Porumboiu",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 505941,
+     "name": "Frankie",
+     "image_path": "/rwxZvmx8GeY6fYObWJPbkGrPXzx.jpg",
+     "director": "Ira Sachs",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 531428,
+     "name": "Retrato de uma Jovem em Chamas",
+     "image_path": "/5M9tA2TY0nZnrDlWNVCfaFOip6g.jpg",
+     "director": "Céline Sciamma",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 539531,
+     "name": "O Paraíso Deve Ser Aqui",
+     "image_path": "/bSr2Mvf2gIC85oJ2aPfroZ0fejC.jpg",
+     "director": "Elia Suleiman",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 466272,
+     "name": "Era Uma Vez em… Hollywood",
+     "image_path": "/gMEKjlq4JcLR93oAVSD47MSeO9h.jpg",
+     "director": "Quentin Tarantino",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 559401,
+     "name": "Sibyl",
+     "image_path": "/3thduI78JYoavbIFL58ZruTr9to.jpg",
+     "director": "Justine Triet",
+     "winner": false
+    }
+   ]
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Grande Prêmio",
+   "nominee_list": [
+    {
+     "type": "movie",
+     "id": 496967,
+     "name": "Atlantique",
+     "image_path": "/frR4y7647iqEH7uL8Dkhc4eVAMQ.jpg",
+     "director": "Mati Diop",
+     "winner": true
+    },
+    {
+     "type": "movie",
+     "id": 496243,
+     "name": "Parasita",
+     "image_path": "/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg",
+     "director": "Bong Joon-ho",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 535581,
+     "name": "Os Mortos Não Morrem",
+     "image_path": "/uEab4dwlh1VZu8b4kCdXNs36qJZ.jpg",
+     "director": "Jim Jarmusch",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 519010,
+     "name": "Dor e Glória",
+     "image_path": "/bScM0AHRktwfMxmt7lP6IjV7KPR.jpg",
+     "director": "Pedro Almodóvar",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 575452,
+     "name": "O Traidor",
+     "image_path": "/9pppFwylB63oPpsWFLFQMrQ8dsl.jpg",
+     "director": "Marco Bellocchio",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 575428,
+     "name": "O Lago do Ganso Selvagem",
+     "image_path": "/tgn7hqVbubMqYfjiDjl6LVZ251K.jpg",
+     "director": "Diao Yi'nan",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 522373,
+     "name": "O Jovem Ahmed",
+     "image_path": "/do74km7FUJrwB36sQgMNCiyF2aP.jpg",
+     "director": "Jean-Pierre Dardenne e Luc Dardenne",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 574097,
+     "name": "Roubaix, une lumière",
+     "image_path": "/oXRca3OCNdmNAvComBaSXH6ogZq.jpg",
+     "director": "Arnaud Desplechin",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 519141,
+     "name": "Matthias e Maxime",
+     "image_path": "/AdI0MdA7w5wORB8ETI0ed6wlbx8.jpg",
+     "director": "Xavier Dolan",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 504585,
+     "name": "Little Joe",
+     "image_path": "/q4VMyavCoXxN9U8AONE2YryQDVz.jpg",
+     "director": "Jessica Hausner",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 504588,
+     "name": "Mektoub my love: Intermezzo",
+     "image_path": "/y8DBELlromCQ4ng3ksXfUdb0EyZ.jpg",
+     "director": "",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 522369,
+     "name": "Você Não Estava Aqui",
+     "image_path": "/nnhunzwdEwN4T8eofhqHrzU6iSl.jpg",
+     "director": "Ken Loach",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 586863,
+     "name": "Os Miseráveis",
+     "image_path": "/ywO4oyCfohDvrbU7motFRd2WdqL.jpg",
+     "director": "Ladj Ly",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 403300,
+     "name": "Uma Vida Oculta",
+     "image_path": "/oh5cKQgC54MAu62YCXNHVPiKIoY.jpg",
+     "director": "Terrence Malick",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 446159,
+     "name": "Bacurau",
+     "image_path": "/hu5RpvEdLjJ2sLGkAMzRjoNWbMj.jpg",
+     "director": "Juliano Dornelles",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 504582,
+     "name": "La Gomera - A Ilha dos Assobios",
+     "image_path": "/uRYJqlac3OswbWKrCNSjnup1kMv.jpg",
+     "director": "Corneliu Porumboiu",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 505941,
+     "name": "Frankie",
+     "image_path": "/rwxZvmx8GeY6fYObWJPbkGrPXzx.jpg",
+     "director": "Ira Sachs",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 531428,
+     "name": "Retrato de uma Jovem em Chamas",
+     "image_path": "/5M9tA2TY0nZnrDlWNVCfaFOip6g.jpg",
+     "director": "Céline Sciamma",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 539531,
+     "name": "O Paraíso Deve Ser Aqui",
+     "image_path": "/bSr2Mvf2gIC85oJ2aPfroZ0fejC.jpg",
+     "director": "Elia Suleiman",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 466272,
+     "name": "Era Uma Vez em… Hollywood",
+     "image_path": "/gMEKjlq4JcLR93oAVSD47MSeO9h.jpg",
+     "director": "Quentin Tarantino",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 559401,
+     "name": "Sibyl",
+     "image_path": "/3thduI78JYoavbIFL58ZruTr9to.jpg",
+     "director": "Justine Triet",
+     "winner": false
+    }
+   ]
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Atriz",
+   "nominee_list": [
+    {
+     "type": "person",
+     "id": 130414,
+     "image_path": "/cwBsTcY0FLnVYvRUY6cTutZsfPs.jpg",
+     "name": "Emily Beecham",
+     "winner": true,
+     "movie": {
+      "type": "movie",
+      "id": 504585,
+      "name": "Little Joe",
+      "image_path": "/q4VMyavCoXxN9U8AONE2YryQDVz.jpg",
+      "director": "Jessica Hausner",
+      "winner": false
+     }
+    }
+   ]
+  },
+  {
+   "type": "video",
+   "video_id": "s0Rc8kAucLY",
+   "information": {
+    "contentTitle": "La Palme d'Or est attribuée à Parasite de Bong Joon-Ho - Cannes 2019",
+    "source": "Youtube: Canal <i>CANAL+ Cinema</i>"
+   }
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Ator",
+   "nominee_list": [
+    {
+     "type": "person",
+     "id": 3131,
+     "image_path": "/50GhCzQuaI5Ul01NEyJZloeVP7g.jpg",
+     "name": "Antonio Banderas",
+     "winner": true,
+     "movie": {
+      "type": "movie",
+      "id": 504585,
+      "name": "Little Joe",
+      "image_path": "/q4VMyavCoXxN9U8AONE2YryQDVz.jpg",
+      "director": "Jessica Hausner",
+      "winner": false
+     }
+    }
+   ]
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Roteiro",
+   "nominee_list": [
+    {
+     "type": "movie",
+     "id": 531428,
+     "name": "Retrato de uma Jovem em Chamas",
+     "image_path": "/5M9tA2TY0nZnrDlWNVCfaFOip6g.jpg",
+     "director": "Céline Sciamma",
+     "winner": true
+    },
+    {
+     "type": "movie",
+     "id": 496243,
+     "name": "Parasita",
+     "image_path": "/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg",
+     "director": "Bong Joon-ho",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 535581,
+     "name": "Os Mortos Não Morrem",
+     "image_path": "/uEab4dwlh1VZu8b4kCdXNs36qJZ.jpg",
+     "director": "Jim Jarmusch",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 519010,
+     "name": "Dor e Glória",
+     "image_path": "/bScM0AHRktwfMxmt7lP6IjV7KPR.jpg",
+     "director": "Pedro Almodóvar",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 575452,
+     "name": "O Traidor",
+     "image_path": "/9pppFwylB63oPpsWFLFQMrQ8dsl.jpg",
+     "director": "Marco Bellocchio",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 575428,
+     "name": "O Lago do Ganso Selvagem",
+     "image_path": "/tgn7hqVbubMqYfjiDjl6LVZ251K.jpg",
+     "director": "Diao Yi'nan",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 522373,
+     "name": "O Jovem Ahmed",
+     "image_path": "/do74km7FUJrwB36sQgMNCiyF2aP.jpg",
+     "director": "Jean-Pierre Dardenne e Luc Dardenne",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 574097,
+     "name": "Roubaix, une lumière",
+     "image_path": "/oXRca3OCNdmNAvComBaSXH6ogZq.jpg",
+     "director": "Arnaud Desplechin",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 496967,
+     "name": "Atlantique",
+     "image_path": "/frR4y7647iqEH7uL8Dkhc4eVAMQ.jpg",
+     "director": "Mati Diop",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 519141,
+     "name": "Matthias e Maxime",
+     "image_path": "/AdI0MdA7w5wORB8ETI0ed6wlbx8.jpg",
+     "director": "Xavier Dolan",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 504585,
+     "name": "Little Joe",
+     "image_path": "/q4VMyavCoXxN9U8AONE2YryQDVz.jpg",
+     "director": "Jessica Hausner",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 504588,
+     "name": "Mektoub my love: Intermezzo",
+     "image_path": "/y8DBELlromCQ4ng3ksXfUdb0EyZ.jpg",
+     "director": "",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 522369,
+     "name": "Você Não Estava Aqui",
+     "image_path": "/nnhunzwdEwN4T8eofhqHrzU6iSl.jpg",
+     "director": "Ken Loach",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 586863,
+     "name": "Os Miseráveis",
+     "image_path": "/ywO4oyCfohDvrbU7motFRd2WdqL.jpg",
+     "director": "Ladj Ly",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 403300,
+     "name": "Uma Vida Oculta",
+     "image_path": "/oh5cKQgC54MAu62YCXNHVPiKIoY.jpg",
+     "director": "Terrence Malick",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 446159,
+     "name": "Bacurau",
+     "image_path": "/hu5RpvEdLjJ2sLGkAMzRjoNWbMj.jpg",
+     "director": "Juliano Dornelles",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 504582,
+     "name": "La Gomera - A Ilha dos Assobios",
+     "image_path": "/uRYJqlac3OswbWKrCNSjnup1kMv.jpg",
+     "director": "Corneliu Porumboiu",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 505941,
+     "name": "Frankie",
+     "image_path": "/rwxZvmx8GeY6fYObWJPbkGrPXzx.jpg",
+     "director": "Ira Sachs",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 539531,
+     "name": "O Paraíso Deve Ser Aqui",
+     "image_path": "/bSr2Mvf2gIC85oJ2aPfroZ0fejC.jpg",
+     "director": "Elia Suleiman",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 466272,
+     "name": "Era Uma Vez em… Hollywood",
+     "image_path": "/gMEKjlq4JcLR93oAVSD47MSeO9h.jpg",
+     "director": "Quentin Tarantino",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 559401,
+     "name": "Sibyl",
+     "image_path": "/3thduI78JYoavbIFL58ZruTr9to.jpg",
+     "director": "Justine Triet",
+     "winner": false
+    }
+   ]
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Diretor",
+   "nominee_list": [
+    {
+     "type": "person",
+     "id": 56209,
+     "image_path": "/ahSgr4Jb1xJc5stE1h4sDYckVPN.jpg",
+     "name": "Jean-Pierre Dardenne",
+     "winner": true,
+     "movie": {
+      "type": "movie",
+      "id": 522373,
+      "name": "O Jovem Ahmed",
+      "image_path": "/do74km7FUJrwB36sQgMNCiyF2aP.jpg",
+      "director": "Jean-Pierre Dardenne e Luc Dardenne",
+      "winner": true
+     }
+    }
+   ]
+  },
+  {
+   "type": "video",
+   "video_id": "jACTl84dvaM",
+   "information": {
+    "contentTitle": "ATLANTIQUE - Rang I - Cannes 2019 - VO",
+    "source": "Youtube: Canal <i>Festival de Cannes (Officiel)</i>"
+   }
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Prêmio do Júri",
+   "nominee_list": [
+    {
+     "type": "movie",
+     "id": 586863,
+     "name": "Os Miseráveis",
+     "image_path": "/ywO4oyCfohDvrbU7motFRd2WdqL.jpg",
+     "director": "Ladj Ly",
+     "winner": true
+    },
+    {
+     "type": "movie",
+     "id": 446159,
+     "name": "Bacurau",
+     "image_path": "/hu5RpvEdLjJ2sLGkAMzRjoNWbMj.jpg",
+     "director": "Juliano Dornelles",
+     "winner": true
+    },
+    {
+     "type": "movie",
+     "id": 522373,
+     "name": "O Jovem Ahmed",
+     "image_path": "/do74km7FUJrwB36sQgMNCiyF2aP.jpg",
+     "director": "Jean-Pierre Dardenne e Luc Dardenne",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 531428,
+     "name": "Retrato de uma Jovem em Chamas",
+     "image_path": "/5M9tA2TY0nZnrDlWNVCfaFOip6g.jpg",
+     "director": "Céline Sciamma",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 496243,
+     "name": "Parasita",
+     "image_path": "/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg",
+     "director": "Bong Joon-ho",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 535581,
+     "name": "Os Mortos Não Morrem",
+     "image_path": "/uEab4dwlh1VZu8b4kCdXNs36qJZ.jpg",
+     "director": "Jim Jarmusch",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 519010,
+     "name": "Dor e Glória",
+     "image_path": "/bScM0AHRktwfMxmt7lP6IjV7KPR.jpg",
+     "director": "Pedro Almodóvar",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 575452,
+     "name": "O Traidor",
+     "image_path": "/9pppFwylB63oPpsWFLFQMrQ8dsl.jpg",
+     "director": "Marco Bellocchio",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 575428,
+     "name": "O Lago do Ganso Selvagem",
+     "image_path": "/tgn7hqVbubMqYfjiDjl6LVZ251K.jpg",
+     "director": "Diao Yi'nan",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 574097,
+     "name": "Roubaix, une lumière",
+     "image_path": "/oXRca3OCNdmNAvComBaSXH6ogZq.jpg",
+     "director": "Arnaud Desplechin",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 496967,
+     "name": "Atlantique",
+     "image_path": "/frR4y7647iqEH7uL8Dkhc4eVAMQ.jpg",
+     "director": "Mati Diop",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 519141,
+     "name": "Matthias e Maxime",
+     "image_path": "/AdI0MdA7w5wORB8ETI0ed6wlbx8.jpg",
+     "director": "Xavier Dolan",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 504585,
+     "name": "Little Joe",
+     "image_path": "/q4VMyavCoXxN9U8AONE2YryQDVz.jpg",
+     "director": "Jessica Hausner",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 504588,
+     "name": "Mektoub my love: Intermezzo",
+     "image_path": "/y8DBELlromCQ4ng3ksXfUdb0EyZ.jpg",
+     "director": "",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 522369,
+     "name": "Você Não Estava Aqui",
+     "image_path": "/nnhunzwdEwN4T8eofhqHrzU6iSl.jpg",
+     "director": "Ken Loach",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 403300,
+     "name": "Uma Vida Oculta",
+     "image_path": "/oh5cKQgC54MAu62YCXNHVPiKIoY.jpg",
+     "director": "Terrence Malick",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 504582,
+     "name": "La Gomera - A Ilha dos Assobios",
+     "image_path": "/uRYJqlac3OswbWKrCNSjnup1kMv.jpg",
+     "director": "Corneliu Porumboiu",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 505941,
+     "name": "Frankie",
+     "image_path": "/rwxZvmx8GeY6fYObWJPbkGrPXzx.jpg",
+     "director": "Ira Sachs",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 539531,
+     "name": "O Paraíso Deve Ser Aqui",
+     "image_path": "/bSr2Mvf2gIC85oJ2aPfroZ0fejC.jpg",
+     "director": "Elia Suleiman",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 466272,
+     "name": "Era Uma Vez em… Hollywood",
+     "image_path": "/gMEKjlq4JcLR93oAVSD47MSeO9h.jpg",
+     "director": "Quentin Tarantino",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 559401,
+     "name": "Sibyl",
+     "image_path": "/3thduI78JYoavbIFL58ZruTr9to.jpg",
+     "director": "Justine Triet",
+     "winner": false
+    }
+   ]
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Câmera de Ouro",
+   "nominee_list": [
+    {
+     "type": "movie",
+     "id": 596873,
+     "name": "Nossas Mães",
+     "image_path": "/jcVpBh7qzXfS6StZLezwSBefEqu.jpg",
+     "director": "César Díaz",
+     "winner": true
+    }
+   ]
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Palma de Ouro de Curta-Metragem",
+   "nominee_list": [
+    {
+     "type": "movie",
+     "id": 596280,
+     "name": "The Distance Between Us and the Sky",
+     "image_path": "/vH25VdMLzQ1kg1vWCi79IuIfwec.jpg",
+     "director": "Vasilis Kekatos",
+     "winner": true
+    }
+   ]
+  }
+ ]
+}

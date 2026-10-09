@@ -1,0 +1,936 @@
+{
+ "year": "2020",
+ "content": [
+  {
+   "type": "text",
+   "content_text": "*<i>Não está incluido os prêmios para Televisão</i>."
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Filme de Drama",
+   "nominee_list": [
+    {
+     "type": "movie",
+     "id": 530915,
+     "name": "1917",
+     "image_path": "/8KkyXE7Hd9MPOOkORxkMM6SUXAB.jpg",
+     "director": "Sam Mendes",
+     "winner": true
+    },
+    {
+     "type": "movie",
+     "id": 398978,
+     "name": "O Irlandês",
+     "image_path": "/mFyQRQoUh8InlwmE5fRd9LOBRZ1.jpg",
+     "director": "Martin Scorsese",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 475557,
+     "name": "Coringa",
+     "image_path": "/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
+     "director": "Todd Phillips",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 492188,
+     "name": "História de um Casamento",
+     "image_path": "/LaZ5rwaMvVH20J8O2Nu9uuXGI5.jpg",
+     "director": "Noah Baumbach",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 551332,
+     "name": "Dois Papas",
+     "image_path": "/oOjACi3zgscAFmgzJhNe3aZVhaW.jpg",
+     "director": "Fernando Meirelles",
+     "winner": false
+    }
+   ]
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Filme de Musical ou Comédia",
+   "nominee_list": [
+    {
+     "type": "movie",
+     "id": 466272,
+     "name": "Era Uma Vez em… Hollywood",
+     "image_path": "/gMEKjlq4JcLR93oAVSD47MSeO9h.jpg",
+     "director": "Quentin Tarantino",
+     "winner": true
+    },
+    {
+     "type": "movie",
+     "id": 515001,
+     "name": "Jojo Rabbit",
+     "image_path": "/vC7gB8h8KFTsraAoKsj0haHAljR.jpg",
+     "director": "Taika Waititi",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 546554,
+     "name": "Entre Facas e Segredos",
+     "image_path": "/y9bPnWN7M0SmDvh4Nns0R4Jc2Jn.jpg",
+     "director": "Rian Johnson",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 528888,
+     "name": "Meu Nome É Dolemite",
+     "image_path": "/sZuQkwHEiXxWN3W2Z8cJelKWbRE.jpg",
+     "director": "Craig Brewer",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 504608,
+     "name": "Rocketman",
+     "image_path": "/tCfzNtsMVGYVJNsAEgVCBmuXHYF.jpg",
+     "director": "Dexter Fletcher",
+     "winner": false
+    }
+   ]
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Atriz em Filme de Drama",
+   "nominee_list": [
+    {
+     "type": "person",
+     "id": 9137,
+     "image_path": "/6aSRq8LBE7FULueg9K5JEA3GLTy.jpg",
+     "name": "Renée Zellweger",
+     "winner": true,
+     "movie": {
+      "type": "movie",
+      "id": 491283,
+      "name": "Judy: Muito Além do Arco-Íris",
+      "image_path": "/bbS0KWxQPMTiQ53WooVgCIgEWnc.jpg",
+      "director": "Rupert Goold"
+     }
+    },
+    {
+     "type": "person",
+     "id": 6885,
+     "image_path": "/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg",
+     "name": "Charlize Theron",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 525661,
+      "name": "O Escândalo",
+      "image_path": "/s7DTu2TAOzIcunFtFyqzyYoICiy.jpg",
+      "director": "Jay Roach"
+     }
+    },
+    {
+     "type": "person",
+     "id": 36592,
+     "image_path": "/4plcgNpHArZUTiYqgpQdGw4PZdT.jpg",
+     "name": "Saoirse Ronan",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 331482,
+      "name": "Adoráveis Mulheres",
+      "image_path": "/oXRJlVPJO8GqPPpJwbomQEpAi3N.jpg",
+      "director": "Greta Gerwig",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 1245,
+     "image_path": "/6NsMbJXRlDZuDzatN2akFdGuTvx.jpg",
+     "name": "Scarlett Johansson",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 492188,
+      "name": "História de um Casamento",
+      "image_path": "/LaZ5rwaMvVH20J8O2Nu9uuXGI5.jpg",
+      "director": "Noah Baumbach",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 1765068,
+     "image_path": "/vWLhplaio80fuv5mACLImjstg2v.jpg",
+     "name": "Cynthia Erivo",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 506528,
+      "name": "Harriet",
+      "image_path": "/wFfn2PISJ8u4Ui45kIY6vASEHjq.jpg",
+      "director": "Kasi Lemmons"
+     }
+    }
+   ]
+  },
+  {
+   "type": "video",
+   "video_id": "FZ81wEUSmmk",
+   "information": {
+    "contentTitle": "*FUll SPEECH* Joaquin Phoenix Won ''Best Actor Drama'' Joker | Golden Globe Awards 2020",
+    "source": "Youtube: Canal <i>MeMe Ape</i>"
+   }
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Ator em Filme de Drama",
+   "nominee_list": [
+    {
+     "type": "person",
+     "id": 73421,
+     "image_path": "/nXMzvVF6xR3OXOedozfOcoA20xh.jpg",
+     "name": "Joaquin Phoenix",
+     "winner": true,
+     "movie": {
+      "type": "movie",
+      "id": 475557,
+      "name": "Coringa",
+      "image_path": "/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
+      "director": "Todd Phillips"
+     }
+    },
+    {
+     "type": "person",
+     "id": 3131,
+     "image_path": "/50GhCzQuaI5Ul01NEyJZloeVP7g.jpg",
+     "name": "Antonio Banderas",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 519010,
+      "name": "Dor e Glória",
+      "image_path": "/bScM0AHRktwfMxmt7lP6IjV7KPR.jpg",
+      "director": "Pedro Almodóvar"
+     }
+    },
+    {
+     "type": "person",
+     "id": 1023139,
+     "image_path": "/fsbGQ1eZFgdsG1XnKlhNSvHsiGo.jpg",
+     "name": "Adam Driver",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 492188,
+      "name": "História de um Casamento",
+      "image_path": "/LaZ5rwaMvVH20J8O2Nu9uuXGI5.jpg",
+      "director": "Noah Baumbach",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 378,
+     "image_path": "/zwSv5uXzPTtmitFe39UdqnVwmdL.jpg",
+     "name": "Jonathan Price",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 551332,
+      "name": "Dois Papas",
+      "image_path": "/oOjACi3zgscAFmgzJhNe3aZVhaW.jpg",
+      "director": "Fernando Meirelles"
+     }
+    },
+    {
+     "type": "person",
+     "id": 3894,
+     "image_path": "/b7fTC9WFkgqGOv77mLQtmD4Bwjx.jpg",
+     "name": "Christian Bale",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 359724,
+      "name": "Ford vs Ferrari",
+      "image_path": "/4hQD9xGJOh7e0h3Md6BB8oxtPQS.jpg",
+      "director": "James Mangold",
+      "winner": false
+     }
+    }
+   ]
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Atriz em Musical ou Comédia",
+   "nominee_list": [
+    {
+     "type": "person",
+     "id": 1625558,
+     "image_path": "/l5AKkg3H1QhMuXmTTmq1EyjyiRb.jpg",
+     "name": "Awkwafina",
+     "winner": true,
+     "movie": {
+      "type": "movie",
+      "id": 565310,
+      "name": "A Despedida",
+      "image_path": "/amN2lqOuP1nOQB73JWChq9BsBFI.jpg",
+      "director": "Lulu Wang",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 224513,
+     "image_path": "/8F6ziFZaK71L3rFeDIc4aAkPZPv.jpg",
+     "name": "Ana de Armas",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 546554,
+      "name": "Entre Facas e Segredos",
+      "image_path": "/y9bPnWN7M0SmDvh4Nns0R4Jc2Jn.jpg",
+      "director": "Rian Johnson",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 112,
+     "image_path": "/9V83uemR0ra9Wd9iRXTMlfAQlTB.jpg",
+     "name": "Cate Blanchett",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 405177,
+      "name": "Cadê Você, Bernadette?",
+      "image_path": "/nOd9MCJ3nITyiYslZ3rFEnQ9lPf.jpg",
+      "director": "Richard Linklater",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 481337,
+     "image_path": "/zeqMJb6TcxIEUhgjDigse5WD2a1.jpg",
+     "name": "Beanie Feldstein",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 505600,
+      "name": "Fora de Série",
+      "image_path": "/yfIAkRcPUbbfSGR2JOuUppAAMLV.jpg",
+      "director": "Olivia Wilde",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 7056,
+     "image_path": "/odPswHsSsed56uHeVWmABKKlXlX.jpg",
+     "name": "Emma Thompson",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 523172,
+      "name": "Talk-Show: Reinventando a Comédia",
+      "image_path": "/xxwb5KBqS0SHsUcyLgWMk3vuVxY.jpg",
+      "director": "Nisha Ganatra",
+      "winner": false
+     }
+    }
+   ]
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Ator em Musical ou Comédia",
+   "nominee_list": [
+    {
+     "type": "person",
+     "id": 1303037,
+     "image_path": "/hHEgQFENXD43ZFwLNWsRpPWPzrs.jpg",
+     "name": "Taron Egerton",
+     "winner": true,
+     "movie": {
+      "type": "movie",
+      "id": 504608,
+      "name": "Rocketman",
+      "image_path": "/tCfzNtsMVGYVJNsAEgVCBmuXHYF.jpg",
+      "director": "Dexter Fletcher",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 6193,
+     "image_path": "/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg",
+     "name": "Leonardo DiCaprio",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 466272,
+      "name": "Era Uma Vez em… Hollywood",
+      "image_path": "/gMEKjlq4JcLR93oAVSD47MSeO9h.jpg",
+      "director": "Quentin Tarantino",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 8784,
+     "image_path": "/iFerDZUmC5Fu26i4qI8xnUVEHc7.jpg",
+     "name": "Daniel Craig",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 546554,
+      "name": "Entre Facas e Segredos",
+      "image_path": "/y9bPnWN7M0SmDvh4Nns0R4Jc2Jn.jpg",
+      "director": "Rian Johnson",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 2054851,
+     "image_path": "/o7mknrGRU5VNpZloN1jESAHCOn7.jpg",
+     "name": "Roman Griffin Davis",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 515001,
+      "name": "Jojo Rabbit",
+      "image_path": "/vC7gB8h8KFTsraAoKsj0haHAljR.jpg",
+      "director": "Taika Waititi",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 776,
+     "image_path": "/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg",
+     "name": "Eddie Murphy",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 528888,
+      "name": "Meu Nome É Dolemite",
+      "image_path": "/sZuQkwHEiXxWN3W2Z8cJelKWbRE.jpg",
+      "director": "Craig Brewer",
+      "winner": false
+     }
+    }
+   ]
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Atriz Coadjuvante",
+   "nominee_list": [
+    {
+     "type": "person",
+     "id": 4784,
+     "image_path": "/2Ryt0SsExqWrLTzBu6sZcbLwoDJ.jpg",
+     "name": "Laura Dern",
+     "winner": true,
+     "movie": {
+      "type": "movie",
+      "id": 492188,
+      "name": "História de um Casamento",
+      "image_path": "/LaZ5rwaMvVH20J8O2Nu9uuXGI5.jpg",
+      "director": "Noah Baumbach",
+      "winner": true
+     }
+    },
+    {
+     "type": "person",
+     "id": 8534,
+     "image_path": "/3MsayDvY73uXGVbCFHyy1ABTacV.jpg",
+     "name": "Kathy Bates",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 292011,
+      "name": "O Caso Richard Jewell",
+      "image_path": "/koGknmSPrlDxzb5hvqn7CT5Uqt.jpg",
+      "director": "Clint Eastwood",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 234352,
+     "image_path": "/ecv9SBN9m1cEZFfSopph6wf8fk.jpg",
+     "name": "Margot Robbie",
+     "winner": true,
+     "movie": {
+      "type": "movie",
+      "id": 525661,
+      "name": "O Escândalo",
+      "image_path": "/s7DTu2TAOzIcunFtFyqzyYoICiy.jpg",
+      "director": "Jay Roach"
+     }
+    },
+    {
+     "type": "person",
+     "id": 16866,
+     "image_path": "/pUL1vDXRmQWLyLVOpSiAyYIqgSJ.jpg",
+     "name": "Jennifer Lopez",
+     "winner": true,
+     "movie": {
+      "type": "movie",
+      "id": 540901,
+      "name": "As Golpistas",
+      "image_path": "/kbgjEUhsCtb9cNM5sXY5mtItgtW.jpg",
+      "director": "Lorene Scafaria"
+     }
+    },
+    {
+     "type": "person",
+     "id": 516,
+     "image_path": "/vVAvoiE6FQ4couqaB0ogaHR6Ef7.jpg",
+     "name": "Annette Bening",
+     "winner": true,
+     "movie": {
+      "type": "movie",
+      "id": 524348,
+      "name": "O Relatório",
+      "image_path": "/tsuqhTUPTrU4AArT65XnhenAATY.jpg",
+      "director": "Scott Z. Burns"
+     }
+    }
+   ]
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Ator Coadjuvante",
+   "nominee_list": [
+    {
+     "type": "person",
+     "id": 287,
+     "image_path": "/cckcYc2v0yh1tc9QjRelptcOBko.jpg",
+     "name": "Brad Pitt",
+     "winner": true,
+     "movie": {
+      "type": "movie",
+      "id": 466272,
+      "name": "Era Uma Vez em… Hollywood",
+      "image_path": "/gMEKjlq4JcLR93oAVSD47MSeO9h.jpg",
+      "director": "Quentin Tarantino",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 4173,
+     "image_path": "/9ukJS2QWTJ22HcwR1ktMmoJ6RSL.jpg",
+     "name": "Anthony Hopkins",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 551332,
+      "name": "Dois Papas",
+      "image_path": "/oOjACi3zgscAFmgzJhNe3aZVhaW.jpg",
+      "director": "Fernando Meirelles"
+     }
+    },
+    {
+     "type": "person",
+     "id": 4517,
+     "image_path": "/iX8b8KL8cezzxw1FnH978h9ob48.jpg",
+     "name": "Joe Pesci",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 398978,
+      "name": "O Irlandês",
+      "image_path": "/mFyQRQoUh8InlwmE5fRd9LOBRZ1.jpg",
+      "director": "Martin Scorsese",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 1158,
+     "image_path": "/fMDFeVf0pjopTJbyRSLFwNDm8Wr.jpg",
+     "name": "Al Pacino",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 398978,
+      "name": "O Irlandês",
+      "image_path": "/mFyQRQoUh8InlwmE5fRd9LOBRZ1.jpg",
+      "director": "Martin Scorsese",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 31,
+     "image_path": "/tAyAXPLnR9Sgi7x2lMV4PUPitai.jpg",
+     "name": "Tom Hanks",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 501907,
+      "name": "Um Lindo Dia na Vizinhança ",
+      "image_path": "/qenbW0aWvW8bxNb0XVDPeIUwFVu.jpg",
+      "director": "Marielle Heller",
+      "winner": true
+     }
+    }
+   ]
+  },
+  {
+   "type": "video",
+   "video_id": "kB-UNLQn9gk",
+   "information": {
+    "contentTitle": "All The EMOTIONAL Moments Of The 2020 Golden Globe Awards",
+    "source": "Youtube: Canal <i>Clevver News</i>"
+   }
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Direção",
+   "nominee_list": [
+    {
+     "type": "person",
+     "id": 39,
+     "image_path": "/5z89X9rB76JDblqMQ52fviwXxAN.jpg",
+     "name": "Sam Mendes",
+     "winner": true,
+     "movie": {
+      "type": "movie",
+      "id": 530915,
+      "name": "1917",
+      "image_path": "/8KkyXE7Hd9MPOOkORxkMM6SUXAB.jpg",
+      "director": "Sam Mendes",
+      "winner": true
+     }
+    },
+    {
+     "type": "person",
+     "id": 21684,
+     "image_path": "/tKLJBqbdH6HFj2QxLA5o8Zk7IVs.jpg",
+     "name": "Bong Joon-ho",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 496243,
+      "name": "Parasita",
+      "image_path": "/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg",
+      "director": "Bong Joon-ho",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 1032,
+     "image_path": "/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg",
+     "name": "Martin Scorsese",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 398978,
+      "name": "O Irlandês",
+      "image_path": "/mFyQRQoUh8InlwmE5fRd9LOBRZ1.jpg",
+      "director": "Martin Scorsese",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 57130,
+     "image_path": "/A6FPht87DiqXzp456WjakLi2AtP.jpg",
+     "name": "Todd Phillips",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 475557,
+      "name": "Coringa",
+      "image_path": "/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
+      "director": "Todd Phillips",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 138,
+     "image_path": "/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg",
+     "name": "Quentin Tarantino",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 466272,
+      "name": "Era Uma Vez em… Hollywood",
+      "image_path": "/gMEKjlq4JcLR93oAVSD47MSeO9h.jpg",
+      "director": "Quentin Tarantino",
+      "winner": false
+     }
+    }
+   ]
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Roteiro",
+   "nominee_list": [
+    {
+     "type": "person",
+     "id": 138,
+     "image_path": "/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg",
+     "name": "Quentin Tarantino",
+     "winner": true,
+     "movie": {
+      "type": "movie",
+      "id": 466272,
+      "name": "Era Uma Vez em… Hollywood",
+      "image_path": "/gMEKjlq4JcLR93oAVSD47MSeO9h.jpg",
+      "director": "Quentin Tarantino",
+      "winner": true
+     }
+    },
+    {
+     "type": "person",
+     "id": 21684,
+     "image_path": "/tKLJBqbdH6HFj2QxLA5o8Zk7IVs.jpg",
+     "name": "Bong Joon Ho e Han Jin Won",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 496243,
+      "name": "Parasita",
+      "image_path": "/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg",
+      "director": "Bong Joon-ho",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 5656,
+     "image_path": "/pNCt2m8jfiX3YOiCdnJT3OPxNvm.jpg",
+     "name": "Noah Baumbach",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 492188,
+      "name": "História de um Casamento",
+      "image_path": "/LaZ5rwaMvVH20J8O2Nu9uuXGI5.jpg",
+      "director": "Noah Baumbach",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 1041394,
+     "image_path": "/sFiLWfBL5TIDc20De856Ww1NWIY.jpg",
+     "name": "Anthony McCarten",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 551332,
+      "name": "Dois Papas",
+      "image_path": "/oOjACi3zgscAFmgzJhNe3aZVhaW.jpg",
+      "director": "Fernando Meirelles"
+     }
+    },
+    {
+     "type": "person",
+     "id": 2260,
+     "image_path": "/3V8X2EnjzqdrUagdnjTgKi213AJ.jpg",
+     "name": "Steven Zaillian",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 398978,
+      "name": "O Irlandês",
+      "image_path": "/mFyQRQoUh8InlwmE5fRd9LOBRZ1.jpg",
+      "director": "Martin Scorsese",
+      "winner": false
+     }
+    }
+   ]
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Filme Animado",
+   "nominee_list": [
+    {
+     "type": "movie",
+     "id": 458253,
+     "name": "Link Perdido",
+     "image_path": "/f4yoHMsJsCt9UNmxa6LR3Vjl2z4.jpg",
+     "director": "Chris Butler",
+     "winner": true
+    },
+    {
+     "type": "movie",
+     "id": 301528,
+     "name": "Toy Story 4",
+     "image_path": "/AkrRD3Lnwb82Stu2SpDKAerK6O2.jpg",
+     "director": "Josh Cooley",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 166428,
+     "name": "Como Treinar Seu Dragão 3",
+     "image_path": "/5uqxMHM7YLKk6yni4bOE0D6DVz8.jpg",
+     "director": "Dean DeBlois",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 330457,
+     "name": "Frozen II",
+     "image_path": "/g6n7TdQSgozArIM0okXTjjCM9Np.jpg",
+     "director": "Jennifer Lee",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 420818,
+     "name": "O Rei Leão",
+     "image_path": "/devZdyPRXMiN8HHiX7Y8s0LLEee.jpg",
+     "director": "Jon Favreau",
+     "winner": false
+    }
+   ]
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Filme em Língua Estrangeira",
+   "nominee_list": [
+    {
+     "type": "movie",
+     "id": 496243,
+     "name": "Parasita",
+     "image_path": "/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg",
+     "director": "Bong Joon-ho",
+     "winner": true
+    },
+    {
+     "type": "movie",
+     "id": 519010,
+     "name": "Dor e Glória",
+     "image_path": "/bScM0AHRktwfMxmt7lP6IjV7KPR.jpg",
+     "director": "Pedro Almodóvar",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 586863,
+     "name": "Os Miseráveis",
+     "image_path": "/ywO4oyCfohDvrbU7motFRd2WdqL.jpg",
+     "director": "Ladj Ly",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 565310,
+     "name": "A Despedida",
+     "image_path": "/amN2lqOuP1nOQB73JWChq9BsBFI.jpg",
+     "director": "Lulu Wang",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 531428,
+     "name": "ARetrato de Uma Jovem em Chamas",
+     "image_path": "/5M9tA2TY0nZnrDlWNVCfaFOip6g.jpg",
+     "director": "Céline Sciamma",
+     "winner": false
+    }
+   ]
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Trilha Sonora Original",
+   "nominee_list": [
+    {
+     "type": "movie",
+     "id": 475557,
+     "name": "Coringa",
+     "image_path": "/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg",
+     "director": "Todd Phillips",
+     "winner": true
+    },
+    {
+     "type": "movie",
+     "id": 331482,
+     "name": "Adoráveis Mulheres",
+     "image_path": "/oXRJlVPJO8GqPPpJwbomQEpAi3N.jpg",
+     "director": "Greta Gerwig",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 492188,
+     "name": "História de um Casamento",
+     "image_path": "/LaZ5rwaMvVH20J8O2Nu9uuXGI5.jpg",
+     "director": "Noah Baumbach",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 530915,
+     "name": "1917",
+     "image_path": "/8KkyXE7Hd9MPOOkORxkMM6SUXAB.jpg",
+     "director": "Sam Mendes",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 504562,
+     "name": "Brooklyn - Sem Pai Nem Mãe ",
+     "image_path": "/ph6BDYj1EK7U8Bs7WmRzr7iRyem.jpg",
+     "director": "Edward Norton",
+     "winner": false
+    }
+   ]
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Canção Original",
+   "nominee_list": [
+    {
+     "type": "movie",
+     "id": 504608,
+     "name": "Rocketman",
+     "image_path": "/tCfzNtsMVGYVJNsAEgVCBmuXHYF.jpg",
+     "director": "I'm Gonna Love Me Again",
+     "winner": true
+    },
+    {
+     "type": "movie",
+     "id": 330457,
+     "name": "Frozen II",
+     "image_path": "/g6n7TdQSgozArIM0okXTjjCM9Np.jpg",
+     "director": "Into the Unknown",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 420818,
+     "name": "O Rei Leão",
+     "image_path": "/devZdyPRXMiN8HHiX7Y8s0LLEee.jpg",
+     "director": "Spirit",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 506528,
+     "name": "Harriet",
+     "image_path": "/wFfn2PISJ8u4Ui45kIY6vASEHjq.jpg",
+     "director": "Stand Up"
+    },
+    {
+     "type": "movie",
+     "id": 536869,
+     "name": "Cats",
+     "image_path": "/5XIZDh3n6BZAy00PqXpK1D16tZg.jpg",
+     "director": "Beautiful Ghosts"
+    }
+   ]
+  }
+ ]
+}
