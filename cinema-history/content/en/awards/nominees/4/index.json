@@ -4,10 +4,10 @@
     "categories": 23,
     "nominees": 142,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 1054867,
-      "name": "Uma Batalha Após a Outra",
+      "name": "One Battle After Another",
       "image_path": "/2peYXW6CoruehDnKJGMjl2NuaNB.jpg",
       "director": "Paul Thomas Anderson",
       "backdrop_path": "/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg"
@@ -18,7 +18,7 @@
     "categories": 21,
     "nominees": 131,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 1064213,
       "name": "Anora",
@@ -32,7 +32,7 @@
     "categories": 21,
     "nominees": 130,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 872585,
       "name": "Oppenheimer",
@@ -46,10 +46,10 @@
     "categories": 21,
     "nominees": 132,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 545611,
-      "name": "Tudo em Todo o Lugar ao Mesmo Tempo",
+      "name": "Everything Everywhere All at Once",
       "image_path": "/2dSZQGwijlXvMSyuGe0FSgrXnv0.jpg",
       "director": "Daniel Scheinert, Daniel Kwan",
       "backdrop_path": "/fIwiFha3WPu5nHkBeMQ4GzEk0Hv.jpg"
@@ -60,10 +60,10 @@
     "categories": 21,
     "nominees": 118,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 600583,
-      "name": "Ataque dos Cães",
+      "name": "The Power of the Dog",
       "image_path": "/rgDJDLFKOKF0dpbaVwgbvjbyZgM.jpg",
       "director": "Jane Campion",
       "backdrop_path": "/gAsHuCQMN7mv4uFIvM4ACQ09hPr.jpg"
@@ -74,7 +74,7 @@
     "categories": 20,
     "nominees": 130,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 581734,
       "name": "Nomadland",
@@ -88,10 +88,10 @@
     "categories": 23,
     "nominees": 143,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 466272,
-      "name": "Era Uma Vez em… Hollywood",
+      "name": "Once Upon a Time... in Hollywood",
       "image_path": "/gMEKjlq4JcLR93oAVSD47MSeO9h.jpg",
       "director": "Quentin Tarantino",
       "backdrop_path": "/kKTPv9LKKs5L3oO1y5FNObxAPWI.jpg"
@@ -102,7 +102,7 @@
     "categories": 23,
     "nominees": 140,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 426426,
       "name": "Roma",
@@ -116,10 +116,10 @@
     "categories": 26,
     "nominees": 143,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 399055,
-      "name": "A Forma da Água",
+      "name": "The Shape of Water",
       "image_path": "/hHPFq7myTjAVH6CwQjamAuUqhrr.jpg",
       "director": "Guillermo del Toro",
       "backdrop_path": "/abirSHwWgKajV3hXhaIR5lcCIXe.jpg"
@@ -130,10 +130,10 @@
     "categories": 28,
     "nominees": 156,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 313369,
-      "name": "La La Land: Cantando Estações",
+      "name": "La La Land",
       "image_path": "/AvMietG6xuobpSSdmVnKuTjv4bL.jpg",
       "director": "Damien Chazelle",
       "backdrop_path": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg"
@@ -144,10 +144,10 @@
     "categories": 30,
     "nominees": 160,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 314365,
-      "name": "Spotlight: Segredos Revelados",
+      "name": "Spotlight",
       "image_path": "/wHNzfrfK8M4WIq3XDUqAFdKKY5Z.jpg",
       "director": "Tom McCarthy",
       "backdrop_path": "/8FbbcmwmpGd7brfiC7f7lWFNGdi.jpg"
@@ -158,10 +158,10 @@
     "categories": 31,
     "nominees": 160,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 85350,
-      "name": "Boyhood: Da Infância à Juventude",
+      "name": "Boyhood",
       "image_path": "/rr1rlDZXOeLqtYMEC6xEunxqsD3.jpg",
       "director": "Richard Linklater",
       "backdrop_path": "/Ac2s9RJEi1ZeaQopoLsqlsmWQmx.jpg"
@@ -172,10 +172,10 @@
     "categories": 30,
     "nominees": 155,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 76203,
-      "name": "12 Anos de Escravidão",
+      "name": "12 Years a Slave",
       "image_path": "/o5t8fqcNDyfojYwwlECZEgyD96T.jpg",
       "director": "Steve McQueen",
       "backdrop_path": "/4Bb1kMIfrT2tYRZ9M6Jhqy6gkeF.jpg"
@@ -186,7 +186,7 @@
     "categories": 30,
     "nominees": 161,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 68734,
       "name": "Argo",
@@ -200,10 +200,10 @@
     "categories": 26,
     "nominees": 134,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 74643,
-      "name": "O Artista",
+      "name": "The Artist",
       "image_path": "/sVBZ45hWFuzZtQc57TUf323R4VF.jpg",
       "director": "Michel Hazanavicius",
       "backdrop_path": "/bYimqNnizPUCnL5HOdoCW02IGmH.jpg"
@@ -214,10 +214,10 @@
     "categories": 26,
     "nominees": 131,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 37799,
-      "name": "A Rede Social",
+      "name": "The Social Network",
       "image_path": "/3FULGtzNuDSYkc4Ndopn21UC3M9.jpg",
       "director": "David Fincher",
       "backdrop_path": "/1PXwh3nJzgRkkYnqfWInJNypeL4.jpg"
@@ -228,10 +228,10 @@
     "categories": 25,
     "nominees": 132,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 12162,
-      "name": "Guerra ao Terror",
+      "name": "The Hurt Locker",
       "image_path": "/jZs35NbWncIuB06sMmf6ayH026g.jpg",
       "director": "Kathryn Bigelow",
       "backdrop_path": "/off0xgvtfHY82l3MC4mDpCk1APY.jpg"
@@ -242,10 +242,10 @@
     "categories": 17,
     "nominees": 92,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 12405,
-      "name": "Quem Quer Ser um Milionário?",
+      "name": "Slumdog Millionaire",
       "image_path": "/timJSy64zR0BM2xhkXwIyvDG6MM.jpg",
       "director": "Danny Boyle",
       "backdrop_path": "/1wZoVT9RJsZmNjg8CecXqSgFUd9.jpg"
@@ -256,10 +256,10 @@
     "categories": 18,
     "nominees": 97,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 6977,
-      "name": "Onde os Fracos Não Têm Vez",
+      "name": "No Country for Old Men",
       "image_path": "/jdlY8Bhcb4Qzfldr1JaexYBgyW3.jpg",
       "director": "Joel Coen, Ethan Coen",
       "backdrop_path": "/gddUsvfyySrM5k8B8wwJy2VRlBx.jpg"
@@ -270,10 +270,10 @@
     "categories": 18,
     "nominees": 103,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 1422,
-      "name": "Os Infiltrados",
+      "name": "The Departed",
       "image_path": "/qtnAwzDapzOML4Q9p7lv2bk5gvz.jpg",
       "director": "Martin Scorsese",
       "backdrop_path": "/6WRrGYalXXveItfpnipYdayFkQB.jpg"
@@ -284,10 +284,10 @@
     "categories": 20,
     "nominees": 100,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 142,
-      "name": "O Segredo de Brokeback Mountain",
+      "name": "Brokeback Mountain",
       "image_path": "/qZ7fvWbPABjdU8JciIS9f9jCRCb.jpg",
       "director": "Ang Lee",
       "backdrop_path": "/vXzqV2RtJlT9WhNEM4NYWCEC6ZI.jpg"
@@ -298,10 +298,10 @@
     "categories": 19,
     "nominees": 90,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 9675,
-      "name": "Sideways: Entre Umas e Outras",
+      "name": "Sideways",
       "image_path": "/5k63nkN5mMGCBqRvrVaF7CpMUcK.jpg",
       "director": "Alexander Payne",
       "backdrop_path": "/zmuRxro8AxPDjACjXTIIDCUNwDl.jpg"
@@ -312,10 +312,10 @@
     "categories": 17,
     "nominees": 75,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 122,
-      "name": "O Senhor dos Anéis: O Retorno do Rei",
+      "name": "The Lord of the Rings: The Return of the King",
       "image_path": "/rU4oIKv5I4C59DpcXKmT7kNwGI0.jpg",
       "director": "Peter Jackson",
       "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg"
@@ -326,7 +326,7 @@
     "categories": 17,
     "nominees": 58,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 1574,
       "name": "Chicago",
@@ -340,10 +340,10 @@
     "categories": 15,
     "nominees": 52,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 453,
-      "name": "Uma Mente Brilhante",
+      "name": "A Beautiful Mind",
       "image_path": "/8K5W9QnNT7r1V9GuJ5z5KlrROkd.jpg",
       "director": "Ron Howard",
       "backdrop_path": "/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg"
@@ -354,10 +354,10 @@
     "categories": 19,
     "nominees": 30,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 98,
-      "name": "Gladiador",
+      "name": "Gladiator",
       "image_path": "/4DUClyGA6OqjXv6yC0Imf6THGfp.jpg",
       "director": "Ridley Scott",
       "backdrop_path": "/Ar7QuJ7sJEiC0oP3I8fKBKIQD9u.jpg"
@@ -368,10 +368,10 @@
     "categories": 16,
     "nominees": 25,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 14,
-      "name": "Beleza Americana",
+      "name": "American Beauty",
       "image_path": "/9PJKsH7Btz2xjYIvLLtJ7qcJlL3.jpg",
       "director": "Sam Mendes",
       "backdrop_path": "/2ndw55F40IkALzWyjCCza3M6nqM.jpg"
@@ -382,10 +382,10 @@
     "categories": 17,
     "nominees": 28,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 857,
-      "name": "O Resgate do Soldado Ryan",
+      "name": "Saving Private Ryan",
       "image_path": "/hMLxNLCXRDd62acfCBn6mIyW1HU.jpg",
       "director": "Steven Spielberg",
       "backdrop_path": "/bdD39MpSVhKjxarTxLSfX6baoMP.jpg"
@@ -396,10 +396,10 @@
     "categories": 14,
     "nominees": 23,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 2118,
-      "name": "Los Angeles: Cidade Proibida",
+      "name": "L.A. Confidential",
       "image_path": "/sQPznDV3qpEIh7qenP0Jo9OlORX.jpg",
       "director": "Curtis Hanson",
       "backdrop_path": "/hUn13Hom8OWMYpR1ay0diwswwdP.jpg"
@@ -410,10 +410,10 @@
     "categories": 13,
     "nominees": 22,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 275,
-      "name": "Fargo: Uma Comédia de Erros",
+      "name": "Fargo",
       "image_path": "/JrnxuijI6XCKyZaiPPrJ3TbZi.jpg",
       "director": "Joel Coen",
       "backdrop_path": "/747dgDfL5d8esobk7h4odaOFhUq.jpg"
@@ -424,10 +424,10 @@
     "categories": 10,
     "nominees": 11,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 4584,
-      "name": "Razão e Sensibilidade",
+      "name": "Sense and Sensibility",
       "image_path": "/avfV8Se2eTfmFAZf0aAPOdq2WcV.jpg",
       "director": "Ang Lee",
       "backdrop_path": "/cFnyfWHL6HjOOVal6lp8e5gqibK.jpg"

@@ -4,7 +4,7 @@
     "categories": 9,
     "nominees": 33,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 1401459,
       "name": "Fjord",
@@ -18,10 +18,10 @@
     "categories": 10,
     "nominees": 32,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 1456349,
-      "name": "Foi Apenas um Acidente",
+      "name": "It Was Just an Accident",
       "image_path": "/tNRnqTcrbJQQd4MfthlPXoY4FNC.jpg",
       "director": "Jafar Panahi",
       "backdrop_path": "/zhoMwQofjgVec5Sin05hWECJtVQ.jpg"
@@ -32,7 +32,7 @@
     "categories": 10,
     "nominees": 34,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 1064213,
       "name": "Anora",
@@ -46,10 +46,10 @@
     "categories": 9,
     "nominees": 29,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 915935,
-      "name": "Anatomia de uma Queda",
+      "name": "Anatomy of a Fall",
       "image_path": "/woXYl0DJTx6TsfYWPkSfNHTsoOx.jpg",
       "director": "Justine Triet",
       "backdrop_path": "/lDVl2jf6VB8ODl1olZ6FLvOV1gX.jpg"
@@ -60,10 +60,10 @@
     "categories": 10,
     "nominees": 32,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 497828,
-      "name": "Triângulo da Tristeza",
+      "name": "Triangle of Sadness",
       "image_path": "/scfQwUUe0MQb0T5khF1x5e4HSoR.jpg",
       "director": "Ruben Östlund",
       "backdrop_path": "/vNPY4oCSUp7CxbHkKJNRx1fmCl0.jpg"
@@ -74,7 +74,7 @@
     "categories": 9,
     "nominees": 34,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 630240,
       "name": "Titane",
@@ -88,10 +88,10 @@
     "categories": 9,
     "nominees": 89,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 496243,
-      "name": "Parasita",
+      "name": "Parasite",
       "image_path": "/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg",
       "director": "Bong Joon-ho",
       "backdrop_path": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg"
@@ -102,10 +102,10 @@
     "categories": 10,
     "nominees": 31,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 505192,
-      "name": "Assunto de Família",
+      "name": "Shoplifters",
       "image_path": "/wnRMlvc0QQGdiHbdFz8hfZfi8Wz.jpg",
       "director": "Hirokazu Kore-eda",
       "backdrop_path": "/dVRkhmtDn3EiyhX6c9SfL7klCoU.jpg"
@@ -116,10 +116,10 @@
     "categories": 11,
     "nominees": 30,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 401246,
-      "name": "The Square: A Arte da Discórdia",
+      "name": "The Square",
       "image_path": "/wMqVrl7WkmI3Ik5PQDFpUqpDhLW.jpg",
       "director": "Ruben Östlund",
       "backdrop_path": "/bYZM4DoHrmzY3oq2qrcXAYQmLNp.jpg"
@@ -130,10 +130,10 @@
     "categories": 10,
     "nominees": 31,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 374473,
-      "name": "Eu, Daniel Blake",
+      "name": "I, Daniel Blake",
       "image_path": "/L5QbyBq8OhKoT566MzJ03J9n6M.jpg",
       "director": "Ken Loach",
       "backdrop_path": "/mNLonkdD4MtaZnHTifp8be8nJrm.jpg"
@@ -144,10 +144,10 @@
     "categories": 10,
     "nominees": 29,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 314402,
-      "name": "Dheepan: O Refúgio",
+      "name": "Dheepan",
       "image_path": "/tYFW1hzhVwz0HGjFerAVyzcJQZJ.jpg",
       "director": "Jacques Audiard",
       "backdrop_path": "/yTPqQuNglLEOMSZfRQzp7gxB8IQ.jpg"
@@ -158,10 +158,10 @@
     "categories": 9,
     "nominees": 27,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 265169,
-      "name": "Sono de Inverno",
+      "name": "Winter Sleep",
       "image_path": "/oxQHnXNneOrSrmedSFyvPqdZsmQ.jpg",
       "director": "Nuri Bilge Ceylan",
       "backdrop_path": "/4JuoO0XywrCDeHLy4kTB9FU5U2C.jpg"
@@ -172,10 +172,10 @@
     "categories": 9,
     "nominees": 28,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 152584,
-      "name": "Azul É A Cor Mais Quente",
+      "name": "Blue Is the Warmest Color",
       "image_path": "/ao3vG9cD1pORpQu6I7KmOiqHIrA.jpg",
       "director": "Abdellatif Kechiche",
       "backdrop_path": "/bEmPrq7Y4MubVATOCtOacY3eXQ5.jpg"
@@ -186,10 +186,10 @@
     "categories": 9,
     "nominees": 31,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 86837,
-      "name": "Amor",
+      "name": "Amour",
       "image_path": "/obCBsX3PIqCckibGraeJRMubDYX.jpg",
       "director": "Michael Haneke",
       "backdrop_path": "/w7Z4BVMin49voNN61IUWyN9DopV.jpg"
@@ -200,10 +200,10 @@
     "categories": 9,
     "nominees": 29,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 8967,
-      "name": "A Árvore da Vida",
+      "name": "The Tree of Life",
       "image_path": "/iDt5nvv2TdZsFFuF5JvnEZr6RGB.jpg",
       "director": "Terrence Malick",
       "backdrop_path": "/xq1HIwZq9VbuvMQELAua1nqEkH.jpg"
@@ -214,10 +214,10 @@
     "categories": 9,
     "nominees": 28,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 38368,
-      "name": "Tio Boonmee, que Pode Recordar Suas Vidas Passadas",
+      "name": "Uncle Boonmee Who Can Recall His Past Lives",
       "image_path": "/9XeIVAvmMXyhUtTQoSjRGQt2EjY.jpg",
       "director": "Apichatpong Weerasethakul",
       "backdrop_path": "/sraqqxwStjlhe82vb0mGx3VuHsD.jpg"
@@ -228,10 +228,10 @@
     "categories": 11,
     "nominees": 31,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 37903,
-      "name": "A Fita Branca",
+      "name": "The White Ribbon",
       "image_path": "/cL3WiwKKfhckkKdHyAIMFmxJtCp.jpg",
       "director": "Michael Haneke",
       "backdrop_path": "/9Cxi5RQzYAlkNI5FROWkoKgiNkJ.jpg"
@@ -242,10 +242,10 @@
     "categories": 10,
     "nominees": 32,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 8841,
-      "name": "Entre os Muros da Escola",
+      "name": "The Class",
       "image_path": "/15y3OhcAorTOmw8O8fyZAIK0iuY.jpg",
       "director": "Laurent Cantet",
       "backdrop_path": "/vGtICaExlrMmQwMPlzt6HLiRKV1.jpg"
@@ -256,10 +256,10 @@
     "categories": 10,
     "nominees": 32,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 2009,
-      "name": "4 Meses, 3 Semanas e 2 Dias",
+      "name": "4 Months, 3 Weeks and 2 Days",
       "image_path": "/xWkiTwqa6bnUmfNpmK20YyS7apf.jpg",
       "director": "Cristian Mungiu",
       "backdrop_path": "/phYwx0HKSdcQyOuK5bMMO8woETT.jpg"
@@ -270,10 +270,10 @@
     "categories": 9,
     "nominees": 37,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 1116,
-      "name": "Ventos da Liberdade",
+      "name": "The Wind That Shakes the Barley",
       "image_path": "/o19IHUnX8oxFwx3k8V4x831UWUQ.jpg",
       "director": "Ken Loach",
       "backdrop_path": "/fKrFGB96kVeJ9uE83Jc4fIWBgqO.jpg"
@@ -284,10 +284,10 @@
     "categories": 9,
     "nominees": 30,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 11490,
-      "name": "A Criança",
+      "name": "The Child",
       "image_path": "/kLY1xQM0VLzB8kaPOMyV5aP3LBz.jpg",
       "director": "Luc Dardenne, Jean-Pierre Dardenne",
       "backdrop_path": "/rCNR48c7ysIXmF2uqn8alwF4HKi.jpg"
@@ -298,10 +298,10 @@
     "categories": 9,
     "nominees": 28,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 1777,
-      "name": "Fahrenheit 11 de Setembro",
+      "name": "Fahrenheit 9/11",
       "image_path": "/45lmWuZxwVs4ftEjFHUfPpAXw9t.jpg",
       "director": "Michael Moore",
       "backdrop_path": "/cLZxnkj75cGBK1tLTMyIudOZYZk.jpg"
@@ -312,10 +312,10 @@
     "categories": 9,
     "nominees": 29,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 1807,
-      "name": "Elefante",
+      "name": "Elephant",
       "image_path": "/vnMW5bVameEasYNo75VlI74xcjq.jpg",
       "director": "Gus Van Sant",
       "backdrop_path": "/n9irXcigQGlcub5JJ6RV1EdDW1J.jpg"
@@ -326,10 +326,10 @@
     "categories": 11,
     "nominees": 33,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 423,
-      "name": "O Pianista",
+      "name": "The Pianist",
       "image_path": "/g0s9Yb5tfka73UKxFAPxO9lPHBW.jpg",
       "director": "Roman Polanski",
       "backdrop_path": "/c0fB9xk7D1aVb3Bg2rk2SVJcGn.jpg"
@@ -340,10 +340,10 @@
     "categories": 8,
     "nominees": 31,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 11447,
-      "name": "O Quarto do Filho",
+      "name": "The Son's Room",
       "image_path": "/vwMeIarRGh0W9676LFn07bQkGF6.jpg",
       "director": "Nanni Moretti",
       "backdrop_path": "/fA7ptJVPbph8cZLVc1yaZIsTULk.jpg"
@@ -354,10 +354,10 @@
     "categories": 9,
     "nominees": 33,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 16,
-      "name": "Dançando no Escuro",
+      "name": "Dancer in the Dark",
       "image_path": "/uQvZJngcelbZLiROMwmNMkarlzB.jpg",
       "director": "Lars von Trier",
       "backdrop_path": "/vxvzf0cGtFY2Vpw5ULWumCIW6Ri.jpg"
@@ -368,7 +368,7 @@
     "categories": 9,
     "nominees": 30,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 11489,
       "name": "Rosetta",
@@ -382,10 +382,10 @@
     "categories": 10,
     "nominees": 33,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 24858,
-      "name": "A Eternidade e Um Dia",
+      "name": "Eternity and a Day",
       "image_path": "/9y45Ipt5FSAzuIUHg6kLYkQcyWl.jpg",
       "director": "Theo Angelopoulos",
       "backdrop_path": "/hwo8xALeQiQsW31ZErCJvxpRdsV.jpg"
@@ -396,10 +396,10 @@
     "categories": 11,
     "nominees": 30,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 20506,
-      "name": "A Enguia",
+      "name": "The Eel",
       "image_path": "/w7cFnCB2UECuekGRzamxiEzMKzE.jpg",
       "director": "Shōhei Imamura",
       "backdrop_path": "/2yYrBdhPzsrHQlNqswFa90y6bZu.jpg"
@@ -410,10 +410,10 @@
     "categories": 9,
     "nominees": 31,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 11159,
-      "name": "Segredos e Mentiras",
+      "name": "Secrets & Lies",
       "image_path": "/cisvW48bhlV27zL9A2Z7XSQFtu5.jpg",
       "director": "Mike Leigh",
       "backdrop_path": "/oLh3r9BhrymkMjKtI2geTGkKMif.jpg"
@@ -424,10 +424,10 @@
     "categories": 9,
     "nominees": 30,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 11902,
-      "name": "Underground - Mentiras de Guerra",
+      "name": "Underground",
       "image_path": "/3EHz3JHO8d1joXeuU1mu44YPgEE.jpg",
       "director": "Emir Kusturica",
       "backdrop_path": "/2nerKhF40OzjnGGOyzHcsAw8T53.jpg"
@@ -438,10 +438,10 @@
     "categories": 9,
     "nominees": 32,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 680,
-      "name": "Pulp Fiction: Tempo de Violência",
+      "name": "Pulp Fiction",
       "image_path": "/tptjnB2LDbuUWya9Cx5sQtv5hqb.jpg",
       "director": "Quentin Tarantino",
       "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg"
@@ -452,10 +452,10 @@
     "categories": 8,
     "nominees": 31,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 10997,
-      "name": "Adeus, Minha Concubina",
+      "name": "Farewell My Concubine",
       "image_path": "/gsCvaK3jYniSCBJKxKu8Qwr3jf2.jpg",
       "director": "Chen Kaige",
       "backdrop_path": "/bBiZN1epQTu3F8iFLBuMhc4TRzr.jpg"
@@ -466,10 +466,10 @@
     "categories": 9,
     "nominees": 30,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 41764,
-      "name": "As Melhores Intenções",
+      "name": "The Best Intentions",
       "image_path": "/98MwCLjxx3dboypNJm8nr4HuPD9.jpg",
       "director": "Bille August",
       "backdrop_path": "/f9diUEYPfjgDnC4pzXoWFhunzzQ.jpg"
@@ -480,10 +480,10 @@
     "categories": 9,
     "nominees": 28,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 290,
-      "name": "Barton Fink: Delírios de Hollywood",
+      "name": "Barton Fink",
       "image_path": "/gScIc40hwbCFE2OWRxbNI547zit.jpg",
       "director": "Joel Coen, Ethan Coen",
       "backdrop_path": "/cW1XlxgvxZIFkakYc9yrLpDoYhK.jpg"
@@ -494,10 +494,10 @@
     "categories": 9,
     "nominees": 27,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 483,
-      "name": "Coração Selvagem",
+      "name": "Wild at Heart",
       "image_path": "/cxgtKsh86jhRWuL2T5C1juzp9lD.jpg",
       "director": "David Lynch",
       "backdrop_path": "/6xJ2odkMFmO2LptVUBR8t8wBldQ.jpg"
@@ -508,10 +508,10 @@
     "categories": 10,
     "nominees": 32,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 1412,
-      "name": "Sexo, Mentiras e Videotape",
+      "name": "sex, lies, and videotape",
       "image_path": "/qhE4AXfL9N6PiLASIphaKn81HGe.jpg",
       "director": "Steven Soderbergh",
       "backdrop_path": "/wD95UmpUazo9820qnbbjRtbQ884.jpg"
@@ -522,10 +522,10 @@
     "categories": 9,
     "nominees": 31,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 11174,
-      "name": "Pelle o Conquistador",
+      "name": "Pelle the Conqueror",
       "image_path": "/m6726gyw7E4LwP4QawBUXqS7DKy.jpg",
       "director": "Bille August",
       "backdrop_path": "/dXUiiryxCk1QqvS9F4MhIAPjpF3.jpg"
@@ -536,10 +536,10 @@
     "categories": 10,
     "nominees": 30,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 31300,
-      "name": "Sob o Sol de Satã",
+      "name": "Under the Sun of Satan",
       "image_path": "/kpiVH7LudhRbfPlWp8reZivbu0j.jpg",
       "director": "Maurice Pialat",
       "backdrop_path": "/vAuzj3V6PoHn8GyiSofWbRnTLAo.jpg"
@@ -550,10 +550,10 @@
     "categories": 9,
     "nominees": 30,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 11416,
-      "name": "A Missão",
+      "name": "The Mission",
       "image_path": "/hY49cnr03m92iTiKstUCxeQFayP.jpg",
       "director": "Roland Joffé",
       "backdrop_path": "/izgDdMvuRvTtA2azhKwPvfITZU1.jpg"
@@ -564,10 +564,10 @@
     "categories": 9,
     "nominees": 29,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 21042,
-      "name": "Quando Papai Saiu Em Viagem de Negócios",
+      "name": "When Father Was Away on Business",
       "image_path": "/4A1ZiZVisNv7JBjyFAv9wMRl75g.jpg",
       "director": "Emir Kusturica",
       "backdrop_path": "/7heMAaXlsI3BwTatyxBSNTP3GhO.jpg"
@@ -578,7 +578,7 @@
     "categories": 9,
     "nominees": 28,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 655,
       "name": "Paris, Texas",
@@ -592,10 +592,10 @@
     "categories": 9,
     "nominees": 31,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 42113,
-      "name": "A Balada de Narayama",
+      "name": "The Ballad of Narayama",
       "image_path": "/2byJZOG95MeNuMsC2YrQHpT0AU2.jpg",
       "director": "Shōhei Imamura",
       "backdrop_path": "/76phbJ3Brq4VmpOomEOW9bNy8C5.jpg"
@@ -606,10 +606,10 @@
     "categories": 11,
     "nominees": 32,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 15600,
-      "name": "Desaparecido",
+      "name": "Missing",
       "image_path": "/a4urs9a7GF87Ehyq1K29kYNEidJ.jpg",
       "director": "Costa-Gavras",
       "backdrop_path": "/49rQkLwYxUK7zQP69e87MspS4E2.jpg"
@@ -620,10 +620,10 @@
     "categories": 10,
     "nominees": 32,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 225,
-      "name": "O Homem de Ferro",
+      "name": "Man of Iron",
       "image_path": "/2FlIwfhRyiJXVgZwjfUSIEeWCmD.jpg",
       "director": "Andrzej Wajda",
       "backdrop_path": "/row4sMw5mVzKCWRbyrAQ39zvyLX.jpg"
@@ -634,10 +634,10 @@
     "categories": 10,
     "nominees": 33,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 16858,
-      "name": "O Show Deve Continuar",
+      "name": "All That Jazz",
       "image_path": "/culCEdj4srLljefgn4XKd6k3C5t.jpg",
       "director": "Bob Fosse",
       "backdrop_path": "/u218sykbUQIh6EWtTdJzguU5LcG.jpg"
@@ -648,7 +648,7 @@
     "categories": 10,
     "nominees": 30,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 28,
       "name": "Apocalypse Now",
@@ -662,10 +662,10 @@
     "categories": 7,
     "nominees": 31,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 31542,
-      "name": "A Árvore dos Tamancos",
+      "name": "The Tree of Wooden Clogs",
       "image_path": "/tJYP9DsJz5OMboAWj9dm3FRiZQR.jpg",
       "director": "Ermanno Olmi",
       "backdrop_path": "/viyEqVStJ9bjgyGh71TNMVqOZI.jpg"
@@ -676,10 +676,10 @@
     "categories": 6,
     "nominees": 29,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 42225,
-      "name": "Pai Patrão",
+      "name": "Padre Padrone",
       "image_path": "/1FcdB0ANZrWZe105rSVnuOZTGXn.jpg",
       "director": "Vittorio Taviani, Paolo Taviani",
       "backdrop_path": "/1ftk6ewQVLdQpHQOA718rxEuuUZ.jpg"
@@ -690,10 +690,10 @@
     "categories": 6,
     "nominees": 27,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 103,
-      "name": "Taxi Driver: Motorista de Táxi",
+      "name": "Taxi Driver",
       "image_path": "/hvJvOYRrF9xxvNzg2Jd9PYWu7c3.jpg",
       "director": "Martin Scorsese",
       "backdrop_path": "/9uddYYTNcLWpzUkl5iw1RUYhLhY.jpg"
@@ -704,10 +704,10 @@
     "categories": 6,
     "nominees": 28,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 52555,
-      "name": "Crônica dos Anos de Fogo",
+      "name": "Chronicle of the Years of Fire",
       "image_path": "/rMIDJSkgX2A40jNRluXxExYeomo.jpg",
       "director": "Mohammed Lakhdar-Hamina",
       "backdrop_path": "/sBkXUnl7LAcsgTXfl3Ei5a4zEpF.jpg"
@@ -718,10 +718,10 @@
     "categories": 7,
     "nominees": 32,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 592,
-      "name": "A Conversação",
+      "name": "The Conversation",
       "image_path": "/nHa10YW4PTPnYEkfgQpSLDiR8Xe.jpg",
       "director": "Francis Ford Coppola",
       "backdrop_path": "/s7yfiwIshKQIT6M8ZcTnFKXHs8B.jpg"
@@ -732,10 +732,10 @@
     "categories": 8,
     "nominees": 31,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 80382,
-      "name": "O Assalariado",
+      "name": "The Hireling",
       "image_path": "/xlhaEmOMWFFmCx4O8oPUMlPqEpo.jpg",
       "director": "Alan Bridges",
       "backdrop_path": "/1JlUpvSUysChvQkW4n9J8zuVcmQ.jpg"
@@ -746,10 +746,10 @@
     "categories": 7,
     "nominees": 31,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 62382,
-      "name": "O Caso Mattei",
+      "name": "The Mattei Affair",
       "image_path": "/vJRI66CCv4VG2SNrpEwTXdyk1Lq.jpg",
       "director": "Francesco Rosi",
       "backdrop_path": "/wl6kXCMdmFIHYyzTgAoB8LsaduB.jpg"
@@ -760,10 +760,10 @@
     "categories": 7,
     "nominees": 34,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 36194,
-      "name": "O Mensageiro",
+      "name": "The Go-Between",
       "image_path": "/ooCkvfYAKlzXinbmqp07ZONXYfq.jpg",
       "director": "Joseph Losey",
       "backdrop_path": "/7jsa6wxOTjJ7jD757it4W3V3u7h.jpg"
@@ -774,10 +774,10 @@
     "categories": 7,
     "nominees": 32,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 651,
-      "name": "MASH",
+      "name": "M*A*S*H",
       "image_path": "/sGT8KMnARjnv3ODPF1QfdBtnPGr.jpg",
       "director": "Robert Altman",
       "backdrop_path": "/3YWL6rZmvZxCQw2qEwxPGrqhYku.jpg"
@@ -788,10 +788,10 @@
     "categories": 8,
     "nominees": 34,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 14794,
-      "name": "Se…",
+      "name": "if....",
       "image_path": "/fxV4A1ZUHpcX70NWEh9WLdMQCgW.jpg",
       "director": "Lindsay Anderson",
       "backdrop_path": "/b5OqjAne0vAV08V43QvXpmlfvSg.jpg"
@@ -802,10 +802,10 @@
     "categories": 8,
     "nominees": 33,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 1052,
-      "name": "Blow-Up: Depois Daquele Beijo",
+      "name": "Blow-Up",
       "image_path": "/7oRd8zfEGuEwWIOxPxy3JqyRPIn.jpg",
       "director": "Michelangelo Antonioni",
       "backdrop_path": "/rWtRkNGkg05rET8taCA96c7heLb.jpg"
@@ -816,10 +816,10 @@
     "categories": 8,
     "nominees": 32,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 17974,
-      "name": "Confusões à Italiana",
+      "name": "The Birds, the Bees and the Italians",
       "image_path": "/leeTmapQ4nUZQBF4YtcTRJ69LoC.jpg",
       "director": "Pietro Germi",
       "backdrop_path": "/cIBAsszLhD1tvE6GQ6FYLAPOS1s.jpg"
@@ -830,10 +830,10 @@
     "categories": 7,
     "nominees": 33,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 42744,
-      "name": "A Bossa da Conquista",
+      "name": "The Knack... and How to Get It",
       "image_path": "/xO2dJcCISY6lujaU4Qew3RzSErJ.jpg",
       "director": "Richard Lester",
       "backdrop_path": "/8Rf6qaHRZkq0tN5wd4xh8ezSJa8.jpg"
@@ -844,10 +844,10 @@
     "categories": 5,
     "nominees": 32,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 5967,
-      "name": "Os Guarda-Chuvas do Amor",
+      "name": "The Umbrellas of Cherbourg",
       "image_path": "/n8H5cKQhn0mGehfj3HrO6vJ4aQf.jpg",
       "director": "Jacques Demy",
       "backdrop_path": "/m1Gei9O5GfLoJHQjBaxWBSkXX2y.jpg"
@@ -858,10 +858,10 @@
     "categories": 6,
     "nominees": 33,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 1040,
-      "name": "O Leopardo",
+      "name": "The Leopard",
       "image_path": "/a3zvKpjkI1sInsjCdVx7yZ5iZFE.jpg",
       "director": "Luchino Visconti",
       "backdrop_path": "/myikoqu8Z2gtE7TaBgk9r6fB9MF.jpg"
@@ -872,10 +872,10 @@
     "categories": 7,
     "nominees": 46,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 59990,
-      "name": "O Pagador de Promessas",
+      "name": "The Given Word",
       "image_path": "/wqxzal8qzNi97iaSSSBQVAsNsyl.jpg",
       "director": "Anselmo Duarte",
       "backdrop_path": "/k13mFZr51lcOxvLrHHCk9Llevcf.jpg"
@@ -886,10 +886,10 @@
     "categories": 6,
     "nominees": 35,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 131836,
-      "name": "Uma Tão Longa Ausência",
+      "name": "The Long Absence",
       "image_path": "/wdarAOFLB9GUJP6UsvHbNYCmh2x.jpg",
       "director": "Henri Colpi",
       "backdrop_path": "/4RjyPqzXvfmH6fnVQ44Zr2IBQlY.jpg"
@@ -900,10 +900,10 @@
     "categories": 5,
     "nominees": 36,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 439,
-      "name": "A Doce Vida",
+      "name": "La Dolce Vita",
       "image_path": "/l0IgwhbAuYIbBgm8YsHRit1Fa4L.jpg",
       "director": "Federico Fellini",
       "backdrop_path": "/eN2NdMeJLNzLYzWIEEoaGzZAsiD.jpg"
@@ -914,10 +914,10 @@
     "categories": 8,
     "nominees": 38,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 40423,
-      "name": "Orfeu Negro",
+      "name": "Black Orpheus",
       "image_path": "/iaYmiZJwicSO5R1DQ2q6lKLAXEi.jpg",
       "director": "Marcel Camus",
       "backdrop_path": "/mXHZJu6wmmNIhbidSMp24PQ3WNw.jpg"
@@ -928,10 +928,10 @@
     "categories": 8,
     "nominees": 38,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 38360,
-      "name": "Quando Voam as Cegonhas",
+      "name": "The Cranes Are Flying",
       "image_path": "/ahoP2N0hQLSMAZ0cogs9yjucsMa.jpg",
       "director": "Mikhail Kalatozov",
       "backdrop_path": "/r6bIGLFJ2ml9L970RNpuwDyb4Af.jpg"
@@ -942,10 +942,10 @@
     "categories": 7,
     "nominees": 40,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 43258,
-      "name": "Sublime Tentação",
+      "name": "Friendly Persuasion",
       "image_path": "/m4K0f85sAAXBIdcCza8BwC0FnmC.jpg",
       "director": "William Wyler",
       "backdrop_path": "/vRkB3lYI26YjXvMEc8IvxM45h8X.jpg"
@@ -956,10 +956,10 @@
     "categories": 7,
     "nominees": 43,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 60234,
-      "name": "O Mundo do Silêncio",
+      "name": "The Silent World",
       "image_path": "/x1V5crwN7uqhApqwTcyoTYwHq10.jpg",
       "director": "Jacques-Yves Cousteau, Louis Malle",
       "backdrop_path": "/7CZRjhX7LIqljczO2GiX1R5a39m.jpg"
@@ -970,7 +970,7 @@
     "categories": 9,
     "nominees": 44,
     "highlight": {
-      "category": "Palma de Ouro",
+      "category": "Palme d'Or",
       "type": "movie",
       "id": 15919,
       "name": "Marty",
@@ -984,10 +984,10 @@
     "categories": 3,
     "nominees": 53,
     "highlight": {
-      "category": "Grande Prêmio do Festival",
+      "category": "Grand Prix du Festival",
       "type": "movie",
       "id": 43349,
-      "name": "Portal do Inferno",
+      "name": "Gate of Hell",
       "image_path": "/q0Vf3B5et9yZ1r6xaPjsnmmpBUT.jpg",
       "director": "Teinosuke Kinugasa",
       "backdrop_path": "/sd6ubptU7n0iWYSn9a0tHl1bVpb.jpg"
@@ -998,10 +998,10 @@
     "categories": 5,
     "nominees": 45,
     "highlight": {
-      "category": "Grande Prêmio do Festival",
+      "category": "Grand Prix du Festival",
       "type": "movie",
       "id": 204,
-      "name": "O Salário do Medo",
+      "name": "The Wages of Fear",
       "image_path": "/m1CwNYtoeAXmfmRXjYSoGbl6rVA.jpg",
       "director": "Henri-Georges Clouzot",
       "backdrop_path": "/hTP6H7sNlWXdGxAciXQSjNJ1ob7.jpg"
@@ -1012,10 +1012,10 @@
     "categories": 10,
     "nominees": 44,
     "highlight": {
-      "category": "Grande Prêmio do Festival",
+      "category": "Grand Prix du Festival",
       "type": "movie",
       "id": 47697,
-      "name": "Otelo",
+      "name": "Othello",
       "image_path": "/aSvpM6apwwzQQaJBS4tCFgdQ9EN.jpg",
       "director": "Orson Welles",
       "backdrop_path": "/kHbwWLE4mFVoC4wFCXsZ2HioRuf.jpg"
@@ -1026,10 +1026,10 @@
     "categories": 10,
     "nominees": 45,
     "highlight": {
-      "category": "Grande Prêmio do Festival",
+      "category": "Grand Prix du Festival",
       "type": "movie",
       "id": 43379,
-      "name": "Milagre em Milão",
+      "name": "Miracle in Milan",
       "image_path": "/7lVzQL9gtARaNEX9Fzc2GNoSh3Z.jpg",
       "director": "Vittorio De Sica",
       "backdrop_path": "/auItHwCI7tvJ8C5f2B0lS5zjDZQ.jpg"
@@ -1040,10 +1040,10 @@
     "categories": 6,
     "nominees": 34,
     "highlight": {
-      "category": "Grande Prêmio do Festival",
+      "category": "Grand Prix du Festival",
       "type": "movie",
       "id": 1092,
-      "name": "O 3º Homem",
+      "name": "The Third Man",
       "image_path": "/B1MT9bSEfrSnCuNRDj8dRbiuY1.jpg",
       "director": "Carol Reed",
       "backdrop_path": "/rLLhOCgAjuvlKmjUqVb7P1UAbUI.jpg"
@@ -1054,10 +1054,10 @@
     "categories": 1,
     "nominees": 24,
     "highlight": {
-      "category": "Grande Prêmio do Festival",
+      "category": "Grand Prix du Festival",
       "type": "movie",
       "id": 44532,
-      "name": "Antonio e Antonieta",
+      "name": "Antoine & Antoinette",
       "image_path": "/lqxsbBoCkTsIwxovkSQVtpE4335.jpg",
       "director": "Filme Psicológico e de Amor",
       "backdrop_path": "/dV0LX2CiLDem4CZRZFO0N6fxlK7.jpg"
@@ -1068,10 +1068,10 @@
     "categories": 8,
     "nominees": 52,
     "highlight": {
-      "category": "Grande Prêmio do Festival",
+      "category": "Grand Prix du Festival",
       "type": "movie",
       "id": 851,
-      "name": "Desencanto",
+      "name": "Brief Encounter",
       "image_path": "/tpJuLNQzzsH0DAdVXNwP0udd9Va.jpg",
       "director": "David Lean",
       "backdrop_path": "/vKvoOlhhaZCsiGQDvaZQqyGq1oA.jpg"

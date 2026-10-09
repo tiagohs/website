@@ -4,10 +4,10 @@
     "categories": 7,
     "nominees": 31,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 1233413,
-      "name": "Pecadores",
+      "name": "Sinners",
       "image_path": "/v0Ljeti537c6cNKweuEN0iaU3x4.jpg",
       "director": "Ryan Coogler",
       "backdrop_path": "/nAxGnGHOsfzufThz20zgmRwKur3.jpg"
@@ -18,7 +18,7 @@
     "categories": 7,
     "nominees": 31,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 974576,
       "name": "Conclave",
@@ -32,7 +32,7 @@
     "categories": 7,
     "nominees": 31,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 872585,
       "name": "Oppenheimer",
@@ -46,10 +46,10 @@
     "categories": 7,
     "nominees": 31,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 545611,
-      "name": "Tudo em Todo o Lugar ao Mesmo Tempo",
+      "name": "Everything Everywhere All at Once",
       "image_path": "/2dSZQGwijlXvMSyuGe0FSgrXnv0.jpg",
       "director": "Daniel Scheinert, Daniel Kwan",
       "backdrop_path": "/fIwiFha3WPu5nHkBeMQ4GzEk0Hv.jpg"
@@ -60,10 +60,10 @@
     "categories": 7,
     "nominees": 31,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 776503,
-      "name": "No Ritmo do Coração",
+      "name": "CODA",
       "image_path": "/fXeWSHLlAEsINva6SJgb5hCLBzy.jpg",
       "director": "Sian Heder",
       "backdrop_path": "/v85FlkbMYKa5du1glm0YfYNsL2n.jpg"
@@ -74,10 +74,10 @@
     "categories": 6,
     "nominees": 30,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 556984,
-      "name": "Os 7 de Chicago",
+      "name": "The Trial of the Chicago 7",
       "image_path": "/xvJJmdHVmOOn258tkCe6z83AYuP.jpg",
       "director": "Aaron Sorkin",
       "backdrop_path": "/v8Nf6Y1qL1Q3PWTBezXNPPaXqza.jpg"
@@ -88,10 +88,10 @@
     "categories": 7,
     "nominees": 31,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 496243,
-      "name": "Parasita",
+      "name": "Parasite",
       "image_path": "/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg",
       "director": "Bong Joon-ho",
       "backdrop_path": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg"
@@ -102,10 +102,10 @@
     "categories": 7,
     "nominees": 31,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 284054,
-      "name": "Pantera Negra",
+      "name": "Black Panther",
       "image_path": "/ubXNpxL2ASSzY0f8Hxv08pOsV2L.jpg",
       "director": "Ryan Coogler",
       "backdrop_path": "/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg"
@@ -116,10 +116,10 @@
     "categories": 7,
     "nominees": 31,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 359940,
-      "name": "Três Anúncios Para Um Crime",
+      "name": "Three Billboards Outside Ebbing, Missouri",
       "image_path": "/vkmSz7x18uaNqzWVp2UeYOgsSSA.jpg",
       "director": "Martin McDonagh",
       "backdrop_path": "/oQHF0Y4gCw6VdPmapjsbZoxY2ht.jpg"
@@ -130,10 +130,10 @@
     "categories": 7,
     "nominees": 31,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 381284,
-      "name": "Estrelas Além do Tempo",
+      "name": "Hidden Figures",
       "image_path": "/6A1Jn0tooQYgi2C8sNz5OaIW98C.jpg",
       "director": "Theodore Melfi",
       "backdrop_path": "/rfkIeCaIHhN3K5wjJJqKmfUjYp8.jpg"
@@ -144,10 +144,10 @@
     "categories": 7,
     "nominees": 31,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 314365,
-      "name": "Spotlight: Segredos Revelados",
+      "name": "Spotlight",
       "image_path": "/wHNzfrfK8M4WIq3XDUqAFdKKY5Z.jpg",
       "director": "Tom McCarthy",
       "backdrop_path": "/8FbbcmwmpGd7brfiC7f7lWFNGdi.jpg"
@@ -158,10 +158,10 @@
     "categories": 7,
     "nominees": 31,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 194662,
-      "name": "Birdman ou (A Inesperada Virtude da Ignorância)",
+      "name": "Birdman or (The Unexpected Virtue of Ignorance)",
       "image_path": "/7gwtDnEJ39QarOyzt9bSxEj3SkD.jpg",
       "director": "Alejandro G. Iñárritu",
       "backdrop_path": "/s0OrExdg7i3RLR7oqzHRk4q2kL4.jpg"
@@ -172,10 +172,10 @@
     "categories": 7,
     "nominees": 31,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 168672,
-      "name": "Trapaça",
+      "name": "American Hustle",
       "image_path": "/hDvBteFNrro6e4UdHBenC0hbDio.jpg",
       "director": "David O. Russell",
       "backdrop_path": "/3r2G1vSDf4S3Pl5lJ9BDm9FTxe6.jpg"
@@ -186,7 +186,7 @@
     "categories": 7,
     "nominees": 31,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 68734,
       "name": "Argo",
@@ -200,10 +200,10 @@
     "categories": 7,
     "nominees": 31,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 50014,
-      "name": "Histórias Cruzadas",
+      "name": "The Help",
       "image_path": "/7iWfEm9VOeX8AAnC7F1ApxRDTfw.jpg",
       "director": "Tate Taylor",
       "backdrop_path": "/wyvUmyzqGOBDyqLHRSukGDjI7bH.jpg"
@@ -214,10 +214,10 @@
     "categories": 7,
     "nominees": 29,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 45269,
-      "name": "O Discurso do Rei",
+      "name": "The King's Speech",
       "image_path": "/bRjhSFgc2sDYSf6WWlk9zujIPfk.jpg",
       "director": "Tom Hooper",
       "backdrop_path": "/m4MGxxEgAMqIX9x8MCg5pYeyYjU.jpg"
@@ -228,10 +228,10 @@
     "categories": 7,
     "nominees": 29,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 16869,
-      "name": "Bastardos Inglórios",
+      "name": "Inglourious Basterds",
       "image_path": "/6UjYycIR6VLYgggfNpmSPJHmFS0.jpg",
       "director": "Quentin Tarantino",
       "backdrop_path": "/hwNtEmmugU5Yd7hpfprNWI0DGIn.jpg"
@@ -242,10 +242,10 @@
     "categories": 7,
     "nominees": 31,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 12405,
-      "name": "Quem Quer Ser um Milionário?",
+      "name": "Slumdog Millionaire",
       "image_path": "/timJSy64zR0BM2xhkXwIyvDG6MM.jpg",
       "director": "Danny Boyle",
       "backdrop_path": "/1wZoVT9RJsZmNjg8CecXqSgFUd9.jpg"
@@ -256,10 +256,10 @@
     "categories": 7,
     "nominees": 31,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 6977,
-      "name": "Onde os Fracos Não Têm Vez",
+      "name": "No Country for Old Men",
       "image_path": "/jdlY8Bhcb4Qzfldr1JaexYBgyW3.jpg",
       "director": "Joel Coen, Ethan Coen",
       "backdrop_path": "/gddUsvfyySrM5k8B8wwJy2VRlBx.jpg"
@@ -270,10 +270,10 @@
     "categories": 6,
     "nominees": 26,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 773,
-      "name": "Pequena Miss Sunshine",
+      "name": "Little Miss Sunshine",
       "image_path": "/gwLPVYqe1efIxkx6LQT7piZweH2.jpg",
       "director": "Jonathan Dayton, Valerie Faris",
       "backdrop_path": "/twdtjJm31AExNx73DXaD4KRNU9c.jpg"
@@ -284,10 +284,10 @@
     "categories": 6,
     "nominees": 26,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 1640,
-      "name": "Crash: No Limite",
+      "name": "Crash",
       "image_path": "/4pwHDsYeOVsdLT8TykM047hIkKA.jpg",
       "director": "Paul Haggis",
       "backdrop_path": "/l5LNCgS4hbNMnt5acKFT9G3LcMl.jpg"
@@ -298,10 +298,10 @@
     "categories": 6,
     "nominees": 27,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 9675,
-      "name": "Sideways: Entre Umas e Outras",
+      "name": "Sideways",
       "image_path": "/5k63nkN5mMGCBqRvrVaF7CpMUcK.jpg",
       "director": "Alexander Payne",
       "backdrop_path": "/zmuRxro8AxPDjACjXTIIDCUNwDl.jpg"
@@ -312,10 +312,10 @@
     "categories": 6,
     "nominees": 26,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 122,
-      "name": "O Senhor dos Anéis: O Retorno do Rei",
+      "name": "The Lord of the Rings: The Return of the King",
       "image_path": "/rU4oIKv5I4C59DpcXKmT7kNwGI0.jpg",
       "director": "Peter Jackson",
       "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg"
@@ -326,7 +326,7 @@
     "categories": 6,
     "nominees": 26,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 1574,
       "name": "Chicago",
@@ -340,10 +340,10 @@
     "categories": 6,
     "nominees": 26,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 5279,
-      "name": "Assassinato em Gosford Park",
+      "name": "Gosford Park",
       "image_path": "/d7u7ohi8eXEUw7CDH4BmWTWz3Ta.jpg",
       "director": "Robert Altman",
       "backdrop_path": "/936dZMmlCejiIzDe5jWsxdTSoOf.jpg"
@@ -354,10 +354,10 @@
     "categories": 6,
     "nominees": 26,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 1900,
-      "name": "Traffic: Ninguém Sai Limpo",
+      "name": "Traffic",
       "image_path": "/fkk54pyjkeQJB03wBybpisG1RCB.jpg",
       "director": "Steven Soderbergh",
       "backdrop_path": "/nkMgY1XFLWr91najzfvwie8LyYF.jpg"
@@ -368,10 +368,10 @@
     "categories": 6,
     "nominees": 26,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 14,
-      "name": "Beleza Americana",
+      "name": "American Beauty",
       "image_path": "/9PJKsH7Btz2xjYIvLLtJ7qcJlL3.jpg",
       "director": "Sam Mendes",
       "backdrop_path": "/2ndw55F40IkALzWyjCCza3M6nqM.jpg"
@@ -382,10 +382,10 @@
     "categories": 6,
     "nominees": 26,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 1934,
-      "name": "Shakespeare Apaixonado",
+      "name": "Shakespeare in Love",
       "image_path": "/3wC7QCcjvT9vRMlWyXoJCbqIuXb.jpg",
       "director": "John Madden",
       "backdrop_path": "/i16MjvM9YsQ85ejdB63gtGXDu4W.jpg"
@@ -396,10 +396,10 @@
     "categories": 6,
     "nominees": 27,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 9427,
-      "name": "Ou Tudo, Ou Nada",
+      "name": "The Full Monty",
       "image_path": "/5bgLGnADFEv0FmNSENFVV6MUW6d.jpg",
       "director": "Peter Cattaneo",
       "backdrop_path": "/r8SwFiCeaADf0jIotMMtfNBzLEI.jpg"
@@ -410,10 +410,10 @@
     "categories": 6,
     "nominees": 26,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 11000,
-      "name": "A Gaiola das Loucas",
+      "name": "The Birdcage",
       "image_path": "/esSA2kSLCl91mjyz0JBkBijHchq.jpg",
       "director": "Mike Nichols",
       "backdrop_path": "/yNOtXSNep1BLnfZ0yhLejm1TULi.jpg"
@@ -424,10 +424,10 @@
     "categories": 6,
     "nominees": 26,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Best Picture",
       "type": "movie",
       "id": 568,
-      "name": "Apollo 13 - Do Desastre ao Triunfo",
+      "name": "Apollo 13",
       "image_path": "/22dmzRXNULYaIllVAiIpa2bjmEY.jpg",
       "director": "Ron Howard",
       "backdrop_path": "/n0FDJI9c0uWiZwm8wgXVjaMBn96.jpg"
@@ -438,7 +438,7 @@
     "categories": 5,
     "nominees": 21,
     "highlight": {
-      "category": "Melhor Atriz",
+      "category": "Best Actress",
       "type": "movie",
       "id": 1945,
       "name": "Nell",

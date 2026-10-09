@@ -4,10 +4,10 @@
     "categories": 15,
     "nominees": 92,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 858024,
-      "name": "Hamnet: A Vida Antes de Hamlet",
+      "name": "Hamnet",
       "image_path": "/njatIGrIlZCxB88UUBC2xgmfCNE.jpg",
       "director": "Chloé Zhao",
       "backdrop_path": "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg"
@@ -18,10 +18,10 @@
     "categories": 15,
     "nominees": 92,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 549509,
-      "name": "O Brutalista",
+      "name": "El brutalista",
       "image_path": "/52iVP3AtNtpjFiBxlOYCUPXhr47.jpg",
       "director": "Brady Corbet",
       "backdrop_path": "/hmZnqijPaaACjenDkrbWcCmcADI.jpg"
@@ -32,7 +32,7 @@
     "categories": 15,
     "nominees": 92,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 872585,
       "name": "Oppenheimer",
@@ -46,10 +46,10 @@
     "categories": 14,
     "nominees": 70,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 804095,
-      "name": "Os Fabelmans",
+      "name": "Los Fabelman",
       "image_path": "/meqKIZTsdSlbvv47uxvJH7Jcr7H.jpg",
       "director": "Steven Spielberg",
       "backdrop_path": "/xQyGkQ8ICa4lgifGr3oZjkm3AJ2.jpg"
@@ -60,10 +60,10 @@
     "categories": 14,
     "nominees": 70,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 600583,
-      "name": "Ataque dos Cães",
+      "name": "El Poder Del Perro",
       "image_path": "/rgDJDLFKOKF0dpbaVwgbvjbyZgM.jpg",
       "director": "Jane Campion",
       "backdrop_path": "/gAsHuCQMN7mv4uFIvM4ACQ09hPr.jpg"
@@ -74,7 +74,7 @@
     "categories": 14,
     "nominees": 70,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 581734,
       "name": "Nomadland",
@@ -88,7 +88,7 @@
     "categories": 14,
     "nominees": 70,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 530915,
       "name": "1917",
@@ -102,7 +102,7 @@
     "categories": 15,
     "nominees": 71,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 424694,
       "name": "Bohemian Rhapsody",
@@ -116,10 +116,10 @@
     "categories": 15,
     "nominees": 71,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 359940,
-      "name": "Três Anúncios Para Um Crime",
+      "name": "Tres anuncios por un crimen",
       "image_path": "/vkmSz7x18uaNqzWVp2UeYOgsSSA.jpg",
       "director": "Martin McDonagh",
       "backdrop_path": "/oQHF0Y4gCw6VdPmapjsbZoxY2ht.jpg"
@@ -130,10 +130,10 @@
     "categories": 15,
     "nominees": 71,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 376867,
-      "name": "Moonlight: Sob a Luz do Luar",
+      "name": "Luz de luna",
       "image_path": "/AekOkoT88EhDHikUQXQcKri2q4B.jpg",
       "director": "Barry Jenkins",
       "backdrop_path": "/jm1oD3eB08LImSwL1LrzF9AJQ5b.jpg"
@@ -144,10 +144,10 @@
     "categories": 15,
     "nominees": 71,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 281957,
-      "name": "O Regresso",
+      "name": "Revenant: El renacido",
       "image_path": "/hRotKKijqV6YibxnhSOureF5efx.jpg",
       "director": "Alejandro G. Iñárritu",
       "backdrop_path": "/hEQYZq2CDB2LSJVxxlazdBOKeyW.jpg"
@@ -158,10 +158,10 @@
     "categories": 15,
     "nominees": 71,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 85350,
-      "name": "Boyhood: Da Infância à Juventude",
+      "name": "Boyhood: Momentos de una vida",
       "image_path": "/rr1rlDZXOeLqtYMEC6xEunxqsD3.jpg",
       "director": "Richard Linklater",
       "backdrop_path": "/Ac2s9RJEi1ZeaQopoLsqlsmWQmx.jpg"
@@ -172,10 +172,10 @@
     "categories": 15,
     "nominees": 69,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 76203,
-      "name": "12 Anos de Escravidão",
+      "name": "12 Años de Esclavitud",
       "image_path": "/o5t8fqcNDyfojYwwlECZEgyD96T.jpg",
       "director": "Steve McQueen",
       "backdrop_path": "/4Bb1kMIfrT2tYRZ9M6Jhqy6gkeF.jpg"
@@ -186,7 +186,7 @@
     "categories": 15,
     "nominees": 71,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 68734,
       "name": "Argo",
@@ -200,10 +200,10 @@
     "categories": 15,
     "nominees": 72,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 65057,
-      "name": "Os Descendentes",
+      "name": "Los descendientes",
       "image_path": "/sTeyXz02yUAsUxJlFisRufpfbHR.jpg",
       "director": "Alexander Payne",
       "backdrop_path": "/afC5IhoNZb8MqDHuiWOAcLjqi6b.jpg"
@@ -214,10 +214,10 @@
     "categories": 15,
     "nominees": 71,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 37799,
-      "name": "A Rede Social",
+      "name": "Red Social",
       "image_path": "/3FULGtzNuDSYkc4Ndopn21UC3M9.jpg",
       "director": "David Fincher",
       "backdrop_path": "/1PXwh3nJzgRkkYnqfWInJNypeL4.jpg"
@@ -228,7 +228,7 @@
     "categories": 15,
     "nominees": 71,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 19995,
       "name": "Avatar",
@@ -242,10 +242,10 @@
     "categories": 15,
     "nominees": 69,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 12405,
-      "name": "Quem Quer Ser um Milionário?",
+      "name": "Quisiera Ser Millonario",
       "image_path": "/timJSy64zR0BM2xhkXwIyvDG6MM.jpg",
       "director": "Danny Boyle",
       "backdrop_path": "/1wZoVT9RJsZmNjg8CecXqSgFUd9.jpg"
@@ -256,10 +256,10 @@
     "categories": 14,
     "nominees": 70,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 4347,
-      "name": "Desejo e Reparação",
+      "name": "Expiación, deseo y pecado",
       "image_path": "/sFIHg2JAyOe6ua0WM2IvcVplrZj.jpg",
       "director": "Joe Wright",
       "backdrop_path": "/ffKYRCEVOzpb5y4tA7VW1DwhQw9.jpg"
@@ -270,7 +270,7 @@
     "categories": 15,
     "nominees": 69,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 1164,
       "name": "Babel",
@@ -284,10 +284,10 @@
     "categories": 14,
     "nominees": 68,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 142,
-      "name": "O Segredo de Brokeback Mountain",
+      "name": "Secreto en la Montaña",
       "image_path": "/qZ7fvWbPABjdU8JciIS9f9jCRCb.jpg",
       "director": "Ang Lee",
       "backdrop_path": "/vXzqV2RtJlT9WhNEM4NYWCEC6ZI.jpg"
@@ -298,10 +298,10 @@
     "categories": 14,
     "nominees": 67,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 2567,
-      "name": "O Aviador",
+      "name": "El Aviador",
       "image_path": "/h5nnmaOarWIC4RRqf77VkiOdYt9.jpg",
       "director": "Martin Scorsese",
       "backdrop_path": "/6KLKdhk9wZvJ6OcTzDCoxup0Kmh.jpg"
@@ -312,10 +312,10 @@
     "categories": 14,
     "nominees": 68,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 122,
-      "name": "O Senhor dos Anéis: O Retorno do Rei",
+      "name": "El señor de los anillos: El retorno del rey",
       "image_path": "/rU4oIKv5I4C59DpcXKmT7kNwGI0.jpg",
       "director": "Peter Jackson",
       "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg"
@@ -326,10 +326,10 @@
     "categories": 14,
     "nominees": 68,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 590,
-      "name": "As Horas",
+      "name": "Las horas",
       "image_path": "/gFxjU5eiVyzZ64RgqN36I3hIVvB.jpg",
       "director": "Stephen Daldry",
       "backdrop_path": "/3oHFSEr4TRnsyTxWGrmY8Xi2FrR.jpg"
@@ -340,10 +340,10 @@
     "categories": 14,
     "nominees": 72,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 453,
-      "name": "Uma Mente Brilhante",
+      "name": "Una Mente Brillante",
       "image_path": "/8K5W9QnNT7r1V9GuJ5z5KlrROkd.jpg",
       "director": "Ron Howard",
       "backdrop_path": "/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg"
@@ -354,7 +354,7 @@
     "categories": 14,
     "nominees": 68,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 98,
       "name": "Gladiador",
@@ -368,10 +368,10 @@
     "categories": 14,
     "nominees": 71,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 14,
-      "name": "Beleza Americana",
+      "name": "Belleza Americana",
       "image_path": "/9PJKsH7Btz2xjYIvLLtJ7qcJlL3.jpg",
       "director": "Sam Mendes",
       "backdrop_path": "/2ndw55F40IkALzWyjCCza3M6nqM.jpg"
@@ -382,10 +382,10 @@
     "categories": 14,
     "nominees": 69,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 857,
-      "name": "O Resgate do Soldado Ryan",
+      "name": "Rescatando al soldado Ryan",
       "image_path": "/hMLxNLCXRDd62acfCBn6mIyW1HU.jpg",
       "director": "Steven Spielberg",
       "backdrop_path": "/bdD39MpSVhKjxarTxLSfX6baoMP.jpg"
@@ -396,7 +396,7 @@
     "categories": 14,
     "nominees": 67,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 597,
       "name": "Titanic",
@@ -410,10 +410,10 @@
     "categories": 14,
     "nominees": 67,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 409,
-      "name": "O Paciente Inglês",
+      "name": "El Paciente Inglés",
       "image_path": "/yBnEL8I7MXUvOvdcZV1MJJQDoxU.jpg",
       "director": "Anthony Minghella",
       "backdrop_path": "/em5kAUF8QbwThG5BCqVgFomxNT5.jpg"
@@ -424,10 +424,10 @@
     "categories": 14,
     "nominees": 68,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 4584,
-      "name": "Razão e Sensibilidade",
+      "name": "Sensatez y sentimientos",
       "image_path": "/avfV8Se2eTfmFAZf0aAPOdq2WcV.jpg",
       "director": "Ang Lee",
       "backdrop_path": "/cFnyfWHL6HjOOVal6lp8e5gqibK.jpg"
@@ -438,10 +438,10 @@
     "categories": 14,
     "nominees": 67,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 13,
-      "name": "Forrest Gump: O Contador de Histórias",
+      "name": "Forrest Gump",
       "image_path": "/d74WpIsH8379TIL4wUxDneRCYv2.jpg",
       "director": "Robert Zemeckis",
       "backdrop_path": "/66Kn4XWhkuPkJxOJyPEx4U2CUfN.jpg"
@@ -452,10 +452,10 @@
     "categories": 14,
     "nominees": 66,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 424,
-      "name": "A Lista de Schindler",
+      "name": "La Lista de Schindler",
       "image_path": "/lfJAj9OGsiSsbFxouRkGKqibHxf.jpg",
       "director": "Steven Spielberg",
       "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg"
@@ -466,10 +466,10 @@
     "categories": 14,
     "nominees": 66,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 9475,
-      "name": "Perfume de Mulher",
+      "name": "Perfume de mujer",
       "image_path": "/7vYWmKziZCfuXuIesRdVHUtXaLY.jpg",
       "director": "Martin Brest",
       "backdrop_path": "/fa03pD2qYmms4ZMgAv7PMqfFiGO.jpg"
@@ -480,7 +480,7 @@
     "categories": 14,
     "nominees": 68,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 10337,
       "name": "Bugsy",
@@ -494,10 +494,10 @@
     "categories": 14,
     "nominees": 68,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 581,
-      "name": "Dança com Lobos",
+      "name": "Danza con Lobos",
       "image_path": "/uWsXlrzsHKCwI2fPrrpW0QFwjMZ.jpg",
       "director": "Kevin Costner",
       "backdrop_path": "/ywWva4trKw7f3wtbz81Fe3FnrtC.jpg"
@@ -508,10 +508,10 @@
     "categories": 14,
     "nominees": 68,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 2604,
-      "name": "Nascido em 4 de Julho",
+      "name": "Nacido el Cuatro de Julio",
       "image_path": "/j7xYuofCSHGVggJZzBzIkb8LixA.jpg",
       "director": "Oliver Stone",
       "backdrop_path": "/y9QjSsIH4vBIIqGmAFT1zJzsqPh.jpg"
@@ -522,10 +522,10 @@
     "categories": 14,
     "nominees": 71,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 380,
-      "name": "Rain Man",
+      "name": "Cuando los Hermanos se Encuentran",
       "image_path": "/7KCKWFrsohIBIuNgKCmbilB49eq.jpg",
       "director": "Barry Levinson",
       "backdrop_path": "/b3tos7Tsd6lsTe52Nn4TMrEQg65.jpg"
@@ -536,10 +536,10 @@
     "categories": 14,
     "nominees": 68,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 746,
-      "name": "O Último Imperador",
+      "name": "El último emperador",
       "image_path": "/K1azzBrv3CnvPDWd1p5InRh63Q.jpg",
       "director": "Bernardo Bertolucci",
       "backdrop_path": "/k29qVmwWwR0i5A1UMIws1Vmv6hV.jpg"
@@ -550,10 +550,10 @@
     "categories": 14,
     "nominees": 70,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 792,
-      "name": "Platoon",
+      "name": "Pelotón",
       "image_path": "/ceX6cYVY8u4TH1zNPvsApRx64CN.jpg",
       "director": "Oliver Stone",
       "backdrop_path": "/5hRvPi8z7XaGQJi1OZ3QKyJiAaA.jpg"
@@ -564,10 +564,10 @@
     "categories": 14,
     "nominees": 67,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 606,
-      "name": "Entre Dois Amores",
+      "name": "África mía",
       "image_path": "/rCV5JYKzXLkED4cyTq6Xwkea0yx.jpg",
       "director": "Sydney Pollack",
       "backdrop_path": "/5hCGJLTuRlD5WoscKhVPHVnD4gz.jpg"
@@ -578,7 +578,7 @@
     "categories": 14,
     "nominees": 69,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 279,
       "name": "Amadeus",
@@ -592,10 +592,10 @@
     "categories": 14,
     "nominees": 69,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 11050,
-      "name": "Laços de Ternura",
+      "name": "La fuerza del cariño",
       "image_path": "/9IZsFM6IowOVEGSa8mG1QDGcaZ7.jpg",
       "director": "James L. Brooks",
       "backdrop_path": "/rZXTcmx7mKysaseyWZHs6wzPAcZ.jpg"
@@ -606,10 +606,10 @@
     "categories": 16,
     "nominees": 79,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 601,
-      "name": "E.T.: O Extraterrestre",
+      "name": "E.T. El Extraterrestre",
       "image_path": "/8j5igb0iuV9TYudw9SuMV5GT9K9.jpg",
       "director": "Steven Spielberg",
       "backdrop_path": "/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg"
@@ -620,10 +620,10 @@
     "categories": 14,
     "nominees": 68,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 11816,
-      "name": "Num Lago Dourado",
+      "name": "En el estanque dorado",
       "image_path": "/5YVk92ppevAoFJ7ZAWspmNSEnwv.jpg",
       "director": "Mark Rydell",
       "backdrop_path": "/ydGY4z0hN8XebemBOJgnTD4ceiJ.jpg"
@@ -634,10 +634,10 @@
     "categories": 16,
     "nominees": 78,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 16619,
-      "name": "Gente Como a Gente",
+      "name": "Gente como uno",
       "image_path": "/recsjwsZkRAkOxMMkm7SMoqlQoM.jpg",
       "director": "Robert Redford",
       "backdrop_path": "/81LV5HJ9nUXGCMhrJpFNjwvbEZl.jpg"
@@ -648,10 +648,10 @@
     "categories": 16,
     "nominees": 78,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 12102,
-      "name": "Kramer vs. Kramer",
+      "name": "Kramer contra Kramer",
       "image_path": "/eJ0LagzKBCV9EVFxta0j7gUlPok.jpg",
       "director": "Robert Benton",
       "backdrop_path": "/9pUh1fC8TqVtYPeKpdfNyVK0qnn.jpg"
@@ -662,10 +662,10 @@
     "categories": 16,
     "nominees": 81,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 11327,
-      "name": "O Expresso da Meia-Noite",
+      "name": "Expreso de medianoche",
       "image_path": "/4feSaOwAhx4wx8so2kCsbX0xgWu.jpg",
       "director": "Alan Parker",
       "backdrop_path": "/f4dcx5U9X3w27e8iithmsaohF5t.jpg"
@@ -676,10 +676,10 @@
     "categories": 14,
     "nominees": 67,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 61280,
-      "name": "Momento de Decisão",
+      "name": "Paso Decisivo",
       "image_path": "/6CD90BQEDexEIMqIwMSnbJStF5x.jpg",
       "director": "Herbert Ross",
       "backdrop_path": "/rlXOCkER3ajPMt9IqjyebWztZUx.jpg"
@@ -690,10 +690,10 @@
     "categories": 17,
     "nominees": 85,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 1366,
-      "name": "Rocky: Um Lutador",
+      "name": "Rocky",
       "image_path": "/b9B1DXcPNsJfTtc4x2LKA3bykoJ.jpg",
       "director": "John G. Avildsen",
       "backdrop_path": "/bacOuUnRBoAO1NjMfsAGX2EKRrS.jpg"
@@ -704,10 +704,10 @@
     "categories": 16,
     "nominees": 83,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 510,
-      "name": "Um Estranho no Ninho",
+      "name": "Atrapado sin Salida",
       "image_path": "/nqz0NHRmbc57HZdZxi66shMzGKO.jpg",
       "director": "Miloš Forman",
       "backdrop_path": "/uA8eSNAUUUyfHNIrG4h0zHxzt9W.jpg"
@@ -718,10 +718,10 @@
     "categories": 17,
     "nominees": 81,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 829,
-      "name": "Chinatown",
+      "name": "Barrio Chino",
       "image_path": "/kZRSP3FmOcq0xnBulqpUQngJUXY.jpg",
       "director": "Roman Polanski",
       "backdrop_path": "/pyvkujOZ5qvY2NlQVC71flfgVWE.jpg"
@@ -732,10 +732,10 @@
     "categories": 17,
     "nominees": 84,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 9552,
-      "name": "O Exorcista",
+      "name": "El Exorcista",
       "image_path": "/bYTMDg3eGFuO7emXbQip02a8zvQ.jpg",
       "director": "William Friedkin",
       "backdrop_path": "/xcjJ5khg2yzOa282mza39Lbrm7j.jpg"
@@ -746,10 +746,10 @@
     "categories": 18,
     "nominees": 93,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 238,
-      "name": "O Poderoso Chefão",
+      "name": "El Padrino",
       "image_path": "/wOMxE93W6KcZTuCeNUByNTSaLLt.jpg",
       "director": "Francis Ford Coppola",
       "backdrop_path": "/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg"
@@ -760,10 +760,10 @@
     "categories": 17,
     "nominees": 83,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 1051,
-      "name": "Operação França",
+      "name": "Contacto en Francia",
       "image_path": "/1fpcpWAzTYsuXEeEHEc1ZQedRLt.jpg",
       "director": "William Friedkin",
       "backdrop_path": "/AsaW2VwcArvQmYjf2wsDjqWEn6f.jpg"
@@ -774,10 +774,10 @@
     "categories": 17,
     "nominees": 81,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 9062,
-      "name": "Love Story: Uma História de Amor",
+      "name": "Historia de amor",
       "image_path": "/sgjxyAjBGByL0b8543tTNu1QXO3.jpg",
       "director": "Arthur Hiller",
       "backdrop_path": "/jZC1xS5DVTe4T5azqJ4NB2QBpgt.jpg"
@@ -788,10 +788,10 @@
     "categories": 17,
     "nominees": 85,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 22522,
-      "name": "Ana dos Mil Dias",
+      "name": "Ana de los mil días",
       "image_path": "/u2p5SspAs1GqeuHXNXywryU3k37.jpg",
       "director": "Charles Jarrott",
       "backdrop_path": "/zyLU9jHFS2IInPagitMfasDwss.jpg"
@@ -802,10 +802,10 @@
     "categories": 17,
     "nominees": 85,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 18988,
-      "name": "O Leão no Inverno",
+      "name": "El leon en invierno",
       "image_path": "/xF7UDeUWLFCgt1lYFsF2ZlsZiRH.jpg",
       "director": "Anthony Harvey",
       "backdrop_path": "/u8EQqjCeaYDkgACV4mMfkPHLqpP.jpg"
@@ -816,10 +816,10 @@
     "categories": 17,
     "nominees": 85,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 10633,
-      "name": "No Calor da Noite",
+      "name": "En el calor de la noche",
       "image_path": "/c3VQIkU4wxdfLsqMVwpyXWMaVc6.jpg",
       "director": "Norman Jewison",
       "backdrop_path": "/xY5sgU09cOsvEAgJZaYo2aOZEFi.jpg"
@@ -830,10 +830,10 @@
     "categories": 14,
     "nominees": 66,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 874,
-      "name": "O Homem Que Não Vendeu Sua Alma",
+      "name": "Un hombre de dos reinos",
       "image_path": "/nlS8n2miCLdG0LSrxdZ9vyE68ea.jpg",
       "director": "Fred Zinnemann",
       "backdrop_path": "/o8Pc05f7zwgZCLrcfqszHWEQF0w.jpg"
@@ -844,10 +844,10 @@
     "categories": 15,
     "nominees": 71,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 907,
-      "name": "Doutor Jivago",
+      "name": "Doctor Zhivago",
       "image_path": "/xG9sb3Hq8SUy6hOq3AYHbBzVFKf.jpg",
       "director": "David Lean",
       "backdrop_path": "/wUaDgHfW7fViru7IubWa6Nronq9.jpg"
@@ -858,10 +858,10 @@
     "categories": 13,
     "nominees": 58,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 15421,
-      "name": "Becket, o Favorito do Rei",
+      "name": "Becket",
       "image_path": "/swWmxVbq0pXv4wwsc2O803PiXR7.jpg",
       "director": "Peter Glenville",
       "backdrop_path": "/bYwrsPgIloJsqD6nWfLycAp7tn6.jpg"
@@ -872,10 +872,10 @@
     "categories": 11,
     "nominees": 73,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 3010,
-      "name": "O Cardeal",
+      "name": "El cardenal",
       "image_path": "/y23FoRE97IH9bHFo2OBP5IkKnLq.jpg",
       "director": "Otto Preminger",
       "backdrop_path": "/pQ2I2MxlZYc43jAVsEVWMhg7FTd.jpg"
@@ -886,10 +886,10 @@
     "categories": 18,
     "nominees": 107,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 947,
-      "name": "Lawrence da Arábia",
+      "name": "Lawrence de Arabia",
       "image_path": "/r0xZR5ENEc8Pp2ULhkP4lgUWk8Y.jpg",
       "director": "David Lean",
       "backdrop_path": "/eULrEMwgXnWmzdowUfegaw2YYgD.jpg"
@@ -900,10 +900,10 @@
     "categories": 19,
     "nominees": 74,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 10911,
-      "name": "Os Canhões de Navarone",
+      "name": "Los Cañones de Navarone",
       "image_path": "/4mPCeykVi6iv6A1gh4J4MLTIG39.jpg",
       "director": "J. Lee Thompson",
       "backdrop_path": "/hgFyxEtHCMDJQc2TdXSl3FGIs2.jpg"
@@ -914,10 +914,10 @@
     "categories": 16,
     "nominees": 72,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 967,
-      "name": "Spartacus",
+      "name": "Espartaco",
       "image_path": "/7Ia2ziy1juSFsl3ZCaaRn15Yo2A.jpg",
       "director": "Stanley Kubrick",
       "backdrop_path": "/9caD0fGCrp96JTFFeGyI0CGNj7.jpg"
@@ -928,7 +928,7 @@
     "categories": 19,
     "nominees": 76,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 665,
       "name": "Ben-Hur",
@@ -942,10 +942,10 @@
     "categories": 18,
     "nominees": 73,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 11414,
-      "name": "Acorrentados",
+      "name": "Fuga en cadenas",
       "image_path": "/phY8DrcNRKdyuoNVV3KnevNlTP0.jpg",
       "director": "Stanley Kramer",
       "backdrop_path": "/jhIdEe9oCZjxLt2Cq1KR8IbnJvj.jpg"
@@ -956,10 +956,10 @@
     "categories": 16,
     "nominees": 64,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 826,
-      "name": "A Ponte do Rio Kwai",
+      "name": "El puente sobre el río Kwai",
       "image_path": "/z4NWsLsLogVh2XfLXbPaaGrX8Zz.jpg",
       "director": "David Lean",
       "backdrop_path": "/cGi9obHiooPoNR4JX72L9RooeOY.jpg"
@@ -970,10 +970,10 @@
     "categories": 19,
     "nominees": 69,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 2897,
-      "name": "A Volta ao Mundo em 80 Dias",
+      "name": "La vuelta al mundo en 80 días",
       "image_path": "/5Gc6zKgg7NWtXE00NWbkuomJSrL.jpg",
       "director": "Michael Anderson",
       "backdrop_path": "/AiSfsXyFdze5UhlSC3YVqIdG8vS.jpg"
@@ -984,10 +984,10 @@
     "categories": 18,
     "nominees": 26,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 220,
-      "name": "Vidas Amargas",
+      "name": "Al este del paraíso",
       "image_path": "/wPvRppZCK3qJiq82XZTecUiTla4.jpg",
       "director": "Elia Kazan",
       "backdrop_path": "/u7i1XtbOubq0xwRy2Zbgmox6g9W.jpg"
@@ -998,10 +998,10 @@
     "categories": 19,
     "nominees": 29,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 654,
-      "name": "Sindicato de Ladrões",
+      "name": "Nido de ratas",
       "image_path": "/23wMq1ud7inXhlAkkiQGlfoAO0G.jpg",
       "director": "Elia Kazan",
       "backdrop_path": "/j0qTehcyVVV1VEzrJ7YYtoFmWNw.jpg"
@@ -1012,10 +1012,10 @@
     "categories": 17,
     "nominees": 24,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 29912,
-      "name": "O Manto Sagrado",
+      "name": "El manto sagrado",
       "image_path": "/uJ03pqfdrFjxpAulxCokhkMLNg0.jpg",
       "director": "Henry Koster",
       "backdrop_path": "/nWCcl7iY718qikjbYfERstvcBrn.jpg"
@@ -1026,10 +1026,10 @@
     "categories": 20,
     "nominees": 57,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 27191,
-      "name": "O Maior Espetáculo da Terra",
+      "name": "El espectáculo más grande del mundo",
       "image_path": "/s0KVQ6DGbMhpQs6K0qBJFCAgCv6.jpg",
       "director": "Cecil B. DeMille",
       "backdrop_path": "/y22C1YyK8YXjU8LHoyA06MclOs6.jpg"
@@ -1040,10 +1040,10 @@
     "categories": 19,
     "nominees": 37,
     "highlight": {
-      "category": "Melhor Filme de Drama",
+      "category": "Mejor Película Dramática",
       "type": "movie",
       "id": 25673,
-      "name": "Um Lugar ao Sol",
+      "name": "Un lugar en el sol",
       "image_path": "/tkaFbPy8kEQ06xggPqhdiGJuVA4.jpg",
       "director": "George Stevens",
       "backdrop_path": "/49LzDsuSefYnEOaNjsoYLMUDn0r.jpg"
@@ -1054,10 +1054,10 @@
     "categories": 15,
     "nominees": 47,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Mejor Película",
       "type": "movie",
       "id": 599,
-      "name": "Crepúsculo dos Deuses",
+      "name": "El ocaso de una vida",
       "image_path": "/6QF7eBOqANsxj7QdIMRCEyUHW3F.jpg",
       "director": "Billy Wilder",
       "backdrop_path": "/p47ihFj4A7EpBjmPHdTj4ipyq1S.jpg"
@@ -1068,10 +1068,10 @@
     "categories": 14,
     "nominees": 28,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Mejor Película",
       "type": "movie",
       "id": 25430,
-      "name": "A Grande Ilusão",
+      "name": "Decepción",
       "image_path": "/6NinAxwoSRHO6CrTbfbrLM6peXN.jpg",
       "director": "Robert Rossen",
       "backdrop_path": "/bSTvvll9gIOcoavWRIVYL5RoTkn.jpg"
@@ -1082,7 +1082,7 @@
     "categories": 11,
     "nominees": 12,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Mejor Película",
       "type": "movie",
       "id": 62000,
       "name": "Belinda",
@@ -1096,10 +1096,10 @@
     "categories": 13,
     "nominees": 13,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Mejor Película",
       "type": "movie",
       "id": 33667,
-      "name": "A Luz é Para Todos",
+      "name": "La barrera invisible",
       "image_path": "/q6XaPfkle0tuVqS7fhzhCmKAcyG.jpg",
       "director": "Elia Kazan",
       "backdrop_path": "/4XMEwQVADrym6XWcxudH11caLCA.jpg"
@@ -1110,10 +1110,10 @@
     "categories": 8,
     "nominees": 8,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Mejor Película",
       "type": "movie",
       "id": 887,
-      "name": "Os Melhores Anos de Nossas Vidas",
+      "name": "Lo mejor de nuestra vida",
       "image_path": "/lgVHQE0fUHTd8Tgo2uIDQ2Lk0S3.jpg",
       "director": "William Wyler",
       "backdrop_path": "/n0og4mDtl08x9RLTWXt8zUKpqXQ.jpg"
@@ -1124,10 +1124,10 @@
     "categories": 7,
     "nominees": 7,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Mejor Película",
       "type": "movie",
       "id": 28580,
-      "name": "Farrapo Humano",
+      "name": "Días sin huella",
       "image_path": "/3rXzGi1BqzSPMeIjvu8WxXDQGLa.jpg",
       "director": "Billy Wilder",
       "backdrop_path": "/vyINER8nv4kAJyCIq2Sr1xjOOjC.jpg"
@@ -1138,10 +1138,10 @@
     "categories": 6,
     "nominees": 6,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Mejor Película",
       "type": "movie",
       "id": 17661,
-      "name": "O Bom Pastor",
+      "name": "Siguiendo mi camino",
       "image_path": "/cBnhRJiFaah5EHmiuDMQyr6lXdT.jpg",
       "director": "Leo McCarey",
       "backdrop_path": "/jiGn1FXSQVfN2nhix0tQtmoGWcF.jpg"
@@ -1152,10 +1152,10 @@
     "categories": 6,
     "nominees": 6,
     "highlight": {
-      "category": "Melhor Filme",
+      "category": "Mejor Película",
       "type": "movie",
       "id": 43516,
-      "name": "A Canção de Bernadette",
+      "name": "La canción de Bernadette",
       "image_path": "/xtrt9i2LWF4V7tDedDNSnhKJP4c.jpg",
       "director": "Henry King",
       "backdrop_path": "/5gxdMOVSzWNVNSjDPzQGwP6xAed.jpg"
