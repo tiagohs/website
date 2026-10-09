@@ -1,0 +1,60 @@
+[
+  {
+    "type": "text",
+    "content_text": "The <strong>Oscar</strong>, officially called the Academy Awards (in English, The <i>Academy Awards</i> or The Oscars), is the most important award in world cinema: an awards ceremony held by the <i>Academy of Motion Picture Arts and Sciences</i>, founded in Los Angeles in 1927, which each year honors film industry professionals in recognition of excellence and achievement in the art of filmmaking. The formal ceremony at which the awards are presented is one of the most widely covered media events in the world, as well as the oldest awards ceremony."
+  },
+  {
+    "type": "video",
+    "video_id": "iOtp4dli7-4",
+    "information": {
+      "contentTitle": "The First Television Broadcast",
+      "contentText": "Bob Hope delivered the first televised monologue at the Oscars, on March 19, 1953.",
+      "source": "YouTube: <i>Oscars</i> channel"
+    }
+  },
+  {
+    "type": "text",
+    "content_text": "The first Academy Awards presentation took place on <strong>May 16</strong>, 1929, at the <i>Roosevelt Hotel</i> in <i>Hollywood</i>, to honor the most outstanding film achievements of 1927 and 1928. The ceremony was hosted by actor <a href=\"https://_{type: 'screen', 'id': 109088, 'screen_type': person}\">Douglas Fairbanks</a> and director <a href=\"https://_{type: 'screen', 'id': 1139079, 'screen_type': person}\">William C. deMille</a>."
+  },
+  {
+    "type": "text",
+    "content_text": "The first televised ceremony was in 1953, broadcast only in the United States and Canada. In 1966, the ceremony was broadcast in color for the first time. Since 1969, it has been shown internationally. In 1970, Brazil and Mexico became the first countries, besides the United States and Canada, to broadcast the event live via satellite. Today, the Academy Awards are broadcast live on television in more than 200 countries, making it one of the biggest television events in the world. According to the <i>New World Encyclopedia</i>, an estimated one billion people watch the Oscars live or recorded each year, putting the ceremony on par with the audiences of major global television events such as the <strong>FIFA World Cup</strong> and the <strong>Olympic Games</strong>. The 1998 ceremony holds the record for the largest audience in Academy Awards history, with 57.25 million people watching the broadcast in the United States alone."
+  },
+  {
+    "type": "text",
+    "content_text": "The first Academy Awards presentation was held on May 16, 1929, at a private dinner at Hollywood's Roosevelt Hotel with an audience of about 270 people. The after-party was held at the <i>Mayfair Hotel</i>. Guest tickets for that night's ceremony cost 5 dollars (69 dollars in 2016). Fifteen statuettes were handed out, honoring artists, directors and other members of the film industry of the time for their work during the 1927–1928 period. The ceremony lasted 15 minutes."
+  },
+  {
+    "type": "text",
+    "content_text": "The winners had been announced to the media three months earlier; however, this was changed for the second ceremony in 1930. During the first decade of the awards, the results were given to newspapers for publication at 11 p.m. on the night of the ceremony. This method was used until the <i>Los Angeles Times</i> announced the winners before the ceremony began; as a result, since 1941 the Academy has used a sealed envelope to reveal the names of the winners."
+  },
+  {
+    "type": "image",
+    "image": {
+      "image_type": "local",
+      "url": "img_oscar_first",
+      "style": {
+        "scale_type": "center_crop"
+      }
+    },
+    "information": {
+      "contentTitle": "The First Winners",
+      "contentText": "The coveted Oscar statuette; Janet Gaynor, the first winner of the Oscar for Best Actress; a poster for a film starring the dog Rin Tin Tin; and Emil Jannings, winner of the first Oscar for Best Actor. In the 1930s, Jannings turned out to be one of the biggest supporters of the Nazi regime established in Germany in 1933, which caused a tremendous controversy at the time.",
+      "source": "Estadão"
+    }
+  },
+  {
+    "type": "text",
+    "content_text": "The first Best Actor winner was <a href=\"https://_{type: 'screen', 'id': 2895, 'screen_type': person}\">Emil Jannings</a>, for his performances in <a href=\"https://_{type: 'screen', 'id': 52679, 'screen_type': movie}\">The Last Command</a> and <a href=\"https://_{type: 'screen', 'id': 85499, 'screen_type': movie}\">The Way of All Flesh</a>. He had to return to Europe before the ceremony, so the Academy agreed to give him the award early, which made him the first Oscar winner in history. At the time, winners were recognized for all of their work in a given category during the qualifying period; for example, Jannings received the award for two films he acted in during that period, and later <a href=\"https://_{type: 'screen', 'id': 9088, 'screen_type': person}\">Janet Gaynor</a> won a single Oscar for performances in three films. Starting with the fourth ceremony, the system changed, and professionals were honored for a specific performance in a single film. For the first six ceremonies, the eligibility period lasted two years."
+  },
+  {
+    "type": "text",
+    "content_text": "At the 29th ceremony, held on March 27, 1957, the Best Foreign Language Film category was introduced. Until then, foreign-language films had been honored with a Special Award. The 74th Academy Awards, held in 2002, presented the first Oscar for Best Animated Feature. Since 1972, every Oscar ceremony has ended with the presentation of the Oscar for Best Picture.",
+    "content_credits": "Wikipedia.com"
+  },
+  {
+    "type": "block_special",
+    "title": "From 2021 to 2026",
+    "description": "Starting with the 2021 ceremony (93rd), the former Best Sound Editing and Best Sound Mixing categories were merged into a single one, Best Sound, a decision the Academy announced in April 2020. That same year, the Academy decided to fix the number of Best Picture nominees at ten, a rule that took effect at the 2022 ceremony (94th).<br/><br/>In September 2020, the Academy announced representation and inclusion standards for Best Picture. Since the 2024 ceremony (96th), to compete in the category a film must meet two of four standards, which address on-screen representation, the creative and leadership team, access to industry opportunities (such as internships and training) and distribution and marketing, always including underrepresented groups such as women, Black people and other ethnic minorities, people with disabilities and LGBTQ+ people.<br/><br/>In February 2024, the Academy created its first new competitive category since 2001, Best Casting, presented for the first time in 2026 (98th ceremony) to Cassandra Kulukundis for One Battle After Another. For that same edition, members were required to watch all the nominees in a category in order to vote in it in the final round, and it was established that the use of generative artificial intelligence in a film neither helps nor hurts its chances. In April 2025, a Best Stunt Design category was also announced, planned for the 100th ceremony in 2028."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "type": "text",
+    "content_text": "Los <i>British Academy Film Awards</i> o <i>BAFTA Film Awards</i> son una premiación anual otorgada por la <strong>Academia Británica de las Artes Cinematográficas y de la Televisión</strong> (BAFTA) para homenajear las mejores contribuciones británicas e internacionales al cine. Entre 2008 y 2016, la ceremonia se realizó en el centro de Londres, en la <i>Royal Opera House</i>. Su 72.ª edición se celebró el 10 de febrero de 2019 en el Royal Albert Hall."
+  },
+  {
+    "type": "text",
+    "content_text": "La Academia Británica de las Artes Cinematográficas y de la Televisión fue fundada en 1947 como la Academia de Cine Británico por David Lean, Alexander Korda, Carol Reed, Charles Laughton, Roger Manvell y otros. En 1958, la Academia se fusionó con el <i>Guild of Television Producers</i> and Directors para formar <i>The Society of Film and Television</i>, que se convirtió en la Academia Británica de las Artes Cinematográficas y de la Televisión en 1976. "
+  },
+  {
+    "type": "video",
+    "video_id": "XTXfcFe4Tbc",
+    "information": {
+      "contentTitle": "Rebel Wilson steals the show with HILARIOUS unexpected BAFTA 2020 speech",
+      "source": "YouTube: Canal <i>BBC</i>"
+    }
+  },
+  {
+    "type": "text",
+    "content_text": "La BAFTA afirma que su propósito benéfico es \"apoyar, desarrollar y promover las formas artísticas de la imagen en movimiento, identificando y recompensando la excelencia, inspirando a los profesionales y beneficiando al público\". Además de las ceremonias de premiación de alto nivel, la BAFTA lleva a cabo durante todo el año un programa de eventos educativos, que incluye proyecciones de películas y noches de homenaje. La BAFTA cuenta con el apoyo de una membresía de unas 6000 personas de las industrias del cine, la televisión y los videojuegos."
+  },
+  {
+    "type": "text",
+    "content_text": "Los premios de la Academia representan una máscara teatral diseñada por la escultora estadounidense Mitzi Cunliffe, que fue encargada por el Guild of Television Producers en 1955. "
+  },
+  {
+    "type": "block_special",
+    "title": "Acontecimientos",
+    "click": {
+      "screen": "link_online",
+      "button_text": "Haz clic aquí para acceder",
+      "parameters": [
+        {
+          "key": "LINK",
+          "value": "https://www.bafta.org/heritage"
+        }
+      ]
+    },
+    "description": "Los principales acontecimientos desde la fundación de la BAFTA."
+  },
+  {
+    "type": "text",
+    "content_credits": "Wikipedia.com"
+  },
+  {
+    "type": "block_special",
+    "title": "De 2021 a 2026",
+    "description": "Después de las ceremonias de 2021 y 2022 en el Royal Albert Hall, los BAFTA Film Awards pasaron a realizarse en el Royal Festival Hall, en el Southbank Centre de Londres, a partir de la 76.ª edición, en febrero de 2023. Los presentadores también se fueron turnando: Rebel Wilson en 2022, Richard E. Grant y Alison Hammond en 2023, David Tennant en 2024 y 2025 y Alan Cumming en 2026.<br/><br/>En 2025 la Academia Británica creó la categoría de Mejor Película Infantil y Familiar (Children's & Family Film). La primera ganadora fue Wallace y Gromit: La venganza se sirve con plumas, que esa misma noche también se llevó Mejor Película Animada; en 2026 la categoría fue para Boong."
+  }
+]

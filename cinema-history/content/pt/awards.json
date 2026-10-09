@@ -1,0 +1,347 @@
+[
+  {
+    "main_topic_type": "awards",
+    "layout_type": "card_full",
+    "id": 1,
+    "name": "Oscars (Academy Awards)",
+    "country": "Estados Unidos",
+    "presented_by": "Academia de Artes e Ciências Cinematográficas",
+    "first_awarded_date": "16/05/1929",
+    "nominees_id": 1,
+    "logo": {
+      "image_type": "local",
+      "url": "img_logo_oscar",
+      "content_description": "Foto com a logo do BAFTA.",
+      "style": {
+        "scale_type": "center_crop"
+      }
+    },
+    "image": {
+      "image_type": "local",
+      "url": "img_oscar",
+      "content_description": "Foto com uma mão segurando o Oscar.",
+      "style": {
+        "height": 400,
+        "scale_type": "center_crop",
+        "resize": {
+          "height": 400
+        }
+      }
+    },
+    "social_list": [
+      {
+        "type": "site",
+        "link": "https://oscar.go.com/"
+      },
+      {
+        "type": "twitter",
+        "link": "https://twitter.com/theacademy"
+      },
+      {
+        "type": "instagram",
+        "link": "https://www.instagram.com/theacademy/"
+      },
+      {
+        "type": "facebook",
+        "link": "https://www.facebook.com/TheAcademy"
+      },
+      {
+        "type": "youtube",
+        "link": "https://www.youtube.com/user/Oscars"
+      }
+    ]
+  },
+  {
+    "main_topic_type": "awards",
+    "layout_type": "card_full",
+    "id": 7,
+    "name": "Festival de Cannes",
+    "country": "França",
+    "presented_by": "Association Française du Festival International du Film",
+    "first_awarded_date": "20/09/1946",
+    "nominees_id": 7,
+    "logo": {
+      "image_type": "local",
+      "url": "img_logo_festival_cannes",
+      "content_description": "Foto com a logo do Festival de Cannes.",
+      "style": {
+        "scale_type": "center_crop"
+      }
+    },
+    "image": {
+      "image_type": "local",
+      "url": "img_festival_cannes",
+      "content_description": "Foto com a estatueta do Prêmio Palma de Ouro.",
+      "style": {
+        "height": 500,
+        "scale_type": "center_crop"
+      }
+    },
+    "social_list": [
+      {
+        "type": "site",
+        "link": "https://www.festival-cannes.com/en/"
+      },
+      {
+        "type": "twitter",
+        "link": "https://twitter.com/festival_cannes"
+      },
+      {
+        "type": "instagram",
+        "link": "https://www.instagram.com/festivaldecannes"
+      },
+      {
+        "type": "facebook",
+        "link": "https://www.facebook.com/festivaldecannes/"
+      },
+      {
+        "type": "youtube",
+        "link": "https://www.youtube.com/channel/UC-PTqxIdpslwlcaj_0dpKQA"
+      }
+    ]
+  },
+  {
+    "main_topic_type": "awards",
+    "layout_type": "card_full",
+    "id": 2,
+    "name": "Globo de Ouro",
+    "country": "Estados Unidos",
+    "presented_by": "Dick Clark Productions (Penske Media Eldridge)",
+    "first_awarded_date": "20/01/1944",
+    "nominees_id": 2,
+    "logo": {
+      "image_type": "local",
+      "url": "img_logo_golden_globe",
+      "content_description": "Foto com a logo do BAFTA.",
+      "style": {
+        "scale_type": "center_crop"
+      }
+    },
+    "image": {
+      "image_type": "local",
+      "url": "img_golden_globe",
+      "content_description": "Foto com a estatueta do Globo de Ouro.",
+      "style": {
+        "height": 400,
+        "scale_type": "center_crop",
+        "resize": {
+          "height": 400
+        }
+      }
+    },
+    "social_list": [
+      {
+        "type": "site",
+        "link": "https://www.goldenglobes.com/"
+      },
+      {
+        "type": "twitter",
+        "link": "https://twitter.com/goldenglobes"
+      },
+      {
+        "type": "instagram",
+        "link": "https://instagram.com/goldenglobes/"
+      },
+      {
+        "type": "facebook",
+        "link": "https://www.facebook.com/GoldenGlobes"
+      },
+      {
+        "type": "youtube",
+        "link": "http://www.youtube.com/user/GoldenGlobes"
+      }
+    ]
+  },
+  {
+    "main_topic_type": "awards",
+    "layout_type": "card_full",
+    "id": 4,
+    "name": "Critics Choice Awards",
+    "country": "Estados Unidos",
+    "presented_by": "Critics Choice Association",
+    "first_awarded_date": "22/01/1996",
+    "nominees_id": 4,
+    "logo": {
+      "image_type": "local",
+      "url": "img_logo_critics_choice",
+      "content_description": "Foto com a logo do Critics Choice Awards.",
+      "style": {
+        "scale_type": "center_crop"
+      }
+    },
+    "image": {
+      "image_type": "local",
+      "url": "img_critics_choice",
+      "content_description": "Foto com a estatueta do Critics Choice Awards.",
+      "style": {
+        "height": 400,
+        "scale_type": "center_crop"
+      }
+    },
+    "social_list": [
+      {
+        "type": "site",
+        "link": "https://www.criticschoice.com/"
+      },
+      {
+        "type": "twitter",
+        "link": "https://twitter.com/criticschoice"
+      },
+      {
+        "type": "instagram",
+        "link": "https://www.instagram.com/criticschoice"
+      },
+      {
+        "type": "facebook",
+        "link": "https://www.facebook.com/CriticsChoiceAwards"
+      },
+      {
+        "type": "youtube",
+        "link": "https://www.youtube.com/channel/UC-fagRaRl1BLpkWZCmwCHzQ"
+      }
+    ]
+  },
+  {
+    "main_topic_type": "awards",
+    "layout_type": "card_full",
+    "id": 3,
+    "name": "BAFTA Film Awards",
+    "country": "Reino Unido",
+    "presented_by": "Academia Britânica de Cinema e Televisão",
+    "first_awarded_date": "29/05/1949",
+    "nominees_id": 3,
+    "logo": {
+      "image_type": "local",
+      "url": "img_logo_bafta",
+      "content_description": "Foto com a logo do BAFTA.",
+      "style": {
+        "scale_type": "center_crop"
+      }
+    },
+    "image": {
+      "image_type": "local",
+      "url": "img_bafta",
+      "content_description": "Foto com a estatueta do BAFTA.",
+      "style": {
+        "height": 400,
+        "scale_type": "center_crop"
+      }
+    },
+    "social_list": [
+      {
+        "type": "site",
+        "link": "http://www.bafta.org/"
+      },
+      {
+        "type": "twitter",
+        "link": "http://www.twitter.com/BAFTA"
+      },
+      {
+        "type": "instagram",
+        "link": "http://instagram.com/bafta"
+      },
+      {
+        "type": "facebook",
+        "link": "https://www.facebook.com/bafta"
+      },
+      {
+        "type": "youtube",
+        "link": "https://www.youtube.com/user/Baftaonline"
+      }
+    ]
+  },
+  {
+    "main_topic_type": "awards",
+    "layout_type": "card_full",
+    "id": 5,
+    "name": "The Actor Awards (SAG Awards)",
+    "country": "Estados Unidos",
+    "presented_by": "SAG-AFTRA",
+    "first_awarded_date": "25/02/1995",
+    "nominees_id": 5,
+    "logo": {
+      "image_type": "local",
+      "url": "img_logo_sag_awards",
+      "content_description": "Foto com a logo do SAG.",
+      "style": {
+        "scale_type": "center_crop"
+      }
+    },
+    "image": {
+      "image_type": "local",
+      "url": "img_sag",
+      "content_description": "Foto com a estatueta do SAG.",
+      "style": {
+        "height": 400,
+        "scale_type": "center_crop"
+      }
+    },
+    "social_list": [
+      {
+        "type": "site",
+        "link": "https://www.sagawards.org/"
+      },
+      {
+        "type": "twitter",
+        "link": "https://twitter.com/sagawards"
+      },
+      {
+        "type": "instagram",
+        "link": "https://instagram.com/sagawards/"
+      },
+      {
+        "type": "facebook",
+        "link": "https://www.facebook.com/sagawardsofficialpage/"
+      }
+    ]
+  },
+  {
+    "main_topic_type": "awards",
+    "layout_type": "card_full",
+    "id": 6,
+    "name": "Independent Spirit Awards",
+    "country": "Estados Unidos",
+    "presented_by": "Film Independent",
+    "first_awarded_date": "22/03/1986",
+    "nominees_id": 6,
+    "logo": {
+      "image_type": "local",
+      "url": "img_logo_independent_spirit",
+      "content_description": "Foto com a logo do Independent Spirit Awards.",
+      "style": {
+        "scale_type": "center_crop"
+      }
+    },
+    "image": {
+      "image_type": "local",
+      "url": "img_independent_spirt",
+      "content_description": "Foto com a estatueta do Independent Spirit Awards.",
+      "style": {
+        "height": 400,
+        "scale_type": "center_crop"
+      }
+    },
+    "social_list": [
+      {
+        "type": "site",
+        "link": "https://www.filmindependent.org/spirit-awards/"
+      },
+      {
+        "type": "twitter",
+        "link": "https://twitter.com/filmindependent"
+      },
+      {
+        "type": "instagram",
+        "link": "http://instagram.com/filmindependent"
+      },
+      {
+        "type": "facebook",
+        "link": "https://www.facebook.com/filmindependent"
+      },
+      {
+        "type": "youtube",
+        "link": "https://www.youtube.com/user/filmindependent"
+      }
+    ]
+  }
+]

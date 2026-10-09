@@ -2,3 +2,8 @@
 /cinema-history/media/*
   Cache-Control: public, max-age=31536000, immutable
   Access-Control-Allow-Origin: *
+
+# Conteúdo atualizável do app (prêmios etc.): cache curto, o app confere o manifest a cada 6 h.
+/cinema-history/content/*
+  Cache-Control: public, max-age=300
+  Access-Control-Allow-Origin: *
