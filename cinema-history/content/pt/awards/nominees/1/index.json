@@ -1,0 +1,1360 @@
+[
+ {
+  "year": "2026",
+  "categories": 24,
+  "nominees": 125,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 1054867,
+   "name": "Uma Batalha Após a Outra",
+   "image_path": "/2peYXW6CoruehDnKJGMjl2NuaNB.jpg",
+   "director": "Paul Thomas Anderson",
+   "backdrop_path": "/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg"
+  }
+ },
+ {
+  "year": "2025",
+  "categories": 23,
+  "nominees": 120,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 1064213,
+   "name": "Anora",
+   "image_path": "/v8Pq2MwPXWDCg1MF3UxNlBCkgDA.jpg",
+   "director": "Sean Baker",
+   "backdrop_path": "/qvyOfwTC3qdbzkqdXWSSEMHtjBZ.jpg"
+  }
+ },
+ {
+  "year": "2024",
+  "categories": 23,
+  "nominees": 120,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 872585,
+   "name": "Oppenheimer",
+   "image_path": "/dUPQszWoRSE9FucJTbVp2bwEi9G.jpg",
+   "director": "Christopher Nolan",
+   "backdrop_path": "/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg"
+  }
+ },
+ {
+  "year": "2023",
+  "categories": 23,
+  "nominees": 120,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 545611,
+   "name": "Tudo em Todo o Lugar ao Mesmo Tempo",
+   "image_path": "/2dSZQGwijlXvMSyuGe0FSgrXnv0.jpg",
+   "director": "Daniel Scheinert, Daniel Kwan",
+   "backdrop_path": "/fIwiFha3WPu5nHkBeMQ4GzEk0Hv.jpg"
+  }
+ },
+ {
+  "year": "2022",
+  "categories": 23,
+  "nominees": 120,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 776503,
+   "name": "No Ritmo do Coração",
+   "image_path": "/fXeWSHLlAEsINva6SJgb5hCLBzy.jpg",
+   "director": "Sian Heder",
+   "backdrop_path": "/v85FlkbMYKa5du1glm0YfYNsL2n.jpg"
+  }
+ },
+ {
+  "year": "2021",
+  "categories": 23,
+  "nominees": 118,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 581734,
+   "name": "Nomadland",
+   "image_path": "/pLwarSuyUjw6vF0U6JhlHzAa1Gp.jpg",
+   "director": "Chloé Zhao",
+   "backdrop_path": "/563sRDK3rZS31TXCdTY4lfcwrNK.jpg"
+  }
+ },
+ {
+  "year": "2020",
+  "categories": 24,
+  "nominees": 124,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 496243,
+   "name": "Parasita",
+   "image_path": "/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg",
+   "director": "Bong Joon-ho",
+   "backdrop_path": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg"
+  }
+ },
+ {
+  "year": "2019",
+  "categories": 24,
+  "nominees": 121,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 490132,
+   "name": "Green Book - O Guia",
+   "image_path": "/jaosA7NFPYBDueQ3X3SkADN6aS.jpg",
+   "director": "Peter Farrelly",
+   "backdrop_path": "/5En0fmDagt3Pk8d7P3uTwfeQceg.jpg"
+  }
+ },
+ {
+  "year": "2018",
+  "categories": 24,
+  "nominees": 123,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 399055,
+   "name": "A Forma da Água",
+   "image_path": "/hHPFq7myTjAVH6CwQjamAuUqhrr.jpg",
+   "director": "Guillermo del Toro",
+   "backdrop_path": "/abirSHwWgKajV3hXhaIR5lcCIXe.jpg"
+  }
+ },
+ {
+  "year": "2017",
+  "categories": 25,
+  "nominees": 126,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 376867,
+   "name": "Moonlight: Sob a Luz do Luar",
+   "image_path": "/AekOkoT88EhDHikUQXQcKri2q4B.jpg",
+   "director": "Barry Jenkins",
+   "backdrop_path": "/jm1oD3eB08LImSwL1LrzF9AJQ5b.jpg"
+  }
+ },
+ {
+  "year": "2016",
+  "categories": 26,
+  "nominees": 124,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 314365,
+   "name": "Spotlight: Segredos Revelados",
+   "image_path": "/wHNzfrfK8M4WIq3XDUqAFdKKY5Z.jpg",
+   "director": "Tom McCarthy",
+   "backdrop_path": "/8FbbcmwmpGd7brfiC7f7lWFNGdi.jpg"
+  }
+ },
+ {
+  "year": "2015",
+  "categories": 26,
+  "nominees": 125,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 194662,
+   "name": "Birdman ou (A Inesperada Virtude da Ignorância)",
+   "image_path": "/7gwtDnEJ39QarOyzt9bSxEj3SkD.jpg",
+   "director": "Alejandro G. Iñárritu",
+   "backdrop_path": "/s0OrExdg7i3RLR7oqzHRk4q2kL4.jpg"
+  }
+ },
+ {
+  "year": "2014",
+  "categories": 26,
+  "nominees": 126,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 76203,
+   "name": "12 Anos de Escravidão",
+   "image_path": "/o5t8fqcNDyfojYwwlECZEgyD96T.jpg",
+   "director": "Steve McQueen",
+   "backdrop_path": "/4Bb1kMIfrT2tYRZ9M6Jhqy6gkeF.jpg"
+  }
+ },
+ {
+  "year": "2013",
+  "categories": 26,
+  "nominees": 126,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 68734,
+   "name": "Argo",
+   "image_path": "/dZqmn3vr80UeSSj4QbVEUI8D7yb.jpg",
+   "director": "Ben Affleck",
+   "backdrop_path": "/iVk4mVKwNE66JbBcoDwcYFvuUXM.jpg"
+  }
+ },
+ {
+  "year": "2012",
+  "categories": 26,
+  "nominees": 122,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 74643,
+   "name": "O Artista",
+   "image_path": "/sVBZ45hWFuzZtQc57TUf323R4VF.jpg",
+   "director": "Michel Hazanavicius",
+   "backdrop_path": "/bYimqNnizPUCnL5HOdoCW02IGmH.jpg"
+  }
+ },
+ {
+  "year": "2011",
+  "categories": 26,
+  "nominees": 124,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 45269,
+   "name": "O Discurso do Rei",
+   "image_path": "/bRjhSFgc2sDYSf6WWlk9zujIPfk.jpg",
+   "director": "Tom Hooper",
+   "backdrop_path": "/m4MGxxEgAMqIX9x8MCg5pYeyYjU.jpg"
+  }
+ },
+ {
+  "year": "2010",
+  "categories": 26,
+  "nominees": 125,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 12162,
+   "name": "Guerra ao Terror",
+   "image_path": "/jZs35NbWncIuB06sMmf6ayH026g.jpg",
+   "director": "Kathryn Bigelow",
+   "backdrop_path": "/off0xgvtfHY82l3MC4mDpCk1APY.jpg"
+  }
+ },
+ {
+  "year": "2009",
+  "categories": 25,
+  "nominees": 112,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 12405,
+   "name": "Quem Quer Ser um Milionário?",
+   "image_path": "/timJSy64zR0BM2xhkXwIyvDG6MM.jpg",
+   "director": "Danny Boyle",
+   "backdrop_path": "/1wZoVT9RJsZmNjg8CecXqSgFUd9.jpg"
+  }
+ },
+ {
+  "year": "2008",
+  "categories": 25,
+  "nominees": 114,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 6977,
+   "name": "Onde os Fracos Não Têm Vez",
+   "image_path": "/jdlY8Bhcb4Qzfldr1JaexYBgyW3.jpg",
+   "director": "Joel Coen, Ethan Coen",
+   "backdrop_path": "/gddUsvfyySrM5k8B8wwJy2VRlBx.jpg"
+  }
+ },
+ {
+  "year": "2007",
+  "categories": 26,
+  "nominees": 115,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 1422,
+   "name": "Os Infiltrados",
+   "image_path": "/qtnAwzDapzOML4Q9p7lv2bk5gvz.jpg",
+   "director": "Martin Scorsese",
+   "backdrop_path": "/6WRrGYalXXveItfpnipYdayFkQB.jpg"
+  }
+ },
+ {
+  "year": "2006",
+  "categories": 25,
+  "nominees": 110,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 1640,
+   "name": "Crash: No Limite",
+   "image_path": "/4pwHDsYeOVsdLT8TykM047hIkKA.jpg",
+   "director": "Paul Haggis",
+   "backdrop_path": "/l5LNCgS4hbNMnt5acKFT9G3LcMl.jpg"
+  }
+ },
+ {
+  "year": "2005",
+  "categories": 26,
+  "nominees": 114,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 70,
+   "name": "Menina de Ouro",
+   "image_path": "/edzbBaAHoJGvmNtY2Qck936AgnI.jpg",
+   "director": "Clint Eastwood",
+   "backdrop_path": "/oGMomeS7bE43eN8SGJUaKvQnmud.jpg"
+  }
+ },
+ {
+  "year": "2004",
+  "categories": 25,
+  "nominees": 111,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 122,
+   "name": "O Senhor dos Anéis: O Retorno do Rei",
+   "image_path": "/rU4oIKv5I4C59DpcXKmT7kNwGI0.jpg",
+   "director": "Peter Jackson",
+   "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg"
+  }
+ },
+ {
+  "year": "2003",
+  "categories": 25,
+  "nominees": 113,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 1574,
+   "name": "Chicago",
+   "image_path": "/r3ZluYmNgfow3HokBDmIp9GLFE2.jpg",
+   "director": "Rob Marshall",
+   "backdrop_path": "/euxYhuuJjChU755u2YHj0ZPjww3.jpg"
+  }
+ },
+ {
+  "year": "2002",
+  "categories": 26,
+  "nominees": 112,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 453,
+   "name": "Uma Mente Brilhante",
+   "image_path": "/8K5W9QnNT7r1V9GuJ5z5KlrROkd.jpg",
+   "director": "Ron Howard",
+   "backdrop_path": "/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg"
+  }
+ },
+ {
+  "year": "2001",
+  "categories": 25,
+  "nominees": 109,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 98,
+   "name": "Gladiador",
+   "image_path": "/4DUClyGA6OqjXv6yC0Imf6THGfp.jpg",
+   "director": "Ridley Scott",
+   "backdrop_path": "/Ar7QuJ7sJEiC0oP3I8fKBKIQD9u.jpg"
+  }
+ },
+ {
+  "year": "2000",
+  "categories": 25,
+  "nominees": 110,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 14,
+   "name": "Beleza Americana",
+   "image_path": "/9PJKsH7Btz2xjYIvLLtJ7qcJlL3.jpg",
+   "director": "Sam Mendes",
+   "backdrop_path": "/2ndw55F40IkALzWyjCCza3M6nqM.jpg"
+  }
+ },
+ {
+  "year": "1999",
+  "categories": 26,
+  "nominees": 114,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 1934,
+   "name": "Shakespeare Apaixonado",
+   "image_path": "/3wC7QCcjvT9vRMlWyXoJCbqIuXb.jpg",
+   "director": "John Madden",
+   "backdrop_path": "/i16MjvM9YsQ85ejdB63gtGXDu4W.jpg"
+  }
+ },
+ {
+  "year": "1998",
+  "categories": 25,
+  "nominees": 115,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 597,
+   "name": "Titanic",
+   "image_path": "/As0zX43h3w6kD2NS4uVHu9HKdEh.jpg",
+   "director": "James Cameron",
+   "backdrop_path": "/xXCuto8YVp5RFqBJ7yKmVmLOWpF.jpg"
+  }
+ },
+ {
+  "year": "1997",
+  "categories": 26,
+  "nominees": 115,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 409,
+   "name": "O Paciente Inglês",
+   "image_path": "/yBnEL8I7MXUvOvdcZV1MJJQDoxU.jpg",
+   "director": "Anthony Minghella",
+   "backdrop_path": "/em5kAUF8QbwThG5BCqVgFomxNT5.jpg"
+  }
+ },
+ {
+  "year": "1996",
+  "categories": 26,
+  "nominees": 116,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 197,
+   "name": "Coração Valente",
+   "image_path": "/cfnhpDzEV5zTsuaa4dCHFRzPHXx.jpg",
+   "director": "Mel Gibson",
+   "backdrop_path": "/1m1c5gIWWkb1FEC9lzsoXHhhs7b.jpg"
+  }
+ },
+ {
+  "year": "1995",
+  "categories": 26,
+  "nominees": 112,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 13,
+   "name": "Forrest Gump: O Contador de Histórias",
+   "image_path": "/d74WpIsH8379TIL4wUxDneRCYv2.jpg",
+   "director": "Robert Zemeckis",
+   "backdrop_path": "/66Kn4XWhkuPkJxOJyPEx4U2CUfN.jpg"
+  }
+ },
+ {
+  "year": "1994",
+  "categories": 25,
+  "nominees": 109,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 424,
+   "name": "A Lista de Schindler",
+   "image_path": "/lfJAj9OGsiSsbFxouRkGKqibHxf.jpg",
+   "director": "Steven Spielberg",
+   "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg"
+  }
+ },
+ {
+  "year": "1993",
+  "categories": 25,
+  "nominees": 112,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 33,
+   "name": "Os Imperdoáveis",
+   "image_path": "/kmMDDCOB8xPCrmFW7w9zqgymCWJ.jpg",
+   "director": "Clint Eastwood",
+   "backdrop_path": "/5zkrI7P70j8C03ThBOvrEG6VF8M.jpg"
+  }
+ },
+ {
+  "year": "1992",
+  "categories": 25,
+  "nominees": 107,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 274,
+   "name": "O Silêncio dos Inocentes",
+   "image_path": "/5fCrBDJLHxywiFr19o4aOWf92VN.jpg",
+   "director": "Jonathan Demme",
+   "backdrop_path": "/mbOx1wxMLikzwWUO9TKAcFIy6op.jpg"
+  }
+ },
+ {
+  "year": "1991",
+  "categories": 25,
+  "nominees": 109,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 581,
+   "name": "Dança com Lobos",
+   "image_path": "/uWsXlrzsHKCwI2fPrrpW0QFwjMZ.jpg",
+   "director": "Kevin Costner",
+   "backdrop_path": "/ywWva4trKw7f3wtbz81Fe3FnrtC.jpg"
+  }
+ },
+ {
+  "year": "1990",
+  "categories": 25,
+  "nominees": 105,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 403,
+   "name": "Conduzindo Miss Daisy",
+   "image_path": "/4FB6xnmvtW2vT1t4mKb5vs7JiE.jpg",
+   "director": "Bruce Beresford",
+   "backdrop_path": "/4XC0HwRNOvub6xksENsOl68zHOn.jpg"
+  }
+ },
+ {
+  "year": "1989",
+  "categories": 25,
+  "nominees": 106,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 380,
+   "name": "Rain Man",
+   "image_path": "/7KCKWFrsohIBIuNgKCmbilB49eq.jpg",
+   "director": "Barry Levinson",
+   "backdrop_path": "/b3tos7Tsd6lsTe52Nn4TMrEQg65.jpg"
+  }
+ },
+ {
+  "year": "1988",
+  "categories": 24,
+  "nominees": 102,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 746,
+   "name": "O Último Imperador",
+   "image_path": "/K1azzBrv3CnvPDWd1p5InRh63Q.jpg",
+   "director": "Bernardo Bertolucci",
+   "backdrop_path": "/k29qVmwWwR0i5A1UMIws1Vmv6hV.jpg"
+  }
+ },
+ {
+  "year": "1987",
+  "categories": 25,
+  "nominees": 107,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 792,
+   "name": "Platoon",
+   "image_path": "/ceX6cYVY8u4TH1zNPvsApRx64CN.jpg",
+   "director": "Oliver Stone",
+   "backdrop_path": "/5hRvPi8z7XaGQJi1OZ3QKyJiAaA.jpg"
+  }
+ },
+ {
+  "year": "1986",
+  "categories": 25,
+  "nominees": 108,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 606,
+   "name": "Entre Dois Amores",
+   "image_path": "/rCV5JYKzXLkED4cyTq6Xwkea0yx.jpg",
+   "director": "Sydney Pollack",
+   "backdrop_path": "/5hCGJLTuRlD5WoscKhVPHVnD4gz.jpg"
+  }
+ },
+ {
+  "year": "1985",
+  "categories": 26,
+  "nominees": 109,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 279,
+   "name": "Amadeus",
+   "image_path": "/8YKjrBwZjaudr4IsVg9U0ZNC8si.jpg",
+   "director": "Miloš Forman",
+   "backdrop_path": "/rnQyWw68dPHPRtvSWMtLSueXf05.jpg"
+  }
+ },
+ {
+  "year": "1984",
+  "categories": 25,
+  "nominees": 104,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 11050,
+   "name": "Laços de Ternura",
+   "image_path": "/9IZsFM6IowOVEGSa8mG1QDGcaZ7.jpg",
+   "director": "James L. Brooks",
+   "backdrop_path": "/rZXTcmx7mKysaseyWZHs6wzPAcZ.jpg"
+  }
+ },
+ {
+  "year": "1983",
+  "categories": 26,
+  "nominees": 111,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 783,
+   "name": "Gandhi",
+   "image_path": "/uFNrAcnRbaDgi1D9VM0NLMLAwgX.jpg",
+   "director": "Richard Attenborough",
+   "backdrop_path": "/gum3tuO1zKHBdElSQPS08PJ1w67.jpg"
+  }
+ },
+ {
+  "year": "1982",
+  "categories": 26,
+  "nominees": 104,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 9443,
+   "name": "Carruagens de Fogo",
+   "image_path": "/ceKjMhvsa98MbdLYoHsO3wH3uFh.jpg",
+   "director": "Hugh Hudson",
+   "backdrop_path": "/nEeq7iQDbsj4qRt9E11PvQOWKvQ.jpg"
+  }
+ },
+ {
+  "year": "1981",
+  "categories": 22,
+  "nominees": 98,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 16619,
+   "name": "Gente Como a Gente",
+   "image_path": "/recsjwsZkRAkOxMMkm7SMoqlQoM.jpg",
+   "director": "Robert Redford",
+   "backdrop_path": "/81LV5HJ9nUXGCMhrJpFNjwvbEZl.jpg"
+  }
+ },
+ {
+  "year": "1980",
+  "categories": 26,
+  "nominees": 111,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 12102,
+   "name": "Kramer vs. Kramer",
+   "image_path": "/eJ0LagzKBCV9EVFxta0j7gUlPok.jpg",
+   "director": "Robert Benton",
+   "backdrop_path": "/9pUh1fC8TqVtYPeKpdfNyVK0qnn.jpg"
+  }
+ },
+ {
+  "year": "1979",
+  "categories": 24,
+  "nominees": 106,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 11778,
+   "name": "O Franco Atirador",
+   "image_path": "/xjeaIyoZOWnPCX5E1JvzmkNv4QC.jpg",
+   "director": "Michael Cimino",
+   "backdrop_path": "/a5zBQfXmLk3qqRYF7AioWpiAxk2.jpg"
+  }
+ },
+ {
+  "year": "1978",
+  "categories": 26,
+  "nominees": 109,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 703,
+   "name": "Noivo Neurótico, Noiva Nervosa",
+   "image_path": "/u6N75JTpwdBJeQwCkNz9E05Yuj0.jpg",
+   "director": "Woody Allen",
+   "backdrop_path": "/8n9dYsTbXTykzm2Nuy7R2ftapXQ.jpg"
+  }
+ },
+ {
+  "year": "1977",
+  "categories": 23,
+  "nominees": 104,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 1366,
+   "name": "Rocky: Um Lutador",
+   "image_path": "/b9B1DXcPNsJfTtc4x2LKA3bykoJ.jpg",
+   "director": "John G. Avildsen",
+   "backdrop_path": "/bacOuUnRBoAO1NjMfsAGX2EKRrS.jpg"
+  }
+ },
+ {
+  "year": "1976",
+  "categories": 25,
+  "nominees": 107,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 510,
+   "name": "Um Estranho no Ninho",
+   "image_path": "/nqz0NHRmbc57HZdZxi66shMzGKO.jpg",
+   "director": "Miloš Forman",
+   "backdrop_path": "/uA8eSNAUUUyfHNIrG4h0zHxzt9W.jpg"
+  }
+ },
+ {
+  "year": "1975",
+  "categories": 24,
+  "nominees": 107,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 240,
+   "name": "O Poderoso Chefão: Parte II",
+   "image_path": "/3ViYPhSAPwH2avQjdMl49F8PklB.jpg",
+   "director": "Francis Ford Coppola",
+   "backdrop_path": "/pGzqRKrYeK4LogoysNro0vG8d8N.jpg"
+  }
+ },
+ {
+  "year": "1974",
+  "categories": 24,
+  "nominees": 103,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 9277,
+   "name": "Golpe de Mestre",
+   "image_path": "/jEJ0ZucEdSe2nk6OSHFVQkxYZXG.jpg",
+   "director": "George Roy Hill",
+   "backdrop_path": "/1r9lH3DaSWKGyvZaoo6BF5STOk5.jpg"
+  }
+ },
+ {
+  "year": "1973",
+  "categories": 24,
+  "nominees": 103,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 238,
+   "name": "O Poderoso Chefão",
+   "image_path": "/wOMxE93W6KcZTuCeNUByNTSaLLt.jpg",
+   "director": "Francis Ford Coppola",
+   "backdrop_path": "/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg"
+  }
+ },
+ {
+  "year": "1972",
+  "categories": 23,
+  "nominees": 104,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 1051,
+   "name": "Operação França",
+   "image_path": "/1fpcpWAzTYsuXEeEHEc1ZQedRLt.jpg",
+   "director": "William Friedkin",
+   "backdrop_path": "/AsaW2VwcArvQmYjf2wsDjqWEn6f.jpg"
+  }
+ },
+ {
+  "year": "1971",
+  "categories": 25,
+  "nominees": 107,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 11202,
+   "name": "Patton, Rebelde ou Herói?",
+   "image_path": "/wxDAG0bWf7ytbE1tmR5iN8v2Zdf.jpg",
+   "director": "Franklin J. Schaffner",
+   "backdrop_path": "/txXPooNu7fr4YhLwx7AlXkU0PnN.jpg"
+  }
+ },
+ {
+  "year": "1970",
+  "categories": 24,
+  "nominees": 105,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 3116,
+   "name": "Perdidos na Noite",
+   "image_path": "/95F9mJEXJNcsrlVNKQ9BwN7cXpj.jpg",
+   "director": "John Schlesinger",
+   "backdrop_path": "/wY04PHkTBqdlaEbsDj6cchfRL98.jpg"
+  }
+ },
+ {
+  "year": "1969",
+  "categories": 24,
+  "nominees": 108,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 17917,
+   "name": "Oliver!",
+   "image_path": "/1XJgoaOWKrqxkKeBKWLKSigqG8c.jpg",
+   "director": "Carol Reed",
+   "backdrop_path": "/kd2zTW96fK5qNuZcwVUFeMIYxBa.jpg"
+  }
+ },
+ {
+  "year": "1968",
+  "categories": 26,
+  "nominees": 109,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 10633,
+   "name": "No Calor da Noite",
+   "image_path": "/c3VQIkU4wxdfLsqMVwpyXWMaVc6.jpg",
+   "director": "Norman Jewison",
+   "backdrop_path": "/xY5sgU09cOsvEAgJZaYo2aOZEFi.jpg"
+  }
+ },
+ {
+  "year": "1967",
+  "categories": 29,
+  "nominees": 124,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 874,
+   "name": "O Homem Que Não Vendeu Sua Alma",
+   "image_path": "/nlS8n2miCLdG0LSrxdZ9vyE68ea.jpg",
+   "director": "Fred Zinnemann",
+   "backdrop_path": "/o8Pc05f7zwgZCLrcfqszHWEQF0w.jpg"
+  }
+ },
+ {
+  "year": "1966",
+  "categories": 29,
+  "nominees": 125,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 15121,
+   "name": "A Noviça Rebelde",
+   "image_path": "/nF9wgSkAvjzJi6fF4oa8GcojTof.jpg",
+   "director": "Robert Wise",
+   "backdrop_path": "/ioQYjcRnU54ir5ltgyS7k53zw5x.jpg"
+  }
+ },
+ {
+  "year": "1965",
+  "categories": 27,
+  "nominees": 122,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 11113,
+   "name": "Minha Bela Dama",
+   "image_path": "/lePZjXwcUHzQt5OA1VgUCE5ygRl.jpg",
+   "director": "George Cukor",
+   "backdrop_path": "/xMoQjqa3JUc2unO4nF9PmM1JTQu.jpg"
+  }
+ },
+ {
+  "year": "1964",
+  "categories": 27,
+  "nominees": 123,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 5769,
+   "name": "As Aventuras de Tom Jones",
+   "image_path": "/lr96HlpD2lGCNwHiddCu0WRKJZh.jpg",
+   "director": "Tony Richardson",
+   "backdrop_path": "/cbHhPCdSdoMpjaLazz7gDS2WYpz.jpg"
+  }
+ },
+ {
+  "year": "1963",
+  "categories": 26,
+  "nominees": 118,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 947,
+   "name": "Lawrence da Arábia",
+   "image_path": "/r0xZR5ENEc8Pp2ULhkP4lgUWk8Y.jpg",
+   "director": "David Lean",
+   "backdrop_path": "/eULrEMwgXnWmzdowUfegaw2YYgD.jpg"
+  }
+ },
+ {
+  "year": "1962",
+  "categories": 28,
+  "nominees": 124,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 1725,
+   "name": "Amor, Sublime Amor",
+   "image_path": "/kYJtH81D1wvUB1jKNKe11sIJ2H2.jpg",
+   "director": "Robert Wise, Jerome Robbins",
+   "backdrop_path": "/swYJtp5GISfsCMZ46y2WNBBwJsq.jpg"
+  }
+ },
+ {
+  "year": "1961",
+  "categories": 27,
+  "nominees": 122,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 284,
+   "name": "Se Meu Apartamento Falasse",
+   "image_path": "/omZs5505ceaHXhh4FL2TpmpVC94.jpg",
+   "director": "Billy Wilder",
+   "backdrop_path": "/vRTKNKNWLZ22fAgPa5kY8wT2b1F.jpg"
+  }
+ },
+ {
+  "year": "1960",
+  "categories": 27,
+  "nominees": 119,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 665,
+   "name": "Ben-Hur",
+   "image_path": "/hOLaCJjBJXt5SojmeAVJ2nRnSNa.jpg",
+   "director": "William Wyler",
+   "backdrop_path": "/nk5gq5rNLBJiHvNGMRT6I9VRQX7.jpg"
+  }
+ },
+ {
+  "year": "1959",
+  "categories": 25,
+  "nominees": 111,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 17281,
+   "name": "Gigi",
+   "image_path": "/7GyIXp4IfTbLvx4XIc0z2zt4ome.jpg",
+   "director": "Vincente Minnelli",
+   "backdrop_path": "/6aIpiwQB2qvVHSlhsXYZD3lmmSV.jpg"
+  }
+ },
+ {
+  "year": "1958",
+  "categories": 22,
+  "nominees": 100,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 826,
+   "name": "A Ponte do Rio Kwai",
+   "image_path": "/z4NWsLsLogVh2XfLXbPaaGrX8Zz.jpg",
+   "director": "David Lean",
+   "backdrop_path": "/cGi9obHiooPoNR4JX72L9RooeOY.jpg"
+  }
+ },
+ {
+  "year": "1957",
+  "categories": 30,
+  "nominees": 127,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 2897,
+   "name": "A Volta ao Mundo em 80 Dias",
+   "image_path": "/5Gc6zKgg7NWtXE00NWbkuomJSrL.jpg",
+   "director": "Michael Anderson",
+   "backdrop_path": "/AiSfsXyFdze5UhlSC3YVqIdG8vS.jpg"
+  }
+ },
+ {
+  "year": "1956",
+  "categories": 27,
+  "nominees": 122,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 15919,
+   "name": "Marty",
+   "image_path": "/8tnGO5VoAQII4DbE3hozWKhV4BY.jpg",
+   "director": "Delbert Mann",
+   "backdrop_path": "/zhZtaNcjtc6VgV8SC4VlokiaeNt.jpg"
+  }
+ },
+ {
+  "year": "1955",
+  "categories": 28,
+  "nominees": 127,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 654,
+   "name": "Sindicato de Ladrões",
+   "image_path": "/23wMq1ud7inXhlAkkiQGlfoAO0G.jpg",
+   "director": "Elia Kazan",
+   "backdrop_path": "/j0qTehcyVVV1VEzrJ7YYtoFmWNw.jpg"
+  }
+ },
+ {
+  "year": "1954",
+  "categories": 28,
+  "nominees": 128,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 11426,
+   "name": "A Um Passo da Eternidade",
+   "image_path": "/j38dopMgHSXdCcx7SdplICoXYSo.jpg",
+   "director": "Fred Zinnemann",
+   "backdrop_path": "/kpTTUyVxWMTebmBkaxB2YAX8yyU.jpg"
+  }
+ },
+ {
+  "year": "1953",
+  "categories": 29,
+  "nominees": 129,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 27191,
+   "name": "O Maior Espetáculo da Terra",
+   "image_path": "/s0KVQ6DGbMhpQs6K0qBJFCAgCv6.jpg",
+   "director": "Cecil B. DeMille",
+   "backdrop_path": "/y22C1YyK8YXjU8LHoyA06MclOs6.jpg"
+  }
+ },
+ {
+  "year": "1952",
+  "categories": 29,
+  "nominees": 118,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 2769,
+   "name": "Sinfonia de Paris",
+   "image_path": "/7YM95QXNeupbjOyYCacHWm1Dwnb.jpg",
+   "director": "Vincente Minnelli",
+   "backdrop_path": "/hVvW015x8cD2X0KthGovw27EpF2.jpg"
+  }
+ },
+ {
+  "year": "1951",
+  "categories": 29,
+  "nominees": 112,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 705,
+   "name": "A Malvada",
+   "image_path": "/cynMuhUnJgF3aCaKtR8aFTuElrF.jpg",
+   "director": "Joseph L. Mankiewicz",
+   "backdrop_path": "/zAL3LOswagN9onjN8DPcNFTqKuD.jpg"
+  }
+ },
+ {
+  "year": "1950",
+  "categories": 28,
+  "nominees": 112,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 25430,
+   "name": "A Grande Ilusão",
+   "image_path": "/6NinAxwoSRHO6CrTbfbrLM6peXN.jpg",
+   "director": "Robert Rossen",
+   "backdrop_path": "/bSTvvll9gIOcoavWRIVYL5RoTkn.jpg"
+  }
+ },
+ {
+  "year": "1949",
+  "categories": 28,
+  "nominees": 109,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 23383,
+   "name": "Hamlet",
+   "image_path": "/woO9SgU2vTRMZeG0YqOLeoIqlzC.jpg",
+   "director": "Laurence Olivier",
+   "backdrop_path": "/tFfucMJh4Me1JYBIRJcOokWWuLs.jpg"
+  }
+ },
+ {
+  "year": "1948",
+  "categories": 25,
+  "nominees": 108,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 33667,
+   "name": "A Luz é Para Todos",
+   "image_path": "/q6XaPfkle0tuVqS7fhzhCmKAcyG.jpg",
+   "director": "Elia Kazan",
+   "backdrop_path": "/4XMEwQVADrym6XWcxudH11caLCA.jpg"
+  }
+ },
+ {
+  "year": "1947",
+  "categories": 25,
+  "nominees": 104,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 887,
+   "name": "Os Melhores Anos de Nossas Vidas",
+   "image_path": "/lgVHQE0fUHTd8Tgo2uIDQ2Lk0S3.jpg",
+   "director": "William Wyler",
+   "backdrop_path": "/n0og4mDtl08x9RLTWXt8zUKpqXQ.jpg"
+  }
+ },
+ {
+  "year": "1946",
+  "categories": 25,
+  "nominees": 160,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 28580,
+   "name": "Farrapo Humano",
+   "image_path": "/3rXzGi1BqzSPMeIjvu8WxXDQGLa.jpg",
+   "director": "Billy Wilder",
+   "backdrop_path": "/vyINER8nv4kAJyCIq2Sr1xjOOjC.jpg"
+  }
+ },
+ {
+  "year": "1945",
+  "categories": 26,
+  "nominees": 169,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 17661,
+   "name": "O Bom Pastor",
+   "image_path": "/cBnhRJiFaah5EHmiuDMQyr6lXdT.jpg",
+   "director": "Leo McCarey",
+   "backdrop_path": "/jiGn1FXSQVfN2nhix0tQtmoGWcF.jpg"
+  }
+ },
+ {
+  "year": "1944",
+  "categories": 26,
+  "nominees": 165,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 289,
+   "name": "Casablanca",
+   "image_path": "/3XxWPlKMfSTDCpWRgjljm5Xw5zX.jpg",
+   "director": "Michael Curtiz",
+   "backdrop_path": "/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg"
+  }
+ },
+ {
+  "year": "1943",
+  "categories": 25,
+  "nominees": 186,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 27367,
+   "name": "Rosa de Esperança",
+   "image_path": "/sW6V98kmJKEt5xhURVTMOHk0LKk.jpg",
+   "director": "William Wyler",
+   "backdrop_path": "/jqu2wqiFKrmhbF6fLqwi3zRUDz7.jpg"
+  }
+ },
+ {
+  "year": "1942",
+  "categories": 25,
+  "nominees": 186,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 43266,
+   "name": "Como Era Verde o Meu Vale",
+   "image_path": "/1D2linQi2VWojXn7SkHyKxT1z3m.jpg",
+   "director": "John Ford",
+   "backdrop_path": "/ucQESsrG63LsA5HD70aaPxEyORk.jpg"
+  }
+ },
+ {
+  "year": "1941",
+  "categories": 23,
+  "nominees": 160,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 223,
+   "name": "Rebecca, A Mulher Inesquecível",
+   "image_path": "/f9McnICkCJGtWM01MW1cKJC9yO.jpg",
+   "director": "Alfred Hitchcock",
+   "backdrop_path": "/46p36NyMO6f25YtSqSYiwz4mKbW.jpg"
+  }
+ },
+ {
+  "year": "1940",
+  "categories": 22,
+  "nominees": 130,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 770,
+   "name": "...E o Vento Levou",
+   "image_path": "/jYNxBGPznKSJjNqp1N713oTli0m.jpg",
+   "director": "Victor Fleming",
+   "backdrop_path": "/4FHcxMtVruMr7ltU2cItWssLjTP.jpg"
+  }
+ },
+ {
+  "year": "1939",
+  "categories": 20,
+  "nominees": 135,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 34106,
+   "name": "Do Mundo Nada Se Leva",
+   "image_path": "/j7J2zAFDLYPdLCeRmW0JAkKygfZ.jpg",
+   "director": "Frank Capra",
+   "backdrop_path": "/As4GJO5V3SxbSDW8ZEWPnYtSZIg.jpg"
+  }
+ },
+ {
+  "year": "1938",
+  "categories": 22,
+  "nominees": 123,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 43278,
+   "name": "A Vida de Emile Zola",
+   "image_path": "/ylSFT2IltnDFhN9DqxsTcYZRdxw.jpg",
+   "director": "William Dieterle",
+   "backdrop_path": "/qsqFiqjdscd0j4jjI45CP9GgtfC.jpg"
+  }
+ },
+ {
+  "year": "1937",
+  "categories": 21,
+  "nominees": 108,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 43277,
+   "name": "Ziegfeld - O Criador de Estrelas",
+   "image_path": "/bjqkNvj20VnkOYT3QyJUojlgjQV.jpg",
+   "director": "Robert Z. Leonard",
+   "backdrop_path": "/koCTizOkm1Aia2xwdwHm4nl0L8W.jpg"
+  }
+ },
+ {
+  "year": "1936",
+  "categories": 18,
+  "nominees": 85,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 12311,
+   "name": "O Grande Motim",
+   "image_path": "/je0S06bZLoydneL6Cz9Lm6hAvtq.jpg",
+   "director": "Frank Lloyd",
+   "backdrop_path": "/OBvT7h7Vt6qKGXJBNLDFnRhJEW.jpg"
+  }
+ },
+ {
+  "year": "1935",
+  "categories": 17,
+  "nominees": 64,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 3078,
+   "name": "Aconteceu Naquela Noite",
+   "image_path": "/2xQmVVitVLJJSaK3FN1d9ezs6D.jpg",
+   "director": "Frank Capra",
+   "backdrop_path": "/hmiC0MsI0PDd1TJXC62xyw0tX0s.jpg"
+  }
+ },
+ {
+  "year": "1934",
+  "categories": 13,
+  "nominees": 62,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 56164,
+   "name": "Cavalgada",
+   "image_path": "/cQjvM68Ge88O2d5V4GAyw0VrPwW.jpg",
+   "director": "Frank Lloyd",
+   "backdrop_path": "/9LQdJ807aXpZtE4JsBF62ZXpL4F.jpg"
+  }
+ },
+ {
+  "year": "1932",
+  "categories": 13,
+  "nominees": 44,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 33680,
+   "name": "Grande Hotel",
+   "image_path": "/hGvAwhsj59QxqqhcSDbq1mKsJDs.jpg",
+   "director": "Edmund Goulding",
+   "backdrop_path": "/mTRmleBtvqlwMCLoRt9iwptDRRC.jpg"
+  }
+ },
+ {
+  "year": "1931",
+  "categories": 9,
+  "nominees": 44,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 42861,
+   "name": "Cimarron",
+   "image_path": "/cqvfhi9s1VsTgXcV1B7vX0Cb1qA.jpg",
+   "director": "Wesley Ruggles",
+   "backdrop_path": "/mgo2XCKPHzZINzcm0YFjSUGpPIr.jpg"
+  }
+ },
+ {
+  "year": "1930",
+  "categories": 15,
+  "nominees": 89,
+  "highlight": {
+   "category": "Melhor Filme (abril)",
+   "type": "movie",
+   "id": 65203,
+   "name": "Melodia da Broadway",
+   "image_path": "/dGUwu9Z38jI9YkHf0StGkhkmwhY.jpg",
+   "director": "Harry Beaumont",
+   "backdrop_path": "/tEAEturRMtH4uY3wq2xvlINgiVj.jpg"
+  }
+ },
+ {
+  "year": "1929",
+  "categories": 13,
+  "nominees": 37,
+  "highlight": {
+   "category": "Melhor Filme",
+   "type": "movie",
+   "id": 28966,
+   "name": "Asas",
+   "image_path": "/ph9XddobrOuQIEERe9ObssI5P7u.jpg",
+   "director": "William A. Wellman",
+   "backdrop_path": "/u90ajspDd9911ISbx74rtofQZfO.jpg"
+  }
+ }
+]

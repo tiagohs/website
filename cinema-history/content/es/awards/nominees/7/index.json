@@ -1,0 +1,1080 @@
+[
+  {
+    "year": "2026",
+    "categories": 9,
+    "nominees": 33,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 1401459,
+      "name": "Fiordo",
+      "image_path": "/od5PWXCT4KhZ9ekVbnmq8kEWBjO.jpg",
+      "director": "Cristian Mungiu",
+      "backdrop_path": "/rCYzSP07jCA1HuFvrwgaEAPHitT.jpg"
+    }
+  },
+  {
+    "year": "2025",
+    "categories": 10,
+    "nominees": 32,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 1456349,
+      "name": "Fue solo un accidente",
+      "image_path": "/tNRnqTcrbJQQd4MfthlPXoY4FNC.jpg",
+      "director": "Jafar Panahi",
+      "backdrop_path": "/zhoMwQofjgVec5Sin05hWECJtVQ.jpg"
+    }
+  },
+  {
+    "year": "2024",
+    "categories": 10,
+    "nominees": 34,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 1064213,
+      "name": "Anora",
+      "image_path": "/v8Pq2MwPXWDCg1MF3UxNlBCkgDA.jpg",
+      "director": "Sean Baker",
+      "backdrop_path": "/qvyOfwTC3qdbzkqdXWSSEMHtjBZ.jpg"
+    }
+  },
+  {
+    "year": "2023",
+    "categories": 9,
+    "nominees": 29,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 915935,
+      "name": "Anatomía de una Caída",
+      "image_path": "/woXYl0DJTx6TsfYWPkSfNHTsoOx.jpg",
+      "director": "Justine Triet",
+      "backdrop_path": "/lDVl2jf6VB8ODl1olZ6FLvOV1gX.jpg"
+    }
+  },
+  {
+    "year": "2022",
+    "categories": 10,
+    "nominees": 32,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 497828,
+      "name": "El Triángulo de la Tristeza",
+      "image_path": "/scfQwUUe0MQb0T5khF1x5e4HSoR.jpg",
+      "director": "Ruben Östlund",
+      "backdrop_path": "/vNPY4oCSUp7CxbHkKJNRx1fmCl0.jpg"
+    }
+  },
+  {
+    "year": "2021",
+    "categories": 9,
+    "nominees": 34,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 630240,
+      "name": "Titane",
+      "image_path": "/y93w5MGC9fbXjy1qfN6rUpSbBti.jpg",
+      "director": "Julia Ducournau",
+      "backdrop_path": "/dVOlJVHYRWx7DhMQRNLnbf5bT1q.jpg"
+    }
+  },
+  {
+    "year": "2019",
+    "categories": 9,
+    "nominees": 89,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 496243,
+      "name": "Parásitos",
+      "image_path": "/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg",
+      "director": "Bong Joon-ho",
+      "backdrop_path": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg"
+    }
+  },
+  {
+    "year": "2018",
+    "categories": 10,
+    "nominees": 31,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 505192,
+      "name": "Un asunto de familia",
+      "image_path": "/wnRMlvc0QQGdiHbdFz8hfZfi8Wz.jpg",
+      "director": "Hirokazu Kore-eda",
+      "backdrop_path": "/dVRkhmtDn3EiyhX6c9SfL7klCoU.jpg"
+    }
+  },
+  {
+    "year": "2017",
+    "categories": 11,
+    "nominees": 30,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 401246,
+      "name": "The Square: La farsa del arte",
+      "image_path": "/wMqVrl7WkmI3Ik5PQDFpUqpDhLW.jpg",
+      "director": "Ruben Östlund",
+      "backdrop_path": "/bYZM4DoHrmzY3oq2qrcXAYQmLNp.jpg"
+    }
+  },
+  {
+    "year": "2016",
+    "categories": 10,
+    "nominees": 31,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 374473,
+      "name": "Yo, Daniel Blake",
+      "image_path": "/L5QbyBq8OhKoT566MzJ03J9n6M.jpg",
+      "director": "Ken Loach",
+      "backdrop_path": "/mNLonkdD4MtaZnHTifp8be8nJrm.jpg"
+    }
+  },
+  {
+    "year": "2015",
+    "categories": 10,
+    "nominees": 29,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 314402,
+      "name": "Dheepan",
+      "image_path": "/tYFW1hzhVwz0HGjFerAVyzcJQZJ.jpg",
+      "director": "Jacques Audiard",
+      "backdrop_path": "/yTPqQuNglLEOMSZfRQzp7gxB8IQ.jpg"
+    }
+  },
+  {
+    "year": "2014",
+    "categories": 9,
+    "nominees": 27,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 265169,
+      "name": "Sueños de invierno",
+      "image_path": "/oxQHnXNneOrSrmedSFyvPqdZsmQ.jpg",
+      "director": "Nuri Bilge Ceylan",
+      "backdrop_path": "/4JuoO0XywrCDeHLy4kTB9FU5U2C.jpg"
+    }
+  },
+  {
+    "year": "2013",
+    "categories": 9,
+    "nominees": 28,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 152584,
+      "name": "La vida de Adèle",
+      "image_path": "/ao3vG9cD1pORpQu6I7KmOiqHIrA.jpg",
+      "director": "Abdellatif Kechiche",
+      "backdrop_path": "/bEmPrq7Y4MubVATOCtOacY3eXQ5.jpg"
+    }
+  },
+  {
+    "year": "2012",
+    "categories": 9,
+    "nominees": 31,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 86837,
+      "name": "Amor (Amour)",
+      "image_path": "/obCBsX3PIqCckibGraeJRMubDYX.jpg",
+      "director": "Michael Haneke",
+      "backdrop_path": "/w7Z4BVMin49voNN61IUWyN9DopV.jpg"
+    }
+  },
+  {
+    "year": "2011",
+    "categories": 9,
+    "nominees": 29,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 8967,
+      "name": "El Árbol de la Vida",
+      "image_path": "/iDt5nvv2TdZsFFuF5JvnEZr6RGB.jpg",
+      "director": "Terrence Malick",
+      "backdrop_path": "/xq1HIwZq9VbuvMQELAua1nqEkH.jpg"
+    }
+  },
+  {
+    "year": "2010",
+    "categories": 9,
+    "nominees": 28,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 38368,
+      "name": "Tío Boonmee recuerda sus vidas pasadas",
+      "image_path": "/9XeIVAvmMXyhUtTQoSjRGQt2EjY.jpg",
+      "director": "Apichatpong Weerasethakul",
+      "backdrop_path": "/sraqqxwStjlhe82vb0mGx3VuHsD.jpg"
+    }
+  },
+  {
+    "year": "2009",
+    "categories": 11,
+    "nominees": 31,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 37903,
+      "name": "La cinta blanca",
+      "image_path": "/cL3WiwKKfhckkKdHyAIMFmxJtCp.jpg",
+      "director": "Michael Haneke",
+      "backdrop_path": "/9Cxi5RQzYAlkNI5FROWkoKgiNkJ.jpg"
+    }
+  },
+  {
+    "year": "2008",
+    "categories": 10,
+    "nominees": 32,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 8841,
+      "name": "La clase",
+      "image_path": "/15y3OhcAorTOmw8O8fyZAIK0iuY.jpg",
+      "director": "Laurent Cantet",
+      "backdrop_path": "/vGtICaExlrMmQwMPlzt6HLiRKV1.jpg"
+    }
+  },
+  {
+    "year": "2007",
+    "categories": 10,
+    "nominees": 32,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 2009,
+      "name": "4 meses, 3 semanas, 2 días",
+      "image_path": "/xWkiTwqa6bnUmfNpmK20YyS7apf.jpg",
+      "director": "Cristian Mungiu",
+      "backdrop_path": "/phYwx0HKSdcQyOuK5bMMO8woETT.jpg"
+    }
+  },
+  {
+    "year": "2006",
+    "categories": 9,
+    "nominees": 37,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 1116,
+      "name": "El viento que acaricia el prado",
+      "image_path": "/o19IHUnX8oxFwx3k8V4x831UWUQ.jpg",
+      "director": "Ken Loach",
+      "backdrop_path": "/fKrFGB96kVeJ9uE83Jc4fIWBgqO.jpg"
+    }
+  },
+  {
+    "year": "2005",
+    "categories": 9,
+    "nominees": 30,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 11490,
+      "name": "El niño",
+      "image_path": "/kLY1xQM0VLzB8kaPOMyV5aP3LBz.jpg",
+      "director": "Luc Dardenne, Jean-Pierre Dardenne",
+      "backdrop_path": "/rCNR48c7ysIXmF2uqn8alwF4HKi.jpg"
+    }
+  },
+  {
+    "year": "2004",
+    "categories": 9,
+    "nominees": 28,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 1777,
+      "name": "Fahrenheit 9/11",
+      "image_path": "/45lmWuZxwVs4ftEjFHUfPpAXw9t.jpg",
+      "director": "Michael Moore",
+      "backdrop_path": "/cLZxnkj75cGBK1tLTMyIudOZYZk.jpg"
+    }
+  },
+  {
+    "year": "2003",
+    "categories": 9,
+    "nominees": 29,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 1807,
+      "name": "Elefante",
+      "image_path": "/vnMW5bVameEasYNo75VlI74xcjq.jpg",
+      "director": "Gus Van Sant",
+      "backdrop_path": "/n9irXcigQGlcub5JJ6RV1EdDW1J.jpg"
+    }
+  },
+  {
+    "year": "2002",
+    "categories": 11,
+    "nominees": 33,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 423,
+      "name": "El Pianista",
+      "image_path": "/g0s9Yb5tfka73UKxFAPxO9lPHBW.jpg",
+      "director": "Roman Polanski",
+      "backdrop_path": "/c0fB9xk7D1aVb3Bg2rk2SVJcGn.jpg"
+    }
+  },
+  {
+    "year": "2001",
+    "categories": 8,
+    "nominees": 31,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 11447,
+      "name": "La habitación del hijo",
+      "image_path": "/vwMeIarRGh0W9676LFn07bQkGF6.jpg",
+      "director": "Nanni Moretti",
+      "backdrop_path": "/fA7ptJVPbph8cZLVc1yaZIsTULk.jpg"
+    }
+  },
+  {
+    "year": "2000",
+    "categories": 9,
+    "nominees": 33,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 16,
+      "name": "Bailando en la Oscuridad",
+      "image_path": "/uQvZJngcelbZLiROMwmNMkarlzB.jpg",
+      "director": "Lars von Trier",
+      "backdrop_path": "/vxvzf0cGtFY2Vpw5ULWumCIW6Ri.jpg"
+    }
+  },
+  {
+    "year": "1999",
+    "categories": 9,
+    "nominees": 30,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 11489,
+      "name": "Rosetta",
+      "image_path": "/zdWX3mNm9rzEU9f363y0NPehFrS.jpg",
+      "director": "Jean-Pierre Dardenne, Luc Dardenne",
+      "backdrop_path": "/1ZBPashbl6CQ3IhfbM38A67tNnj.jpg"
+    }
+  },
+  {
+    "year": "1998",
+    "categories": 10,
+    "nominees": 33,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 24858,
+      "name": "La eternidad y un día",
+      "image_path": "/9y45Ipt5FSAzuIUHg6kLYkQcyWl.jpg",
+      "director": "Theo Angelopoulos",
+      "backdrop_path": "/hwo8xALeQiQsW31ZErCJvxpRdsV.jpg"
+    }
+  },
+  {
+    "year": "1997",
+    "categories": 11,
+    "nominees": 30,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 20506,
+      "name": "La anguila",
+      "image_path": "/w7cFnCB2UECuekGRzamxiEzMKzE.jpg",
+      "director": "Shōhei Imamura",
+      "backdrop_path": "/2yYrBdhPzsrHQlNqswFa90y6bZu.jpg"
+    }
+  },
+  {
+    "year": "1996",
+    "categories": 9,
+    "nominees": 31,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 11159,
+      "name": "Secretos y mentiras",
+      "image_path": "/cisvW48bhlV27zL9A2Z7XSQFtu5.jpg",
+      "director": "Mike Leigh",
+      "backdrop_path": "/oLh3r9BhrymkMjKtI2geTGkKMif.jpg"
+    }
+  },
+  {
+    "year": "1995",
+    "categories": 9,
+    "nominees": 30,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 11902,
+      "name": "Underground",
+      "image_path": "/3EHz3JHO8d1joXeuU1mu44YPgEE.jpg",
+      "director": "Emir Kusturica",
+      "backdrop_path": "/2nerKhF40OzjnGGOyzHcsAw8T53.jpg"
+    }
+  },
+  {
+    "year": "1994",
+    "categories": 9,
+    "nominees": 32,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 680,
+      "name": "Tiempos Violentos",
+      "image_path": "/tptjnB2LDbuUWya9Cx5sQtv5hqb.jpg",
+      "director": "Quentin Tarantino",
+      "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg"
+    }
+  },
+  {
+    "year": "1993",
+    "categories": 8,
+    "nominees": 31,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 10997,
+      "name": "Adiós a mi concubina",
+      "image_path": "/gsCvaK3jYniSCBJKxKu8Qwr3jf2.jpg",
+      "director": "Chen Kaige",
+      "backdrop_path": "/bBiZN1epQTu3F8iFLBuMhc4TRzr.jpg"
+    }
+  },
+  {
+    "year": "1992",
+    "categories": 9,
+    "nominees": 30,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 41764,
+      "name": "Con las mejores intenciones",
+      "image_path": "/98MwCLjxx3dboypNJm8nr4HuPD9.jpg",
+      "director": "Bille August",
+      "backdrop_path": "/f9diUEYPfjgDnC4pzXoWFhunzzQ.jpg"
+    }
+  },
+  {
+    "year": "1991",
+    "categories": 9,
+    "nominees": 28,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 290,
+      "name": "Barton Fink",
+      "image_path": "/gScIc40hwbCFE2OWRxbNI547zit.jpg",
+      "director": "Joel Coen, Ethan Coen",
+      "backdrop_path": "/cW1XlxgvxZIFkakYc9yrLpDoYhK.jpg"
+    }
+  },
+  {
+    "year": "1990",
+    "categories": 9,
+    "nominees": 27,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 483,
+      "name": "Corazón Salvaje",
+      "image_path": "/cxgtKsh86jhRWuL2T5C1juzp9lD.jpg",
+      "director": "David Lynch",
+      "backdrop_path": "/6xJ2odkMFmO2LptVUBR8t8wBldQ.jpg"
+    }
+  },
+  {
+    "year": "1989",
+    "categories": 10,
+    "nominees": 32,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 1412,
+      "name": "Sexo mentiras y cintas de video",
+      "image_path": "/qhE4AXfL9N6PiLASIphaKn81HGe.jpg",
+      "director": "Steven Soderbergh",
+      "backdrop_path": "/wD95UmpUazo9820qnbbjRtbQ884.jpg"
+    }
+  },
+  {
+    "year": "1988",
+    "categories": 9,
+    "nominees": 31,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 11174,
+      "name": "Pelle el Conquistador",
+      "image_path": "/m6726gyw7E4LwP4QawBUXqS7DKy.jpg",
+      "director": "Bille August",
+      "backdrop_path": "/dXUiiryxCk1QqvS9F4MhIAPjpF3.jpg"
+    }
+  },
+  {
+    "year": "1987",
+    "categories": 10,
+    "nominees": 30,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 31300,
+      "name": "Bajo el sol de Satán",
+      "image_path": "/kpiVH7LudhRbfPlWp8reZivbu0j.jpg",
+      "director": "Maurice Pialat",
+      "backdrop_path": "/vAuzj3V6PoHn8GyiSofWbRnTLAo.jpg"
+    }
+  },
+  {
+    "year": "1986",
+    "categories": 9,
+    "nominees": 30,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 11416,
+      "name": "La misión",
+      "image_path": "/hY49cnr03m92iTiKstUCxeQFayP.jpg",
+      "director": "Roland Joffé",
+      "backdrop_path": "/izgDdMvuRvTtA2azhKwPvfITZU1.jpg"
+    }
+  },
+  {
+    "year": "1985",
+    "categories": 9,
+    "nominees": 29,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 21042,
+      "name": "Papá salió en viaje de negocios",
+      "image_path": "/4A1ZiZVisNv7JBjyFAv9wMRl75g.jpg",
+      "director": "Emir Kusturica",
+      "backdrop_path": "/7heMAaXlsI3BwTatyxBSNTP3GhO.jpg"
+    }
+  },
+  {
+    "year": "1984",
+    "categories": 9,
+    "nominees": 28,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 655,
+      "name": "París, Texas",
+      "image_path": "/m9LAmYN699kB7zfDmtx2Nk4gYn9.jpg",
+      "director": "Wim Wenders",
+      "backdrop_path": "/fWrq3u16gaBJ6nYNWcR3XaOhQPq.jpg"
+    }
+  },
+  {
+    "year": "1983",
+    "categories": 9,
+    "nominees": 31,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 42113,
+      "name": "La balada de Narayama",
+      "image_path": "/2byJZOG95MeNuMsC2YrQHpT0AU2.jpg",
+      "director": "Shōhei Imamura",
+      "backdrop_path": "/76phbJ3Brq4VmpOomEOW9bNy8C5.jpg"
+    }
+  },
+  {
+    "year": "1982",
+    "categories": 11,
+    "nominees": 32,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 15600,
+      "name": "Desaparecido",
+      "image_path": "/a4urs9a7GF87Ehyq1K29kYNEidJ.jpg",
+      "director": "Costa-Gavras",
+      "backdrop_path": "/49rQkLwYxUK7zQP69e87MspS4E2.jpg"
+    }
+  },
+  {
+    "year": "1981",
+    "categories": 10,
+    "nominees": 32,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 225,
+      "name": "El hombre de hierro",
+      "image_path": "/2FlIwfhRyiJXVgZwjfUSIEeWCmD.jpg",
+      "director": "Andrzej Wajda",
+      "backdrop_path": "/row4sMw5mVzKCWRbyrAQ39zvyLX.jpg"
+    }
+  },
+  {
+    "year": "1980",
+    "categories": 10,
+    "nominees": 33,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 16858,
+      "name": "El show debe seguir",
+      "image_path": "/culCEdj4srLljefgn4XKd6k3C5t.jpg",
+      "director": "Bob Fosse",
+      "backdrop_path": "/u218sykbUQIh6EWtTdJzguU5LcG.jpg"
+    }
+  },
+  {
+    "year": "1979",
+    "categories": 10,
+    "nominees": 30,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 28,
+      "name": "Apocalipsis Ahora",
+      "image_path": "/veXttPnNe8EZulvmeGTyDUrG9T4.jpg",
+      "director": "Francis Ford Coppola",
+      "backdrop_path": "/49fzLedFVKgGgFChLMuulDJBY1c.jpg"
+    }
+  },
+  {
+    "year": "1978",
+    "categories": 7,
+    "nominees": 31,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 31542,
+      "name": "El árbol de los zuecos",
+      "image_path": "/tJYP9DsJz5OMboAWj9dm3FRiZQR.jpg",
+      "director": "Ermanno Olmi",
+      "backdrop_path": "/viyEqVStJ9bjgyGh71TNMVqOZI.jpg"
+    }
+  },
+  {
+    "year": "1977",
+    "categories": 6,
+    "nominees": 29,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 42225,
+      "name": "Padre patrón",
+      "image_path": "/1FcdB0ANZrWZe105rSVnuOZTGXn.jpg",
+      "director": "Vittorio Taviani, Paolo Taviani",
+      "backdrop_path": "/1ftk6ewQVLdQpHQOA718rxEuuUZ.jpg"
+    }
+  },
+  {
+    "year": "1976",
+    "categories": 6,
+    "nominees": 27,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 103,
+      "name": "Taxi Driver",
+      "image_path": "/hvJvOYRrF9xxvNzg2Jd9PYWu7c3.jpg",
+      "director": "Martin Scorsese",
+      "backdrop_path": "/9uddYYTNcLWpzUkl5iw1RUYhLhY.jpg"
+    }
+  },
+  {
+    "year": "1975",
+    "categories": 6,
+    "nominees": 28,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 52555,
+      "name": "Crónica de los años de fuego",
+      "image_path": "/rMIDJSkgX2A40jNRluXxExYeomo.jpg",
+      "director": "Mohammed Lakhdar-Hamina",
+      "backdrop_path": "/sBkXUnl7LAcsgTXfl3Ei5a4zEpF.jpg"
+    }
+  },
+  {
+    "year": "1974",
+    "categories": 7,
+    "nominees": 32,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 592,
+      "name": "La conversación",
+      "image_path": "/nHa10YW4PTPnYEkfgQpSLDiR8Xe.jpg",
+      "director": "Francis Ford Coppola",
+      "backdrop_path": "/s7yfiwIshKQIT6M8ZcTnFKXHs8B.jpg"
+    }
+  },
+  {
+    "year": "1973",
+    "categories": 8,
+    "nominees": 31,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 80382,
+      "name": "El equívoco",
+      "image_path": "/xlhaEmOMWFFmCx4O8oPUMlPqEpo.jpg",
+      "director": "Alan Bridges",
+      "backdrop_path": "/1JlUpvSUysChvQkW4n9J8zuVcmQ.jpg"
+    }
+  },
+  {
+    "year": "1972",
+    "categories": 7,
+    "nominees": 31,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 62382,
+      "name": "El caso Mattei",
+      "image_path": "/vJRI66CCv4VG2SNrpEwTXdyk1Lq.jpg",
+      "director": "Francesco Rosi",
+      "backdrop_path": "/wl6kXCMdmFIHYyzTgAoB8LsaduB.jpg"
+    }
+  },
+  {
+    "year": "1971",
+    "categories": 7,
+    "nominees": 34,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 36194,
+      "name": "El mensajero",
+      "image_path": "/ooCkvfYAKlzXinbmqp07ZONXYfq.jpg",
+      "director": "Joseph Losey",
+      "backdrop_path": "/7jsa6wxOTjJ7jD757it4W3V3u7h.jpg"
+    }
+  },
+  {
+    "year": "1970",
+    "categories": 7,
+    "nominees": 32,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 651,
+      "name": "M.A.S.H.",
+      "image_path": "/sGT8KMnARjnv3ODPF1QfdBtnPGr.jpg",
+      "director": "Robert Altman",
+      "backdrop_path": "/3YWL6rZmvZxCQw2qEwxPGrqhYku.jpg"
+    }
+  },
+  {
+    "year": "1969",
+    "categories": 8,
+    "nominees": 34,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 14794,
+      "name": "If....",
+      "image_path": "/fxV4A1ZUHpcX70NWEh9WLdMQCgW.jpg",
+      "director": "Lindsay Anderson",
+      "backdrop_path": "/b5OqjAne0vAV08V43QvXpmlfvSg.jpg"
+    }
+  },
+  {
+    "year": "1967",
+    "categories": 8,
+    "nominees": 33,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 1052,
+      "name": "Blow-Up, deseo de una mañana de verano",
+      "image_path": "/7oRd8zfEGuEwWIOxPxy3JqyRPIn.jpg",
+      "director": "Michelangelo Antonioni",
+      "backdrop_path": "/rWtRkNGkg05rET8taCA96c7heLb.jpg"
+    }
+  },
+  {
+    "year": "1966",
+    "categories": 8,
+    "nominees": 32,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 17974,
+      "name": "Señoras y señores",
+      "image_path": "/leeTmapQ4nUZQBF4YtcTRJ69LoC.jpg",
+      "director": "Pietro Germi",
+      "backdrop_path": "/cIBAsszLhD1tvE6GQ6FYLAPOS1s.jpg"
+    }
+  },
+  {
+    "year": "1965",
+    "categories": 7,
+    "nominees": 33,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 42744,
+      "name": "El knack... y cómo conseguirlo",
+      "image_path": "/xO2dJcCISY6lujaU4Qew3RzSErJ.jpg",
+      "director": "Richard Lester",
+      "backdrop_path": "/8Rf6qaHRZkq0tN5wd4xh8ezSJa8.jpg"
+    }
+  },
+  {
+    "year": "1964",
+    "categories": 5,
+    "nominees": 32,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 5967,
+      "name": "Los paraguas de Cherburgo",
+      "image_path": "/n8H5cKQhn0mGehfj3HrO6vJ4aQf.jpg",
+      "director": "Jacques Demy",
+      "backdrop_path": "/m1Gei9O5GfLoJHQjBaxWBSkXX2y.jpg"
+    }
+  },
+  {
+    "year": "1963",
+    "categories": 6,
+    "nominees": 33,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 1040,
+      "name": "El Gatopardo",
+      "image_path": "/a3zvKpjkI1sInsjCdVx7yZ5iZFE.jpg",
+      "director": "Luchino Visconti",
+      "backdrop_path": "/myikoqu8Z2gtE7TaBgk9r6fB9MF.jpg"
+    }
+  },
+  {
+    "year": "1962",
+    "categories": 7,
+    "nominees": 46,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 59990,
+      "name": "El pagador de promesas",
+      "image_path": "/wqxzal8qzNi97iaSSSBQVAsNsyl.jpg",
+      "director": "Anselmo Duarte",
+      "backdrop_path": "/k13mFZr51lcOxvLrHHCk9Llevcf.jpg"
+    }
+  },
+  {
+    "year": "1961",
+    "categories": 6,
+    "nominees": 35,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 131836,
+      "name": "Una larga ausencia",
+      "image_path": "/wdarAOFLB9GUJP6UsvHbNYCmh2x.jpg",
+      "director": "Henri Colpi",
+      "backdrop_path": "/4RjyPqzXvfmH6fnVQ44Zr2IBQlY.jpg"
+    }
+  },
+  {
+    "year": "1960",
+    "categories": 5,
+    "nominees": 36,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 439,
+      "name": "La dolce vita",
+      "image_path": "/l0IgwhbAuYIbBgm8YsHRit1Fa4L.jpg",
+      "director": "Federico Fellini",
+      "backdrop_path": "/eN2NdMeJLNzLYzWIEEoaGzZAsiD.jpg"
+    }
+  },
+  {
+    "year": "1959",
+    "categories": 8,
+    "nominees": 38,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 40423,
+      "name": "Orfeo negro",
+      "image_path": "/iaYmiZJwicSO5R1DQ2q6lKLAXEi.jpg",
+      "director": "Marcel Camus",
+      "backdrop_path": "/mXHZJu6wmmNIhbidSMp24PQ3WNw.jpg"
+    }
+  },
+  {
+    "year": "1958",
+    "categories": 8,
+    "nominees": 38,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 38360,
+      "name": "Cuando pasan las cigüeñas",
+      "image_path": "/ahoP2N0hQLSMAZ0cogs9yjucsMa.jpg",
+      "director": "Mikhail Kalatozov",
+      "backdrop_path": "/r6bIGLFJ2ml9L970RNpuwDyb4Af.jpg"
+    }
+  },
+  {
+    "year": "1957",
+    "categories": 7,
+    "nominees": 40,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 43258,
+      "name": "La gran tentación",
+      "image_path": "/m4K0f85sAAXBIdcCza8BwC0FnmC.jpg",
+      "director": "William Wyler",
+      "backdrop_path": "/vRkB3lYI26YjXvMEc8IvxM45h8X.jpg"
+    }
+  },
+  {
+    "year": "1956",
+    "categories": 7,
+    "nominees": 43,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 60234,
+      "name": "El mundo del silencio",
+      "image_path": "/x1V5crwN7uqhApqwTcyoTYwHq10.jpg",
+      "director": "Jacques-Yves Cousteau, Louis Malle",
+      "backdrop_path": "/7CZRjhX7LIqljczO2GiX1R5a39m.jpg"
+    }
+  },
+  {
+    "year": "1955",
+    "categories": 9,
+    "nominees": 44,
+    "highlight": {
+      "category": "Palma de Oro",
+      "type": "movie",
+      "id": 15919,
+      "name": "Marty",
+      "image_path": "/8tnGO5VoAQII4DbE3hozWKhV4BY.jpg",
+      "director": "Delbert Mann",
+      "backdrop_path": "/zhZtaNcjtc6VgV8SC4VlokiaeNt.jpg"
+    }
+  },
+  {
+    "year": "1954",
+    "categories": 3,
+    "nominees": 53,
+    "highlight": {
+      "category": "Gran Premio del Festival",
+      "type": "movie",
+      "id": 43349,
+      "name": "La puerta del infierno",
+      "image_path": "/q0Vf3B5et9yZ1r6xaPjsnmmpBUT.jpg",
+      "director": "Teinosuke Kinugasa",
+      "backdrop_path": "/sd6ubptU7n0iWYSn9a0tHl1bVpb.jpg"
+    }
+  },
+  {
+    "year": "1953",
+    "categories": 5,
+    "nominees": 45,
+    "highlight": {
+      "category": "Gran Premio del Festival",
+      "type": "movie",
+      "id": 204,
+      "name": "El salario del miedo",
+      "image_path": "/m1CwNYtoeAXmfmRXjYSoGbl6rVA.jpg",
+      "director": "Henri-Georges Clouzot",
+      "backdrop_path": "/hTP6H7sNlWXdGxAciXQSjNJ1ob7.jpg"
+    }
+  },
+  {
+    "year": "1952",
+    "categories": 10,
+    "nominees": 44,
+    "highlight": {
+      "category": "Gran Premio del Festival",
+      "type": "movie",
+      "id": 47697,
+      "name": "Otelo",
+      "image_path": "/aSvpM6apwwzQQaJBS4tCFgdQ9EN.jpg",
+      "director": "Orson Welles",
+      "backdrop_path": "/kHbwWLE4mFVoC4wFCXsZ2HioRuf.jpg"
+    }
+  },
+  {
+    "year": "1951",
+    "categories": 10,
+    "nominees": 45,
+    "highlight": {
+      "category": "Gran Premio del Festival",
+      "type": "movie",
+      "id": 43379,
+      "name": "Milagro en Milán",
+      "image_path": "/7lVzQL9gtARaNEX9Fzc2GNoSh3Z.jpg",
+      "director": "Vittorio De Sica",
+      "backdrop_path": "/auItHwCI7tvJ8C5f2B0lS5zjDZQ.jpg"
+    }
+  },
+  {
+    "year": "1949",
+    "categories": 6,
+    "nominees": 34,
+    "highlight": {
+      "category": "Gran Premio del Festival",
+      "type": "movie",
+      "id": 1092,
+      "name": "El tercer hombre",
+      "image_path": "/B1MT9bSEfrSnCuNRDj8dRbiuY1.jpg",
+      "director": "Carol Reed",
+      "backdrop_path": "/rLLhOCgAjuvlKmjUqVb7P1UAbUI.jpg"
+    }
+  },
+  {
+    "year": "1947",
+    "categories": 1,
+    "nominees": 24,
+    "highlight": {
+      "category": "Gran Premio del Festival",
+      "type": "movie",
+      "id": 44532,
+      "name": "Se escapó la suerte",
+      "image_path": "/lqxsbBoCkTsIwxovkSQVtpE4335.jpg",
+      "director": "Filme Psicológico e de Amor",
+      "backdrop_path": "/dV0LX2CiLDem4CZRZFO0N6fxlK7.jpg"
+    }
+  },
+  {
+    "year": "1946",
+    "categories": 8,
+    "nominees": 52,
+    "highlight": {
+      "category": "Gran Premio del Festival",
+      "type": "movie",
+      "id": 851,
+      "name": "Breve encuentro",
+      "image_path": "/tpJuLNQzzsH0DAdVXNwP0udd9Va.jpg",
+      "director": "David Lean",
+      "backdrop_path": "/vKvoOlhhaZCsiGQDvaZQqyGq1oA.jpg"
+    }
+  }
+]
