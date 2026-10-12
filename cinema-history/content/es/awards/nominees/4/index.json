@@ -1,0 +1,436 @@
+[
+  {
+    "year": "2026",
+    "categories": 23,
+    "nominees": 142,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 1054867,
+      "name": "Una batalla tras otra",
+      "image_path": "/2peYXW6CoruehDnKJGMjl2NuaNB.jpg",
+      "director": "Paul Thomas Anderson",
+      "backdrop_path": "/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg"
+    }
+  },
+  {
+    "year": "2025",
+    "categories": 21,
+    "nominees": 131,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 1064213,
+      "name": "Anora",
+      "image_path": "/v8Pq2MwPXWDCg1MF3UxNlBCkgDA.jpg",
+      "director": "Sean Baker",
+      "backdrop_path": "/qvyOfwTC3qdbzkqdXWSSEMHtjBZ.jpg"
+    }
+  },
+  {
+    "year": "2024",
+    "categories": 21,
+    "nominees": 130,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 872585,
+      "name": "Oppenheimer",
+      "image_path": "/dUPQszWoRSE9FucJTbVp2bwEi9G.jpg",
+      "director": "Christopher Nolan",
+      "backdrop_path": "/neeNHeXjMF5fXoCJRsOmkNGC7q.jpg"
+    }
+  },
+  {
+    "year": "2023",
+    "categories": 21,
+    "nominees": 132,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 545611,
+      "name": "Todo en Todas Partes al Mismo Tiempo",
+      "image_path": "/2dSZQGwijlXvMSyuGe0FSgrXnv0.jpg",
+      "director": "Daniel Scheinert, Daniel Kwan",
+      "backdrop_path": "/fIwiFha3WPu5nHkBeMQ4GzEk0Hv.jpg"
+    }
+  },
+  {
+    "year": "2022",
+    "categories": 21,
+    "nominees": 118,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 600583,
+      "name": "El Poder Del Perro",
+      "image_path": "/rgDJDLFKOKF0dpbaVwgbvjbyZgM.jpg",
+      "director": "Jane Campion",
+      "backdrop_path": "/gAsHuCQMN7mv4uFIvM4ACQ09hPr.jpg"
+    }
+  },
+  {
+    "year": "2021",
+    "categories": 20,
+    "nominees": 130,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 581734,
+      "name": "Nomadland",
+      "image_path": "/pLwarSuyUjw6vF0U6JhlHzAa1Gp.jpg",
+      "director": "Chloé Zhao",
+      "backdrop_path": "/563sRDK3rZS31TXCdTY4lfcwrNK.jpg"
+    }
+  },
+  {
+    "year": "2020",
+    "categories": 23,
+    "nominees": 143,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 466272,
+      "name": "Había una vez en Hollywood",
+      "image_path": "/gMEKjlq4JcLR93oAVSD47MSeO9h.jpg",
+      "director": "Quentin Tarantino",
+      "backdrop_path": "/kKTPv9LKKs5L3oO1y5FNObxAPWI.jpg"
+    }
+  },
+  {
+    "year": "2019",
+    "categories": 23,
+    "nominees": 140,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 426426,
+      "name": "Roma",
+      "image_path": "/dtIIyQyALk57ko5bjac7hi01YQ.jpg",
+      "director": "Alfonso Cuarón",
+      "backdrop_path": "/zl9uqCl5iUSb50sTk2BPzw6bJnU.jpg"
+    }
+  },
+  {
+    "year": "2018",
+    "categories": 26,
+    "nominees": 143,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 399055,
+      "name": "La forma del agua",
+      "image_path": "/hHPFq7myTjAVH6CwQjamAuUqhrr.jpg",
+      "director": "Guillermo del Toro",
+      "backdrop_path": "/abirSHwWgKajV3hXhaIR5lcCIXe.jpg"
+    }
+  },
+  {
+    "year": "2017",
+    "categories": 28,
+    "nominees": 156,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 313369,
+      "name": "La La Land: Una historia de amor",
+      "image_path": "/AvMietG6xuobpSSdmVnKuTjv4bL.jpg",
+      "director": "Damien Chazelle",
+      "backdrop_path": "/nlPCdZlHtRNcF6C9hzUH4ebmV1w.jpg"
+    }
+  },
+  {
+    "year": "2016",
+    "categories": 30,
+    "nominees": 160,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 314365,
+      "name": "En Primera Plana",
+      "image_path": "/wHNzfrfK8M4WIq3XDUqAFdKKY5Z.jpg",
+      "director": "Tom McCarthy",
+      "backdrop_path": "/8FbbcmwmpGd7brfiC7f7lWFNGdi.jpg"
+    }
+  },
+  {
+    "year": "2015",
+    "categories": 31,
+    "nominees": 160,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 85350,
+      "name": "Boyhood: Momentos de una vida",
+      "image_path": "/rr1rlDZXOeLqtYMEC6xEunxqsD3.jpg",
+      "director": "Richard Linklater",
+      "backdrop_path": "/Ac2s9RJEi1ZeaQopoLsqlsmWQmx.jpg"
+    }
+  },
+  {
+    "year": "2014",
+    "categories": 30,
+    "nominees": 155,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 76203,
+      "name": "12 Años de Esclavitud",
+      "image_path": "/o5t8fqcNDyfojYwwlECZEgyD96T.jpg",
+      "director": "Steve McQueen",
+      "backdrop_path": "/4Bb1kMIfrT2tYRZ9M6Jhqy6gkeF.jpg"
+    }
+  },
+  {
+    "year": "2013",
+    "categories": 30,
+    "nominees": 161,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 68734,
+      "name": "Argo",
+      "image_path": "/dZqmn3vr80UeSSj4QbVEUI8D7yb.jpg",
+      "director": "Ben Affleck",
+      "backdrop_path": "/iVk4mVKwNE66JbBcoDwcYFvuUXM.jpg"
+    }
+  },
+  {
+    "year": "2012",
+    "categories": 26,
+    "nominees": 134,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 74643,
+      "name": "El artista",
+      "image_path": "/sVBZ45hWFuzZtQc57TUf323R4VF.jpg",
+      "director": "Michel Hazanavicius",
+      "backdrop_path": "/bYimqNnizPUCnL5HOdoCW02IGmH.jpg"
+    }
+  },
+  {
+    "year": "2011",
+    "categories": 26,
+    "nominees": 131,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 37799,
+      "name": "Red Social",
+      "image_path": "/3FULGtzNuDSYkc4Ndopn21UC3M9.jpg",
+      "director": "David Fincher",
+      "backdrop_path": "/1PXwh3nJzgRkkYnqfWInJNypeL4.jpg"
+    }
+  },
+  {
+    "year": "2010",
+    "categories": 25,
+    "nominees": 132,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 12162,
+      "name": "Zona de miedo",
+      "image_path": "/jZs35NbWncIuB06sMmf6ayH026g.jpg",
+      "director": "Kathryn Bigelow",
+      "backdrop_path": "/off0xgvtfHY82l3MC4mDpCk1APY.jpg"
+    }
+  },
+  {
+    "year": "2009",
+    "categories": 17,
+    "nominees": 92,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 12405,
+      "name": "Quisiera Ser Millonario",
+      "image_path": "/timJSy64zR0BM2xhkXwIyvDG6MM.jpg",
+      "director": "Danny Boyle",
+      "backdrop_path": "/1wZoVT9RJsZmNjg8CecXqSgFUd9.jpg"
+    }
+  },
+  {
+    "year": "2008",
+    "categories": 18,
+    "nominees": 97,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 6977,
+      "name": "Sin lugar para los débiles",
+      "image_path": "/jdlY8Bhcb4Qzfldr1JaexYBgyW3.jpg",
+      "director": "Joel Coen, Ethan Coen",
+      "backdrop_path": "/gddUsvfyySrM5k8B8wwJy2VRlBx.jpg"
+    }
+  },
+  {
+    "year": "2007",
+    "categories": 18,
+    "nominees": 103,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 1422,
+      "name": "Los Infiltrados",
+      "image_path": "/qtnAwzDapzOML4Q9p7lv2bk5gvz.jpg",
+      "director": "Martin Scorsese",
+      "backdrop_path": "/6WRrGYalXXveItfpnipYdayFkQB.jpg"
+    }
+  },
+  {
+    "year": "2006",
+    "categories": 20,
+    "nominees": 100,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 142,
+      "name": "Secreto en la Montaña",
+      "image_path": "/qZ7fvWbPABjdU8JciIS9f9jCRCb.jpg",
+      "director": "Ang Lee",
+      "backdrop_path": "/vXzqV2RtJlT9WhNEM4NYWCEC6ZI.jpg"
+    }
+  },
+  {
+    "year": "2005",
+    "categories": 19,
+    "nominees": 90,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 9675,
+      "name": "Sideways:  Entre Copas",
+      "image_path": "/5k63nkN5mMGCBqRvrVaF7CpMUcK.jpg",
+      "director": "Alexander Payne",
+      "backdrop_path": "/zmuRxro8AxPDjACjXTIIDCUNwDl.jpg"
+    }
+  },
+  {
+    "year": "2004",
+    "categories": 17,
+    "nominees": 75,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 122,
+      "name": "El señor de los anillos: El retorno del rey",
+      "image_path": "/rU4oIKv5I4C59DpcXKmT7kNwGI0.jpg",
+      "director": "Peter Jackson",
+      "backdrop_path": "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg"
+    }
+  },
+  {
+    "year": "2003",
+    "categories": 17,
+    "nominees": 58,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 1574,
+      "name": "Chicago",
+      "image_path": "/r3ZluYmNgfow3HokBDmIp9GLFE2.jpg",
+      "director": "Rob Marshall",
+      "backdrop_path": "/euxYhuuJjChU755u2YHj0ZPjww3.jpg"
+    }
+  },
+  {
+    "year": "2002",
+    "categories": 15,
+    "nominees": 52,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 453,
+      "name": "Una Mente Brillante",
+      "image_path": "/8K5W9QnNT7r1V9GuJ5z5KlrROkd.jpg",
+      "director": "Ron Howard",
+      "backdrop_path": "/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg"
+    }
+  },
+  {
+    "year": "2001",
+    "categories": 19,
+    "nominees": 30,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 98,
+      "name": "Gladiador",
+      "image_path": "/4DUClyGA6OqjXv6yC0Imf6THGfp.jpg",
+      "director": "Ridley Scott",
+      "backdrop_path": "/Ar7QuJ7sJEiC0oP3I8fKBKIQD9u.jpg"
+    }
+  },
+  {
+    "year": "2000",
+    "categories": 16,
+    "nominees": 25,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 14,
+      "name": "Belleza Americana",
+      "image_path": "/9PJKsH7Btz2xjYIvLLtJ7qcJlL3.jpg",
+      "director": "Sam Mendes",
+      "backdrop_path": "/2ndw55F40IkALzWyjCCza3M6nqM.jpg"
+    }
+  },
+  {
+    "year": "1999",
+    "categories": 17,
+    "nominees": 28,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 857,
+      "name": "Rescatando al soldado Ryan",
+      "image_path": "/hMLxNLCXRDd62acfCBn6mIyW1HU.jpg",
+      "director": "Steven Spielberg",
+      "backdrop_path": "/bdD39MpSVhKjxarTxLSfX6baoMP.jpg"
+    }
+  },
+  {
+    "year": "1998",
+    "categories": 14,
+    "nominees": 23,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 2118,
+      "name": "Los Ángeles al desnudo",
+      "image_path": "/sQPznDV3qpEIh7qenP0Jo9OlORX.jpg",
+      "director": "Curtis Hanson",
+      "backdrop_path": "/hUn13Hom8OWMYpR1ay0diwswwdP.jpg"
+    }
+  },
+  {
+    "year": "1997",
+    "categories": 13,
+    "nominees": 22,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 275,
+      "name": "Fargo: Secuestro Voluntario",
+      "image_path": "/JrnxuijI6XCKyZaiPPrJ3TbZi.jpg",
+      "director": "Joel Coen",
+      "backdrop_path": "/747dgDfL5d8esobk7h4odaOFhUq.jpg"
+    }
+  },
+  {
+    "year": "1996",
+    "categories": 10,
+    "nominees": 11,
+    "highlight": {
+      "category": "Mejor Película",
+      "type": "movie",
+      "id": 4584,
+      "name": "Sensatez y sentimientos",
+      "image_path": "/avfV8Se2eTfmFAZf0aAPOdq2WcV.jpg",
+      "director": "Ang Lee",
+      "backdrop_path": "/cFnyfWHL6HjOOVal6lp8e5gqibK.jpg"
+    }
+  }
+]

@@ -1,0 +1,817 @@
+{
+ "year": "2020",
+ "content": [
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Filme",
+   "nominee_list": [
+    {
+     "type": "movie",
+     "id": 565310,
+     "name": "A Despedida",
+     "image_path": "/amN2lqOuP1nOQB73JWChq9BsBFI.jpg",
+     "director": "Lulu Wang",
+     "winner": true
+    },
+    {
+     "type": "movie",
+     "id": 403300,
+     "name": "Uma Vida Oculta",
+     "image_path": "/oh5cKQgC54MAu62YCXNHVPiKIoY.jpg",
+     "director": "Terrence Malick",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 492188,
+     "name": "História de um Casamento",
+     "image_path": "/LaZ5rwaMvVH20J8O2Nu9uuXGI5.jpg",
+     "director": "Noah Baumbach",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 473033,
+     "name": "Joias Brutas",
+     "image_path": "/6KGAFoAoMyLKL6rcdK8NBUCgZjP.jpg",
+     "director": "Benny Safdie e Josh Safdie",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 565307,
+     "name": "Clemency",
+     "image_path": "/c03mA6GYRqcRLgxXQpKcYWEKxRn.jpg",
+     "director": "Chinonye Chukwu",
+     "winner": false
+    }
+   ]
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Diretor",
+   "nominee_list": [
+    {
+     "type": "person",
+     "id": 227564,
+     "image_path": "/vrGyNcAW1Cuwkt1nyqAQQOOUQnv.jpg",
+     "name": "Benny Safdie (com Josh Safdie)",
+     "winner": true,
+     "movie": {
+      "type": "movie",
+      "id": 473033,
+      "name": "Joias Brutas",
+      "image_path": "/6KGAFoAoMyLKL6rcdK8NBUCgZjP.jpg",
+      "director": "Benny Safdie e Josh Safdie",
+      "winner": true
+     }
+    },
+    {
+     "type": "person",
+     "id": 138781,
+     "image_path": "/v9ukVIUGT1vQ3KuPVLSua7FfS9s.jpg",
+     "name": "Robert Eggers",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 503919,
+      "name": "O Farol",
+      "image_path": "/lgz39BfP0T6GO828Ymyku5kBxui.jpg",
+      "director": "Robert Eggers",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 930012,
+     "image_path": "/bdNoOOPlrJzFNdI8BW5RBEcr65z.jpg",
+     "name": "Alma Har’el",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 512263,
+      "name": "O Preço do Talento",
+      "image_path": "/7YWcnsFPLqINqBtrAJDpbZEULbT.jpg",
+      "director": "Alma Har'el",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 1301933,
+     "image_path": "/jWysiAipVWd80msFxb8yzco6waA.jpg",
+     "name": "Julius Onah",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 492616,
+      "name": "Luce",
+      "image_path": "/6ENjFEByHB4ESDOiOltBiZI2XJb.jpg",
+      "director": "Julius Onah",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 71551,
+     "image_path": "/uToUw9I39wMiBWkCdcYO6gnz4S8.jpg",
+     "name": "Lorene Scafaria",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 540901,
+      "name": "As Golpistas",
+      "image_path": "/kbgjEUhsCtb9cNM5sXY5mtItgtW.jpg",
+      "director": "Lorene Scafaria",
+      "winner": false
+     }
+    }
+   ]
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Filme de Estréia",
+   "nominee_list": [
+    {
+     "type": "movie",
+     "id": 505600,
+     "name": "Fora de Série",
+     "image_path": "/yfIAkRcPUbbfSGR2JOuUppAAMLV.jpg",
+     "director": "Olivia Wilde",
+     "winner": true
+    },
+    {
+     "type": "movie",
+     "id": 522039,
+     "name": "O Último Homem Negro em San Francisco",
+     "image_path": "/AuKLgnBoSQ8tfK5Do3r1LCXwLWH.jpg",
+     "director": "Joe Talbot",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 595931,
+     "name": "The Climb",
+     "image_path": "/cCaWNkqZIfaKMSPmudOfCF721BN.jpg",
+     "director": "Michael Angelo Covino",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 510034,
+     "name": "A Vida de Diane",
+     "image_path": "/tvvifwP1I8FFGdFWOxYxTzXdIYG.jpg",
+     "director": "Kent Jones",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 500860,
+     "name": "The Mustang",
+     "image_path": "/sXQzQcjNAYYosymYPVaXh1nYKaJ.jpg",
+     "director": "Laure de Clermont-Tonnerre",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 582607,
+     "name": "A Gente Se Vê Ontem",
+     "image_path": "/sE2MSSjAHVU8gOz2SPQMaTQtO9c.jpg",
+     "director": "Stefon Bristol",
+     "winner": false
+    }
+   ]
+  },
+  {
+   "type": "video",
+   "video_id": "QmWn4REiGxs",
+   "information": {
+    "contentTitle": "BENNY and JOSH SAFDIE wins Best Director for UNCUT GEMS at the 35th Film Independent Spirit Awards",
+    "source": "Youtube: Canal <i>Film Independent</i>"
+   }
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Atriz",
+   "nominee_list": [
+    {
+     "type": "person",
+     "id": 9137,
+     "image_path": "/6aSRq8LBE7FULueg9K5JEA3GLTy.jpg",
+     "name": "Renée Zellweger",
+     "winner": true,
+     "movie": {
+      "type": "movie",
+      "id": 491283,
+      "name": "Judy: Muito Além do Arco-Íris",
+      "image_path": "/bbS0KWxQPMTiQ53WooVgCIgEWnc.jpg",
+      "director": "Rupert Goold"
+     }
+    },
+    {
+     "type": "person",
+     "id": 5960,
+     "image_path": "/iFZTr6qpFSzJURPOg0YN89pg0RP.jpg",
+     "name": "Mary Kay Place",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 510034,
+      "name": "A Vida de Diane",
+      "image_path": "/tvvifwP1I8FFGdFWOxYxTzXdIYG.jpg",
+      "director": "Kent Jones",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 1981,
+     "image_path": "/70AVFDROBAeVhWDEMKWfXPpBVYq.jpg",
+     "name": "Alfre Woodard",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 565307,
+      "name": "Clemency",
+      "image_path": "/c03mA6GYRqcRLgxXQpKcYWEKxRn.jpg",
+      "director": "Chinonye Chukwu",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 650,
+     "image_path": "/hj1RlVnieS4jp9fKmiSirjKhA0a.jpg",
+     "name": "Karen Allen",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 589861,
+      "name": "Colewell",
+      "image_path": "/mWpQvXkRuLLSXshOAFURyObb3xw.jpg",
+      "director": "Tom Quinn",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 32798,
+     "image_path": "/3r39W0bpiC2lkCh8nJMqJoLWrH.jpg",
+     "name": "Elisabeth Moss",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 520679,
+      "name": "Her Smell",
+      "image_path": "/r50ADfVxuCLTzzsP4JL3PYQWqrS.jpg",
+      "director": "Alex Ross Perry",
+      "winner": false
+     }
+    }
+   ]
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Ator",
+   "nominee_list": [
+    {
+     "type": "person",
+     "id": 19292,
+     "image_path": "/gLkLCsQdwDDPabRhKPB25nGtKwS.jpg",
+     "name": "Adam Sandler",
+     "winner": true,
+     "movie": {
+      "type": "movie",
+      "id": 473033,
+      "name": "Joias Brutas",
+      "image_path": "/6KGAFoAoMyLKL6rcdK8NBUCgZjP.jpg",
+      "director": "Benny Safdie e Josh Safdie",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 11288,
+     "image_path": "/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg",
+     "name": "Robert Pattinson",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 503919,
+      "name": "O Farol",
+      "image_path": "/lgz39BfP0T6GO828Ymyku5kBxui.jpg",
+      "director": "Robert Eggers",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 73381,
+     "image_path": "/56abqjiihp8XS2kiktfRHXNat7w.jpg",
+     "name": "Matthias Schoenaerts",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 500860,
+      "name": "The Mustang",
+      "image_path": "/sXQzQcjNAYYosymYPVaXh1nYKaJ.jpg",
+      "director": "Laure de Clermont-Tonnerre",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 2198944,
+     "image_path": "/7ZUFspn1ls98khjIqulda3X7Tgt.jpg",
+     "name": "Chris Galust",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 565720,
+      "name": "Give Me Liberty",
+      "image_path": "/dua9PHGjGE8dmnYyp6CyfFUbO0Y.jpg",
+      "director": "Kirill Mikhanovsky",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 1344361,
+     "image_path": "/uRViX11fZQGmO9p91ZH7QVh2l5y.jpg",
+     "name": "Kelvin Harrison",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 492616,
+      "name": "Luce",
+      "image_path": "/6ENjFEByHB4ESDOiOltBiZI2XJb.jpg",
+      "director": "Julius Onah",
+      "winner": false
+     }
+    }
+   ]
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Atriz Coadjuvante",
+   "nominee_list": [
+    {
+     "type": "person",
+     "id": 2309757,
+     "image_path": "/wmzMng0em26kja1iouCswHflMSj.jpg",
+     "name": "Zhao Shuzhen",
+     "winner": true,
+     "movie": {
+      "type": "movie",
+      "id": 565310,
+      "name": "A Despedida",
+      "image_path": "/amN2lqOuP1nOQB73JWChq9BsBFI.jpg",
+      "director": "Lulu Wang",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 16866,
+     "image_path": "/pUL1vDXRmQWLyLVOpSiAyYIqgSJ.jpg",
+     "name": "Jennifer Lopez",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 540901,
+      "name": "As Golpistas",
+      "image_path": "/kbgjEUhsCtb9cNM5sXY5mtItgtW.jpg",
+      "director": "Lorene Scafaria",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 6944,
+     "image_path": "/jnQTP4RRkoWnyO3yL2PgRHZi0tK.jpg",
+     "name": "Octavia Spencer",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 492616,
+      "name": "Luce",
+      "image_path": "/6ENjFEByHB4ESDOiOltBiZI2XJb.jpg",
+      "director": "Julius Onah",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 2198941,
+     "image_path": "/5Dot27yaI6m4HYhkYDZGQpTA77f.jpg",
+     "name": "Lauren “Lolo” Spencer",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 565720,
+      "name": "Give Me Liberty",
+      "image_path": "/dua9PHGjGE8dmnYyp6CyfFUbO0Y.jpg",
+      "director": "Kirill Mikhanovsky",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 1353827,
+     "image_path": "/kwksrHVkmqyEda0py5YnANxWqfG.jpg",
+     "name": "Taylor Russell",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 533444,
+      "name": "As Ondas",
+      "image_path": "/pdVnQJz9eJSWtVrCGc0q4F1nGF6.jpg",
+      "director": "Trey Edward Shults",
+      "winner": false
+     }
+    }
+   ]
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Ator Coadjuvante",
+   "nominee_list": [
+    {
+     "type": "person",
+     "id": 5293,
+     "image_path": "/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg",
+     "name": "Willem Dafoe",
+     "winner": true,
+     "movie": {
+      "type": "movie",
+      "id": 503919,
+      "name": "O Farol",
+      "image_path": "/lgz39BfP0T6GO828Ymyku5kBxui.jpg",
+      "director": "Robert Eggers",
+      "winner": true
+     }
+    },
+    {
+     "type": "person",
+     "id": 1590759,
+     "image_path": "/jWjCdGnx9UiNXhVprQ92wtqfEAy.jpg",
+     "name": "Noah Jupe",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 512263,
+      "name": "O Preço do Talento",
+      "image_path": "/7YWcnsFPLqINqBtrAJDpbZEULbT.jpg",
+      "director": "Alma Har'el",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 10959,
+     "image_path": "/ljlpaXEManszxIcshYQoqo4au03.jpg",
+     "name": "Shia LaBeouf",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 512263,
+      "name": "O Preço do Talento",
+      "image_path": "/7YWcnsFPLqINqBtrAJDpbZEULbT.jpg",
+      "director": "Alma Har'el",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 1674162,
+     "image_path": "/mD5Ws5WTnuHrH8y9OXyjp9bhi62.jpg",
+     "name": "Jonathan Majors",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 522039,
+      "name": "O Último Homem Negro em San Francisco",
+      "image_path": "/AuKLgnBoSQ8tfK5Do3r1LCXwLWH.jpg",
+      "director": "Joe Talbot",
+      "winner": false
+     }
+    },
+    {
+     "type": "person",
+     "id": 17859,
+     "image_path": "/uOsldo9Pkl0E79UbIXX5tZZmC8F.jpg",
+     "name": "Wendell Pierce",
+     "winner": false,
+     "movie": {
+      "type": "movie",
+      "id": 586454,
+      "name": "Burning Cane",
+      "image_path": "/9kxkqYm7pX22QPoSaRroiBifwGO.jpg",
+      "director": "Phillip Michael Youmans",
+      "winner": false
+     }
+    }
+   ]
+  },
+  {
+   "type": "video",
+   "video_id": "q4inTgQvyRQ",
+   "information": {
+    "contentTitle": "BOOKSMART wins Best First Feature at the 35th Film Independent Spirit Awards",
+    "source": "Youtube: Canal <i>Film Independent</i>"
+   }
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Roteiro",
+   "nominee_list": [
+    {
+     "type": "movie",
+     "id": 492188,
+     "name": "História de um Casamento",
+     "image_path": "/LaZ5rwaMvVH20J8O2Nu9uuXGI5.jpg",
+     "director": "Noah Baumbach",
+     "winner": true
+    },
+    {
+     "type": "movie",
+     "id": 473033,
+     "name": "Joias Brutas",
+     "image_path": "/6KGAFoAoMyLKL6rcdK8NBUCgZjP.jpg",
+     "director": "Benny Safdie e Josh Safdie",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 514510,
+     "name": "Ao Pó Voltará",
+     "image_path": "/j89KQ7Se5TSNrURsWs1CadbyW4t.jpg",
+     "director": "Shawn Snyder",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 565307,
+     "name": "Clemency",
+     "image_path": "/c03mA6GYRqcRLgxXQpKcYWEKxRn.jpg",
+     "director": "Chinonye Chukwu",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 510498,
+     "name": "High Flying Bird",
+     "image_path": "/ccE21xixa1zhkGtWDr4n8ReOp40.jpg",
+     "director": "Steven Soderbergh",
+     "winner": false
+    }
+   ]
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Roteiro de Estréia",
+   "nominee_list": [
+    {
+     "type": "movie",
+     "id": 582607,
+     "name": "A Gente Se Vê Ontem",
+     "image_path": "/sE2MSSjAHVU8gOz2SPQMaTQtO9c.jpg",
+     "director": "Stefon Bristol",
+     "winner": true
+    },
+    {
+     "type": "movie",
+     "id": 568994,
+     "name": "Driveways",
+     "image_path": "/29UQOiKJGpt4rYldmSPbydZakXm.jpg",
+     "director": "Andrew Ahn",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 586451,
+     "name": "Afunde o Navio",
+     "image_path": "/jWym6hb3avqbIGbAgd2UfT52BUf.jpg",
+     "director": "Bridget Savage Cole",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 547009,
+     "name": "Greener Grass",
+     "image_path": "/eN56wiM2M84GBOQnp4TAQXcZucg.jpg",
+     "director": "Dawn Luebbe",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 565743,
+     "name": "A Vastidão da Noite",
+     "image_path": "/vcZb17z4szf7ovmsjTGc2qDmaoQ.jpg",
+     "director": "Andrew Patterson",
+     "winner": false
+    }
+   ]
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Fotografia",
+   "nominee_list": [
+    {
+     "type": "movie",
+     "id": 503919,
+     "name": "O Farol",
+     "image_path": "/lgz39BfP0T6GO828Ymyku5kBxui.jpg",
+     "director": "Robert Eggers",
+     "winner": true
+    },
+    {
+     "type": "movie",
+     "id": 540901,
+     "name": "As Golpistas",
+     "image_path": "/kbgjEUhsCtb9cNM5sXY5mtItgtW.jpg",
+     "director": "Lorene Scafaria",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 512263,
+     "name": "O Preço do Talento",
+     "image_path": "/7YWcnsFPLqINqBtrAJDpbZEULbT.jpg",
+     "director": "Alma Har'el",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 544812,
+     "name": "A Terceira Esposa",
+     "image_path": "/qeCugbAK4ILkUS9QlfMZR2p81nY.jpg",
+     "director": "Ash Mayfair",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 530385,
+     "name": "Midsommar: O Mal Não Espera a Noite",
+     "image_path": "/sZ6Bjq1VVfiTrALlev0ganz7uka.jpg",
+     "director": "Ari Aster",
+     "winner": false
+    }
+   ]
+  },
+  {
+   "type": "video",
+   "video_id": "ihalG3Rw_QA",
+   "information": {
+    "contentTitle": "ADAM SANDLER wins Best Male Lead for UNCUT GEMS at the 35th Film Independent Spirit Awards",
+    "source": "Youtube: Canal <i>Film Independent</i>"
+   }
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Montagem",
+   "nominee_list": [
+    {
+     "type": "movie",
+     "id": 473033,
+     "name": "Joias Brutas",
+     "image_path": "/6KGAFoAoMyLKL6rcdK8NBUCgZjP.jpg",
+     "director": "Benny Safdie e Josh Safdie",
+     "winner": true
+    },
+    {
+     "type": "movie",
+     "id": 503919,
+     "name": "O Farol",
+     "image_path": "/lgz39BfP0T6GO828Ymyku5kBxui.jpg",
+     "director": "Robert Eggers",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 544812,
+     "name": "A Terceira Esposa",
+     "image_path": "/qeCugbAK4ILkUS9QlfMZR2p81nY.jpg",
+     "director": "Ash Mayfair",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 575942,
+     "name": "A Herança da Verdade",
+     "image_path": "/1OK1xEzEQEwkh0F4FwyTbulMm2S.jpg",
+     "director": "Lynn Shelton",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 565720,
+     "name": "Give Me Liberty",
+     "image_path": "/dua9PHGjGE8dmnYyp6CyfFUbO0Y.jpg",
+     "director": "Kirill Mikhanovsky",
+     "winner": false
+    }
+   ]
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Documentário",
+   "nominee_list": [
+    {
+     "type": "movie",
+     "id": 565716,
+     "name": "Indústria Americana",
+     "image_path": "/9kLpTYpnbnJWq6IwY6DOyyEDaN3.jpg",
+     "director": "Julia Reichert",
+     "winner": true
+    },
+    {
+     "type": "movie",
+     "id": 576017,
+     "name": "Para Sama",
+     "image_path": "/w8ZytqAN2B56ejEvIVjubVNL3oo.jpg",
+     "director": "Edward Watts",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 566213,
+     "name": "Honeyland",
+     "image_path": "/6JfuTYYMB2Af6Iw5cEmpIOx5OSW.jpg",
+     "director": "Tamara Kotevska",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 549559,
+     "name": "Apollo 11",
+     "image_path": "/woLMRroHyoTGoXyxdEeBJEYBFtu.jpg",
+     "director": "Todd Douglas Miller",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 511539,
+     "name": "Island of the Hungry Ghosts",
+     "image_path": "/wxLjjtVTj01acpHMmza8pjL9LXD.jpg",
+     "director": "Gabrielle Brady",
+     "winner": false
+    }
+   ]
+  },
+  {
+   "type": "awards_nominees",
+   "name": "Melhor Filme Internacional",
+   "nominee_list": [
+    {
+     "type": "movie",
+     "id": 496243,
+     "name": "Parasita",
+     "image_path": "/igw938inb6Fy0YVcwIyxQ7Lu5FO.jpg",
+     "director": "Bong Joon-ho",
+     "winner": true
+    },
+    {
+     "type": "movie",
+     "id": 586863,
+     "name": "Os Miseráveis",
+     "image_path": "/ywO4oyCfohDvrbU7motFRd2WdqL.jpg",
+     "director": "Ladj Ly",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 531428,
+     "name": "Retrato de uma Jovem em Chamas",
+     "image_path": "/5M9tA2TY0nZnrDlWNVCfaFOip6g.jpg",
+     "director": "Céline Sciamma",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 473019,
+     "name": "The Souvenir",
+     "image_path": "/1zHJpxzyfRqBmTbYEicjPZxD1Ny.jpg",
+     "director": "Joanna Hogg",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 499394,
+     "name": "Caixa de Recordações",
+     "image_path": "/idua02JVRuvbjaVO965e8noL4GI.jpg",
+     "director": "Alvaro Delgado-Aparicio L.",
+     "winner": false
+    },
+    {
+     "type": "movie",
+     "id": 548544,
+     "name": "A Vida Invisível",
+     "image_path": "/8kjxNXuMe62OclMZiznwVjBImgZ.jpg",
+     "director": "Karim Aïnouz",
+     "winner": false
+    }
+   ]
+  }
+ ]
+}

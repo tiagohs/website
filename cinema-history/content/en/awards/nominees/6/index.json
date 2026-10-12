@@ -1,0 +1,576 @@
+[
+  {
+    "year": "2026",
+    "categories": 12,
+    "nominees": 70,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 1241983,
+      "name": "Train Dreams",
+      "image_path": "/iF1SxvdSNWkEfKlZnLzJbSsg4oT.jpg",
+      "director": "Clint Bentley",
+      "backdrop_path": "/u5NWHVhZ6HWc1fXnqn82cMar5St.jpg"
+    }
+  },
+  {
+    "year": "2025",
+    "categories": 12,
+    "nominees": 70,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 1064213,
+      "name": "Anora",
+      "image_path": "/v8Pq2MwPXWDCg1MF3UxNlBCkgDA.jpg",
+      "director": "Sean Baker",
+      "backdrop_path": "/qvyOfwTC3qdbzkqdXWSSEMHtjBZ.jpg"
+    }
+  },
+  {
+    "year": "2024",
+    "categories": 12,
+    "nominees": 71,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 666277,
+      "name": "Past Lives",
+      "image_path": "/toSI71gFF11VnLfz2uiNx6jjNUF.jpg",
+      "director": "Celine Song",
+      "backdrop_path": "/7HR38hMBl23lf38MAN63y4pKsHz.jpg"
+    }
+  },
+  {
+    "year": "2023",
+    "categories": 12,
+    "nominees": 70,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 545611,
+      "name": "Everything Everywhere All at Once",
+      "image_path": "/2dSZQGwijlXvMSyuGe0FSgrXnv0.jpg",
+      "director": "Daniel Scheinert, Daniel Kwan",
+      "backdrop_path": "/fIwiFha3WPu5nHkBeMQ4GzEk0Hv.jpg"
+    }
+  },
+  {
+    "year": "2022",
+    "categories": 13,
+    "nominees": 66,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 554230,
+      "name": "The Lost Daughter",
+      "image_path": "/w5ZyodD6md3mmPWO3nSPGXklxLk.jpg",
+      "director": "Maggie Gyllenhaal",
+      "backdrop_path": "/6jRHaYJyje5RNS3L353udrPU3ME.jpg"
+    }
+  },
+  {
+    "year": "2021",
+    "categories": 13,
+    "nominees": 66,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 581734,
+      "name": "Nomadland",
+      "image_path": "/pLwarSuyUjw6vF0U6JhlHzAa1Gp.jpg",
+      "director": "Chloé Zhao",
+      "backdrop_path": "/563sRDK3rZS31TXCdTY4lfcwrNK.jpg"
+    }
+  },
+  {
+    "year": "2020",
+    "categories": 13,
+    "nominees": 67,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 565310,
+      "name": "The Farewell",
+      "image_path": "/amN2lqOuP1nOQB73JWChq9BsBFI.jpg",
+      "director": "Lulu Wang",
+      "backdrop_path": "/5INPBiKVRsyp9kgHfsC0cTfvKFH.jpg"
+    }
+  },
+  {
+    "year": "2019",
+    "categories": 15,
+    "nominees": 73,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 465914,
+      "name": "If Beale Street Could Talk",
+      "image_path": "/4gbiabIdvVv3iZcpdZEqHtbe0aU.jpg",
+      "director": "Barry Jenkins",
+      "backdrop_path": "/9QKt21sUUrcNmlCkLKDFUaTodCh.jpg"
+    }
+  },
+  {
+    "year": "2018",
+    "categories": 15,
+    "nominees": 73,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 419430,
+      "name": "Get Out",
+      "image_path": "/A0RoSZh8PEYJgDMgM2EV7Ycz3dR.jpg",
+      "director": "Jordan Peele",
+      "backdrop_path": "/bBQHALHRAaaORlPNXv7fNcRXYdx.jpg"
+    }
+  },
+  {
+    "year": "2017",
+    "categories": 15,
+    "nominees": 72,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 376867,
+      "name": "Moonlight",
+      "image_path": "/AekOkoT88EhDHikUQXQcKri2q4B.jpg",
+      "director": "Barry Jenkins",
+      "backdrop_path": "/jm1oD3eB08LImSwL1LrzF9AJQ5b.jpg"
+    }
+  },
+  {
+    "year": "2016",
+    "categories": 15,
+    "nominees": 73,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 314365,
+      "name": "Spotlight",
+      "image_path": "/wHNzfrfK8M4WIq3XDUqAFdKKY5Z.jpg",
+      "director": "Tom McCarthy",
+      "backdrop_path": "/8FbbcmwmpGd7brfiC7f7lWFNGdi.jpg"
+    }
+  },
+  {
+    "year": "2015",
+    "categories": 15,
+    "nominees": 72,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 194662,
+      "name": "Birdman or (The Unexpected Virtue of Ignorance)",
+      "image_path": "/7gwtDnEJ39QarOyzt9bSxEj3SkD.jpg",
+      "director": "Alejandro G. Iñárritu",
+      "backdrop_path": "/s0OrExdg7i3RLR7oqzHRk4q2kL4.jpg"
+    }
+  },
+  {
+    "year": "2014",
+    "categories": 15,
+    "nominees": 72,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 76203,
+      "name": "12 Years a Slave",
+      "image_path": "/o5t8fqcNDyfojYwwlECZEgyD96T.jpg",
+      "director": "Steve McQueen",
+      "backdrop_path": "/4Bb1kMIfrT2tYRZ9M6Jhqy6gkeF.jpg"
+    }
+  },
+  {
+    "year": "2013",
+    "categories": 14,
+    "nominees": 67,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 82693,
+      "name": "Silver Linings Playbook",
+      "image_path": "/5R2ZLkflncVmRzTvSVP7MooxZ0C.jpg",
+      "director": "David O. Russell",
+      "backdrop_path": "/12GpsUm9nVVKFlcjDTflKLClFVA.jpg"
+    }
+  },
+  {
+    "year": "2012",
+    "categories": 14,
+    "nominees": 67,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 74643,
+      "name": "The Artist",
+      "image_path": "/sVBZ45hWFuzZtQc57TUf323R4VF.jpg",
+      "director": "Michel Hazanavicius",
+      "backdrop_path": "/bYimqNnizPUCnL5HOdoCW02IGmH.jpg"
+    }
+  },
+  {
+    "year": "2011",
+    "categories": 14,
+    "nominees": 67,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 44214,
+      "name": "Black Swan",
+      "image_path": "/tqlmLBt2i5SHNpXEj2nqk10Crwa.jpg",
+      "director": "Darren Aronofsky",
+      "backdrop_path": "/eDLp4uFdqP1gpy9oMrutwH6Q64I.jpg"
+    }
+  },
+  {
+    "year": "2010",
+    "categories": 14,
+    "nominees": 66,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 25793,
+      "name": "Precious: Based on the Novel 'Push' by Sapphire",
+      "image_path": "/7hdU46d875iO4DYlJHrI9vleZmw.jpg",
+      "director": "Lee Daniels",
+      "backdrop_path": "/81ME78JndOYu7IluTi1rxh0cLY2.jpg"
+    }
+  },
+  {
+    "year": "2009",
+    "categories": 14,
+    "nominees": 66,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 12163,
+      "name": "The Wrestler",
+      "image_path": "/zGXvybw9N2KSLkJ6T6pKJpT6Gfc.jpg",
+      "director": "Darren Aronofsky",
+      "backdrop_path": "/wcJmFsz8RqIhozMwvU81hreTX4i.jpg"
+    }
+  },
+  {
+    "year": "2008",
+    "categories": 14,
+    "nominees": 66,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 7326,
+      "name": "Juno",
+      "image_path": "/hbNYIjJN7bDTk0pngpoWARvjHRH.jpg",
+      "director": "Jason Reitman",
+      "backdrop_path": "/sRXMmeNHTSWRYdDz3zaHNyyPJ0u.jpg"
+    }
+  },
+  {
+    "year": "2007",
+    "categories": 13,
+    "nominees": 65,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 773,
+      "name": "Little Miss Sunshine",
+      "image_path": "/gwLPVYqe1efIxkx6LQT7piZweH2.jpg",
+      "director": "Jonathan Dayton, Valerie Faris",
+      "backdrop_path": "/twdtjJm31AExNx73DXaD4KRNU9c.jpg"
+    }
+  },
+  {
+    "year": "2006",
+    "categories": 13,
+    "nominees": 65,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 142,
+      "name": "Brokeback Mountain",
+      "image_path": "/qZ7fvWbPABjdU8JciIS9f9jCRCb.jpg",
+      "director": "Ang Lee",
+      "backdrop_path": "/vXzqV2RtJlT9WhNEM4NYWCEC6ZI.jpg"
+    }
+  },
+  {
+    "year": "2005",
+    "categories": 14,
+    "nominees": 70,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 9675,
+      "name": "Sideways",
+      "image_path": "/5k63nkN5mMGCBqRvrVaF7CpMUcK.jpg",
+      "director": "Alexander Payne",
+      "backdrop_path": "/zmuRxro8AxPDjACjXTIIDCUNwDl.jpg"
+    }
+  },
+  {
+    "year": "2004",
+    "categories": 14,
+    "nominees": 70,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 153,
+      "name": "Lost in Translation",
+      "image_path": "/gXrA8NMHAs3X9kegmoqtqNF8mXW.jpg",
+      "director": "Sofia Coppola",
+      "backdrop_path": "/6ITVHoipvxAS8luzKtHTbPaHLtT.jpg"
+    }
+  },
+  {
+    "year": "2003",
+    "categories": 14,
+    "nominees": 70,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 10712,
+      "name": "Far from Heaven",
+      "image_path": "/isIXydLJBghkRGQtykfyHqhvKWg.jpg",
+      "director": "Todd Haynes",
+      "backdrop_path": "/k0HFJNOfwuWbYKon7BwCbnX8OkB.jpg"
+    }
+  },
+  {
+    "year": "2002",
+    "categories": 14,
+    "nominees": 70,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 77,
+      "name": "Memento",
+      "image_path": "/7leBWM27Q0TUnvmhw6WnFNgGn4G.jpg",
+      "director": "Christopher Nolan",
+      "backdrop_path": "/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg"
+    }
+  },
+  {
+    "year": "2001",
+    "categories": 13,
+    "nominees": 65,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 146,
+      "name": "Crouching Tiger, Hidden Dragon",
+      "image_path": "/7SwDRFc2Ulus1sSbpym3jJuu6JR.jpg",
+      "director": "Ang Lee",
+      "backdrop_path": "/nSm9cij9VRrGDoZoS16CPnX0FqK.jpg"
+    }
+  },
+  {
+    "year": "2000",
+    "categories": 13,
+    "nominees": 65,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 9451,
+      "name": "Election",
+      "image_path": "/tkI4S66hyoYw9r9cNavu34p4Rfz.jpg",
+      "director": "Alexander Payne",
+      "backdrop_path": "/lNPPNnYM3j0cb8IZ9CsJiDt0BK9.jpg"
+    }
+  },
+  {
+    "year": "1999",
+    "categories": 12,
+    "nominees": 60,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 3033,
+      "name": "Gods and Monsters",
+      "image_path": "/An9PZgjnm8g0VHlBDUfzyp71NXW.jpg",
+      "director": "Bill Condon",
+      "backdrop_path": "/v1HOjtXoGwQz26fT4elHeNT0JnW.jpg"
+    }
+  },
+  {
+    "year": "1998",
+    "categories": 12,
+    "nominees": 60,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 2895,
+      "name": "The Apostle",
+      "image_path": "/9KqCzLhWbFMBPjqRpZ69izRiYgG.jpg",
+      "director": "Robert Duvall",
+      "backdrop_path": "/iDNA5Bbl9NgcYbyn8dDrpnf2MUt.jpg"
+    }
+  },
+  {
+    "year": "1997",
+    "categories": 12,
+    "nominees": 60,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 275,
+      "name": "Fargo",
+      "image_path": "/JrnxuijI6XCKyZaiPPrJ3TbZi.jpg",
+      "director": "Joel Coen",
+      "backdrop_path": "/747dgDfL5d8esobk7h4odaOFhUq.jpg"
+    }
+  },
+  {
+    "year": "1996",
+    "categories": 12,
+    "nominees": 60,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 451,
+      "name": "Leaving Las Vegas",
+      "image_path": "/fqgYqr5Nse89cU9a7dVHhd5lrPg.jpg",
+      "director": "Mike Figgis",
+      "backdrop_path": "/ckTh7Ej33m9O4eiKDQ1u91Opd9N.jpg"
+    }
+  },
+  {
+    "year": "1995",
+    "categories": 12,
+    "nominees": 60,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 680,
+      "name": "Pulp Fiction",
+      "image_path": "/tptjnB2LDbuUWya9Cx5sQtv5hqb.jpg",
+      "director": "Quentin Tarantino",
+      "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg"
+    }
+  },
+  {
+    "year": "1994",
+    "categories": 10,
+    "nominees": 50,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 695,
+      "name": "Short Cuts",
+      "image_path": "/mbNTvbtWfV4soyErimDTdX67OAr.jpg",
+      "director": "Robert Altman",
+      "backdrop_path": "/a0OjGWE9ru1OlKLBujbz3mAYYxU.jpg"
+    }
+  },
+  {
+    "year": "1993",
+    "categories": 11,
+    "nominees": 55,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 10403,
+      "name": "The Player",
+      "image_path": "/1EbTWaCUC7ULXbU7Mh1s2Whq9oa.jpg",
+      "director": "Robert Altman",
+      "backdrop_path": "/tKyxF6ZyxF65CcJKBKId1VavpGP.jpg"
+    }
+  },
+  {
+    "year": "1992",
+    "categories": 11,
+    "nominees": 55,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 32221,
+      "name": "Rambling Rose",
+      "image_path": "/hAoluBzewlMqRH4mgFJvr4EPOMw.jpg",
+      "director": "Martha Coolidge",
+      "backdrop_path": "/uAr9ideK1TCMDVTwRRaXr36Kha2.jpg"
+    }
+  },
+  {
+    "year": "1991",
+    "categories": 10,
+    "nominees": 50,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 18129,
+      "name": "The Grifters",
+      "image_path": "/rasA0WZvvo3kCLp5hGydpdEvUiy.jpg",
+      "director": "Stephen Frears",
+      "backdrop_path": "/i8vHWue4YFBQPI4wsnnBJq2RQV9.jpg"
+    }
+  },
+  {
+    "year": "1990",
+    "categories": 10,
+    "nominees": 50,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 1412,
+      "name": "sex, lies, and videotape",
+      "image_path": "/qhE4AXfL9N6PiLASIphaKn81HGe.jpg",
+      "director": "Steven Soderbergh",
+      "backdrop_path": "/wD95UmpUazo9820qnbbjRtbQ884.jpg"
+    }
+  },
+  {
+    "year": "1989",
+    "categories": 10,
+    "nominees": 50,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 29154,
+      "name": "Stand and Deliver",
+      "image_path": "/mzcPe4aMbunGz5YBkHQ4VW5I6qU.jpg",
+      "director": "Ramón Menéndez",
+      "backdrop_path": "/fSmCPURM80YLuXNvSmU6zoJ52ZN.jpg"
+    }
+  },
+  {
+    "year": "1988",
+    "categories": 10,
+    "nominees": 51,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 21309,
+      "name": "River's Edge",
+      "image_path": "/bT68aKa9d7zDF7Z8MaskbWBRqzb.jpg",
+      "director": "Tim Hunter",
+      "backdrop_path": "/rQehKh69FjD7m4uAlXab0JGCWZT.jpg"
+    }
+  },
+  {
+    "year": "1987",
+    "categories": 7,
+    "nominees": 36,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 792,
+      "name": "Platoon",
+      "image_path": "/ceX6cYVY8u4TH1zNPvsApRx64CN.jpg",
+      "director": "Oliver Stone",
+      "backdrop_path": "/5hRvPi8z7XaGQJi1OZ3QKyJiAaA.jpg"
+    }
+  },
+  {
+    "year": "1986",
+    "categories": 7,
+    "nominees": 28,
+    "highlight": {
+      "category": "Best Picture",
+      "type": "movie",
+      "id": 10843,
+      "name": "After Hours",
+      "image_path": "/a8cykn2DbXdeE7hSqzBtVhPjOUn.jpg",
+      "director": "Martin Scorsese",
+      "backdrop_path": "/tV2KZZR5JaqTSXiNKowGqQMQtex.jpg"
+    }
+  }
+]
