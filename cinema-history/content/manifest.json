@@ -1,6 +1,6 @@
 {
  "files": {
-  "en/awards.json": "9e4ddf5db1b638a8adc015fc64c15c8d1bc15c344ab505899dc4965b459f38a5",
+  "en/awards.json": "45809a4a254188590ce12b0d0b27ab0cde79c20ad860fb0d2aeae67db4b7e5f2",
   "en/awards/history/history1.json": "b493d915a9b7ccf60d026c1ab950326ef8a5fa6534ac2b20e2d73ad9172cfb4b",
   "en/awards/history/history2.json": "262fc35ebdb29276cf4d2c05023e38541bab7cbd53c829059f21c8b3746c488a",
   "en/awards/history/history3.json": "2c22320b6977d4aa7cfd5f01aec52f92affd9fbc8e056d232819b399dae428cf",
@@ -454,7 +454,7 @@
   "en/awards/nominees/7/2025.json": "638baf6b3b98ade6ec453560264aaa85e00bd86c08571206d46c62f4a7784378",
   "en/awards/nominees/7/2026.json": "4b8463360f0ee74978e529078370a7141986fa7263c0a5a41f2a073fa524e776",
   "en/awards/nominees/7/index.json": "4a2c339144ccf0e1c33a967e7a5c66cf24ef9ec849f09da2dd7b00a0baa1cc65",
-  "es/awards.json": "46ab2675d3d7e7f3e48110ee7ebe9e514cdf56384d9869bb5967695c032a5253",
+  "es/awards.json": "84b57fddc3de7ba1889755fde2d92ed90347bfe48b755b7f12d53c505eb1d7b5",
   "es/awards/history/history1.json": "40cfe8b83e6f49c489577d610c71249d75435b050ec74fe0a7f6b5d23479e841",
   "es/awards/history/history2.json": "2c05ac321377215dfd41f7190017806791c837283f0679933eb969807cc9aec8",
   "es/awards/history/history3.json": "f64e004a9ca65041700cd717ce23467aca686816b72d6e8a74562e0008de70f0",
@@ -908,7 +908,7 @@
   "es/awards/nominees/7/2025.json": "d8475854c5b2101c6a3d59a2212a24875203080d947853cc9348a3ad846f908c",
   "es/awards/nominees/7/2026.json": "b7a2d173222485b7e408b53adb04ac6fee06a7f63806bc01e1a40111037a3a18",
   "es/awards/nominees/7/index.json": "82574d12acaf67895f7a11ca0fb48437f9c625c268088f4731bd6d26e5d46135",
-  "pt/awards.json": "b8880cde18d253f99b3fcec88b76573b7a0fb2a69fcbc792ebd0fd1bd0fbe59a",
+  "pt/awards.json": "3d644ccb45e2079754facf4b67d6919086a7e25dabfd7da998748565e5d0882b",
   "pt/awards/history/history1.json": "ed5c7958efb243e310a031b7fec015e05b7d233584bc3380b82a3271ef988c19",
   "pt/awards/history/history2.json": "481153579ffe24dc2bfdf5637a2ea9ef525ee2d422cca45fe84d8dab30d3dd8a",
   "pt/awards/history/history3.json": "6dc9c87cf8d544890dd72c5882766a63bfbe31f75dfe9206a119037855f36b95",
@@ -1365,5 +1365,5 @@
  },
  "format": 1,
  "min_app_version": 20,
- "updated": "2026-10-11T14:23:50Z"
+ "updated": "2026-10-15T05:17:47Z"
 }

@@ -11,7 +11,7 @@
     "logo": {
       "image_type": "local",
       "url": "img_logo_oscar",
-      "content_description": "Photo of the BAFTA logo.",
+      "content_description": "Photo of the Oscars logo.",
       "style": {
         "scale_type": "center_crop"
       }
@@ -112,7 +112,7 @@
     "logo": {
       "image_type": "local",
       "url": "img_logo_golden_globe",
-      "content_description": "Photo of the BAFTA logo.",
+      "content_description": "Photo of the Golden Globe logo.",
       "style": {
         "scale_type": "center_crop"
       }
