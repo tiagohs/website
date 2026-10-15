@@ -54,13 +54,10 @@ próprio, mude lá, no filtro do `AndroidManifest.xml` e publique estes mesmos a
 O Android só abre o app direto se o site autorizar, em `/.well-known/assetlinks.json` (a Cloudflare Pages publica a
 pasta `.well-known` normalmente):
 
-- `sha256_cert_fingerprints` do Cinema History:
-  - `PLAY_APP_SIGNING_SHA256_FROM_PLAY_CONSOLE` é um **marcador**: troque pelo SHA-256 do certificado de assinatura do
-    app pela Play (Play Console → *Teste e lançamento → Configuração → Integridade do app → Assinatura de apps* →
-    "Certificado da chave de assinatura do app" → SHA-256, no formato `AA:BB:…`). É esse certificado que assina o app
-    instalado pela Play; sem ele, a verificação falha. Não publique o arquivo com o marcador.
-  - `A5:2D:25:…:36:DD` é o certificado **de envio** (o que assina o APK/AAB gerado no repositório do app). Ele faz
-    verificar os builds de release locais e o compartilhamento interno de apps.
+- `sha256_cert_fingerprints` do Cinema History: `A5:2D:25:…:36:DD`, o SHA-256 do "Certificado da chave de assinatura
+  do app" na Play Console (*Teste e lançamento → Configuração → Integridade do app → Assinatura de apps*). É o mesmo
+  certificado que assina os builds de release gerados no repositório do app, então vale para os dois. Se a Play um dia
+  trocar a chave de assinatura (upgrade de chave), acrescente o novo SHA-256 na lista sem tirar o antigo.
 - **Outro app**: acrescente outro objeto no array, com o `package_name` e os SHA-256 dele, e o filtro com
   `android:autoVerify="true"` e um `pathPrefix` próprio (ex.: `/rabisco-stickers/link`) no manifest do app:
 

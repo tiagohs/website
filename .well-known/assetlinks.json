@@ -1,11 +1,12 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.tiagohs.cinema_history",
       "sha256_cert_fingerprints": [
-        "PLAY_APP_SIGNING_SHA256_FROM_PLAY_CONSOLE",
         "A5:2D:25:BA:91:B9:72:A3:FB:F9:C5:2F:4B:22:E5:8E:B3:2B:50:8D:05:03:DB:85:24:CB:4C:C6:BC:F7:36:DD"
       ]
     }
