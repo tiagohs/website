@@ -15,7 +15,10 @@ Site estático hospedado no Cloudflare Pages. Cada produto é uma pasta; cada p�
                                      (images/: imagens das timelines, antes no Firebase Storage; channels/: avatares dos canais)
 /cinema-history/content/           → conteúdo que o app atualiza sem nova versão (prêmios), com manifest.json;
                                      gerado por content-src/remote.py no repo do app
-/_headers                          → cache longo para /*/media/*, curto para /*/content/*
+/cinema-history/link/              → links compartilhados do app (App Links): abre o app quando ele está instalado;
+                                     sem o app, mostra "Abra no app Cinema History" com o botão da Google Play
+/.well-known/assetlinks.json       → Digital Asset Links: autoriza os apps Android a abrir os links do site
+/_headers                          → cache longo para /*/media/*, curto para /*/content/* e para o assetlinks.json
 ```
 
 Para um produto novo: criar `/<produto>/index.html` e `/<produto>/privacidade/index.html`.
@@ -40,3 +43,49 @@ Troque `<base>` pelo domínio final (ex.: `https://meusite.pages.dev` ou `https:
 - Cinema History: `<base>/cinema-history/privacidade/`
 - Rabisco Stickers: `<base>/rabisco-stickers/privacidade/`
 - AppFunStickers: `<base>/whatss-stickers/privacidade/`
+
+## Links que abrem os apps (App Links)
+
+O Cinema History abre sozinho os links `https://website-cb5.pages.dev/cinema-history/link/?screen=…` (os parâmetros
+são os mesmos da versão 2.x do app). Só esse caminho abre o app: o resto do site (privacidade, termos…) continua no
+navegador. Domínio e caminho ficam em `SharedLinks.HOST`/`PATH` no repositório do app; se o site ganhar domínio
+próprio, mude lá, no filtro do `AndroidManifest.xml` e publique estes mesmos arquivos no domínio novo.
+
+O Android só abre o app direto se o site autorizar, em `/.well-known/assetlinks.json` (a Cloudflare Pages publica a
+pasta `.well-known` normalmente):
+
+- `sha256_cert_fingerprints` do Cinema History:
+  - `PLAY_APP_SIGNING_SHA256_FROM_PLAY_CONSOLE` é um **marcador**: troque pelo SHA-256 do certificado de assinatura do
+    app pela Play (Play Console → *Teste e lançamento → Configuração → Integridade do app → Assinatura de apps* →
+    "Certificado da chave de assinatura do app" → SHA-256, no formato `AA:BB:…`). É esse certificado que assina o app
+    instalado pela Play; sem ele, a verificação falha. Não publique o arquivo com o marcador.
+  - `A5:2D:25:…:36:DD` é o certificado **de envio** (o que assina o APK/AAB gerado no repositório do app). Ele faz
+    verificar os builds de release locais e o compartilhamento interno de apps.
+- **Outro app**: acrescente outro objeto no array, com o `package_name` e os SHA-256 dele, e o filtro com
+  `android:autoVerify="true"` e um `pathPrefix` próprio (ex.: `/rabisco-stickers/link`) no manifest do app:
+
+  ```json
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.exemplo.outro_app",
+      "sha256_cert_fingerprints": ["AA:BB:…"]
+    }
+  }
+  ```
+- Conferir depois de publicar: `https://website-cb5.pages.dev/.well-known/assetlinks.json` deve responder com
+  `Content-Type: application/json`, e o
+  [Statement List Tester](https://developers.google.com/digital-asset-links/tools/generator) deve aprovar o pacote.
+  No aparelho (Android 12+): `adb shell pm get-app-links com.tiagohs.cinema_history`.
+
+**iOS (depois, quando houver conta paga da Apple):** os Universal Links precisam de um
+`/.well-known/apple-app-site-association` (JSON **sem** extensão, servido com `Content-Type: application/json` pelo
+`_headers`) com o Team ID e o bundle id do app, limitado ao mesmo caminho:
+
+```json
+{ "applinks": { "details": [ { "appIDs": ["<TEAM_ID>.com.tiagohs.cinemahistory"],
+  "components": [ { "/": "/cinema-history/link*" } ] } ] } }
+```
+
+e, no app, `applinks:website-cb5.pages.dev` nas *Associated Domains*.
