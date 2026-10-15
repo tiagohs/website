@@ -7,3 +7,12 @@
 /cinema-history/content/*
   Cache-Control: public, max-age=300
   Access-Control-Allow-Origin: *
+
+# Android App Links (Digital Asset Links): JSON, cache curto para uma troca de certificado valer logo.
+/.well-known/assetlinks.json
+  Content-Type: application/json
+  Cache-Control: public, max-age=300
+
+# Página de quem abre um link do Cinema History sem o app: nunca indexar.
+/cinema-history/link/*
+  X-Robots-Tag: noindex

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Cinema History – Abra no app</title>
+  <!--
+    Fallback of the app's shared links (https://<site>/cinema-history/link/?screen=...): Android opens the app when it is
+    installed and the link is verified (/.well-known/assetlinks.json); otherwise the browser lands here.
+    No tracking, no external requests. The query string is kept untouched (no redirect) so a future
+    "open in app" retry can reuse it: see data-app-link on <main>.
+  -->
+  <style>
+    :root { --text:#1b1b1b; --muted:#5b5b5b; --bg:#ffffff; --line:#e3e3e3; --accent:#b3261e; --on-accent:#ffffff; }
+    @media (prefers-color-scheme: dark) { :root { --text:#ececec; --muted:#a8a8a8; --bg:#121212; --line:#2c2c2c; --accent:#ff8a80; --on-accent:#2b0000; } }
+    body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; background:var(--bg); color:var(--text);
+           max-width: 760px; margin: 0 auto; padding: 1.2em 16px 3em; line-height: 1.55; }
+    h1 { font-size: 1.6em; margin-bottom: .2em; }
+    a { color: var(--accent); }
+    .muted { color: var(--muted); font-size: .92em; }
+    .store { display:inline-block; margin: 1.2em 0 .4em; padding: 12px 22px; border-radius: 999px;
+             background: var(--accent); color: var(--on-accent); text-decoration: none; font-weight: 600; }
+    section { border-top: 1px solid var(--line); padding-top: 1em; margin-top: 2em; }
+    section p { margin: .4em 0; }
+  </style>
+</head>
+<body>
+<main id="app-link">
+
+<h1>Cinema History</h1>
+
+<div lang="pt-BR">
+  <p><strong>Abra no app Cinema History.</strong> Este link leva a um capítulo, filme ou página do app História do Cinema.</p>
+  <p class="muted">Ainda não tem o app? Ele é gratuito na Google Play. Se o app já está instalado, abra este link de novo
+  pelo Android e escolha "Cinema History".</p>
+  <a class="store" href="https://play.google.com/store/apps/details?id=com.tiagohs.cinema_history">Baixar na Google Play</a>
+</div>
+
+<section>
+  <p lang="en"><strong>Open in the Cinema History app.</strong> This link leads to a chapter, movie or page of the app.
+  <a href="https://play.google.com/store/apps/details?id=com.tiagohs.cinema_history" hreflang="en">Get it on Google Play</a>.</p>
+  <p lang="es"><strong>Ábrelo en la app Cinema History.</strong> Este enlace lleva a un capítulo, película o página de la app.
+  <a href="https://play.google.com/store/apps/details?id=com.tiagohs.cinema_history" hreflang="es">Disponible en Google Play</a>.</p>
+</section>
+
+<p class="muted"><a href="/cinema-history/privacidade/">Política de privacidade</a> ·
+  <a href="/cinema-history/termos/">Termos de uso</a></p>
+
+</main>
+<script>
+  // Keeps the link the app understands (path + query) on the page for a future "open in app" retry. Nothing is sent anywhere.
+  document.getElementById('app-link').dataset.appLink = location.pathname + location.search;
+</script>
+</body>
+</html>
