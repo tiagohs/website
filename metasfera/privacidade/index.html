@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Metasfera – Política de Privacidade / Privacy Policy</title>
+  <style>
+    :root { --text:#102A2F; --muted:#4A6066; --bg:#ffffff; --line:#DCE5E6; --accent:#0E5E6F; }
+    @media (prefers-color-scheme: dark) { :root { --text:#E6EEEF; --muted:#A6B8BB; --bg:#0F1A1C; --line:#2A3B3E; --accent:#7FC4D1; } }
+    body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; background:var(--bg); color:var(--text);
+           max-width: 760px; margin: 0 auto; padding: 1.2em 16px 3em; line-height: 1.55; }
+    h1 { font-size: 1.6em; margin-bottom: .2em; }
+    h2 { font-size: 1.15em; margin-top: 1.8em; }
+    nav { display:flex; gap: 8px; flex-wrap: wrap; margin: 1em 0 2em; }
+    nav a { border:1px solid var(--line); border-radius: 999px; padding: 4px 14px; text-decoration:none; color:var(--text); }
+    section { border-top: 1px solid var(--line); padding-top: 1em; margin-top: 2em; }
+    a { color: var(--accent); }
+    .muted { color: var(--muted); font-size: .92em; }
+    li { margin: .25em 0; }
+  </style>
+</head>
+<body>
+
+<h1>Metasfera</h1>
+<p class="muted">Vigente a partir de / Effective from: 19/10/2026</p>
+
+<nav>
+  <a href="#pt">Português</a>
+  <a href="#en">English</a>
+</nav>
+
+<!-- ============================== PORTUGUÊS ============================== -->
+<section id="pt" lang="pt-BR">
+<h1>Política de Privacidade</h1>
+
+<p>O <strong>Metasfera</strong> é um app de metas financeiras desenvolvido por Tiago Henrique da Silva e oferecido gratuitamente,
+mantido com <strong>anúncios</strong>. Ele lida com informações sensíveis — saldos, ativos, metas e extratos — e foi feito para que
+essas informações <strong>nunca saiam do seu aparelho</strong>. Esta página explica o que fica no aparelho, o que passa pela internet
+e como você controla tudo.</p>
+
+<h2>1. Seus dados financeiros ficam só no aparelho</h2>
+<p>O app não tem cadastro, login nem servidor próprio. Tudo o que você registra fica <strong>apenas no seu aparelho</strong>, na área
+privada do app, e não é enviado para mim nem para ninguém:</p>
+<ul>
+  <li><strong>Caixinhas</strong> (contas, corretoras, dinheiro em casa), saldos, lançamentos, ativos e as operações deles.</li>
+  <li><strong>Metas</strong>, vínculos entre caixinhas e metas, gastos do mês e os planos de cada tipo de meta.</li>
+  <li><strong>Preferências</strong>: seu nome (se você informar), moeda, idioma, tema, tamanho do texto, bloqueio, lembretes e
+  "Enviar relatórios de falha".</li>
+  <li><strong>Cotações e índices</strong> baixados (seção 3), guardados para o app funcionar sem internet.</li>
+</ul>
+<p>O backup automático do Android fica <strong>desligado</strong> para o Metasfera: seus dados não vão para a nuvem do Google.
+Para levar os dados para outro aparelho, use a cópia de segurança do próprio app (seção 4).</p>
+
+<h2>2. Extratos e planilhas que você importa</h2>
+<ul>
+  <li>O arquivo (OFX, CSV, planilha) é lido <strong>no próprio aparelho</strong>. Só os lançamentos que você confirma na prévia são
+  gravados; o arquivo não é enviado para lugar nenhum.</li>
+  <li>Se você ligar uma planilha para atualizar depois ("Planilha conectada"), o app guarda no aparelho o nome e o endereço do
+  arquivo, para abri-lo de novo quando você pedir.</li>
+</ul>
+
+<h2>3. O que passa pela internet</h2>
+<p>Para mostrar câmbio, índices e cotações, o app baixa <strong>dados públicos</strong>. Os pedidos levam só o necessário para a
+consulta — códigos de moeda e de índice, datas, o arquivo público do dia ou o modelo de carro que você escolheu — e
+<strong>nunca</strong> seus valores, nomes, caixinhas ou ativos:</p>
+<ul>
+  <li><strong>Banco Central do Brasil</strong> (séries do SGS e cotação PTAX) e <strong>Frankfurter</strong> (câmbio entre outras moedas);</li>
+  <li><strong>B3</strong> (arquivo público de cotações do dia) e <strong>Tesouro Transparente</strong> (preços e taxas do Tesouro Direto);</li>
+  <li><strong>Tabela FIPE</strong>, pela API pública Parallelum, quando você busca o preço de um veículo.</li>
+</ul>
+<p>Como em qualquer conexão, esses serviços recebem dados técnicos (endereço IP, data e hora, identificação do app/sistema), que podem
+ficar nos registros deles. Todas as conexões do app usam HTTPS.</p>
+
+<h2>4. Cópia de segurança</h2>
+<ul>
+  <li>A cópia (arquivo completo ou planilha) só é feita quando <strong>você</strong> pede, e vai para onde você escolher (Drive,
+  e-mail, mensagem...). A partir daí, o arquivo segue as regras do serviço que você usou.</li>
+  <li>A cópia completa pode ser <strong>protegida com senha</strong> (criptografia AES-256). Sem a senha, ninguém abre o arquivo —
+  nem o app, nem eu. Guarde a senha: não há como recuperá-la.</li>
+  <li>A planilha é feita para abrir no Excel e <strong>não tem senha</strong>: quem tiver o arquivo vê os valores.</li>
+</ul>
+
+<h2>5. Relatórios de falha (Firebase Crashlytics)</h2>
+<p>Quando o app tem um erro, ele pode enviar um relatório para eu corrigir o problema. O relatório leva <strong>só o tipo do erro e o
+ponto do código onde ele aconteceu</strong>, o modelo do aparelho, a versão do Android e do app, a data e hora e um identificador
+de instalação gerado pelo Firebase. A mensagem do erro é retirada antes do envio, e <strong>nenhum</strong> valor, nome, caixinha,
+meta, ativo ou arquivo vai junto.</p>
+<p>Você pode desligar o envio a qualquer momento em <em>Configurações → Enviar relatórios de falha</em>; os relatórios que ainda não
+foram enviados são apagados. O app não usa o Google Analytics nem outra ferramenta de estatística de uso.</p>
+
+<h2>6. Anúncios (Google AdMob)</h2>
+<ul>
+  <li>O app exibe anúncios identificados com o selo "Anúncio" no painel de metas e na lista de caixinhas; nunca na abertura, no bloqueio, na importação nem nos formulários em que você digita valores.</li>
+  <li>O Google AdMob pode usar o identificador de publicidade do aparelho, o endereço IP (localização aproximada), informações do
+  aparelho e as interações com os anúncios, para exibir, medir e, quando você permitir, personalizar anúncios, além de prevenir fraudes.
+  <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener">Como o Google usa dados de apps parceiros</a>.</li>
+  <li><strong>Nenhum dado financeiro seu é passado para os anúncios</strong>: o app não envia ao AdMob palavras-chave, conteúdo da
+  tela nem qualquer informação das suas metas ou caixinhas.</li>
+  <li>Onde a lei pede (por exemplo, Espaço Econômico Europeu, Reino Unido, Suíça e Brasil), o app pede seu consentimento por uma
+  mensagem certificada do Google; sem consentimento, os anúncios não são personalizados. Você pode mudar a escolha nas configurações
+  do app e desativar a personalização ou apagar o ID de publicidade em <em>Configurações do Android → Google → Anúncios</em>.</li>
+</ul>
+
+<h2>7. Bloqueio, notificações e widgets</h2>
+<ul>
+  <li>O bloqueio usa a biometria ou a senha do aparelho pelo próprio Android: o app <strong>não</strong> recebe nem guarda sua digital,
+  rosto ou senha.</li>
+  <li>Os lembretes são notificações locais, geradas no aparelho. Com o bloqueio ou "Esconder valores" ligado, a notificação na tela de
+  bloqueio não mostra nome nem valor.</li>
+  <li>Os widgets da tela inicial podem mostrar só porcentagens, sem valores.</li>
+</ul>
+
+<h2>8. Seus direitos (LGPD, GDPR e leis dos EUA)</h2>
+<p>Como seus dados financeiros ficam só no aparelho, você tem controle total sobre eles: <em>Configurações → Apagar todos os dados</em>
+apaga tudo, e desinstalar o app também. Como o app não tem contas, eu não consigo identificar você nos relatórios de falha nem nos dados
+dos anúncios. Para dados de anúncios, use os controles da seção 6 ou
+<a href="https://myadcenter.google.com" target="_blank" rel="noopener">myadcenter.google.com</a>. Para pedir informações, correção,
+exclusão ou revogar um consentimento, fale comigo pelo e-mail abaixo.</p>
+
+<h2>9. Crianças</h2>
+<p>O app não é direcionado a crianças menores de 13 anos e eu não coleto dados delas intencionalmente.</p>
+
+<h2>10. O que o app não é</h2>
+<p>O Metasfera organiza e projeta suas metas; não é banco, corretora nem consultoria, não movimenta dinheiro e não recomenda
+investimentos. Projeções e rendimentos são estimativas.</p>
+
+<h2>11. Serviços de terceiros</h2>
+<p><a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google</a>,
+<a href="https://support.google.com/admob/answer/6128543" target="_blank" rel="noopener">AdMob</a>,
+<a href="https://firebase.google.com/support/privacy" target="_blank" rel="noopener">Firebase</a>,
+<a href="https://www.bcb.gov.br" target="_blank" rel="noopener">Banco Central do Brasil</a>,
+<a href="https://frankfurter.dev" target="_blank" rel="noopener">Frankfurter</a>,
+<a href="https://www.b3.com.br" target="_blank" rel="noopener">B3</a>,
+<a href="https://www.tesourotransparente.gov.br" target="_blank" rel="noopener">Tesouro Transparente</a>,
+<a href="https://deividfortuna.github.io/fipe/v2/" target="_blank" rel="noopener">API FIPE (Parallelum)</a>.
+O Metasfera não tem vínculo oficial com esses serviços.</p>
+
+<h2>12. Alterações</h2>
+<p>Esta política pode ser atualizada. A data no topo indica a versão em vigor.</p>
+
+<h2>13. Contato</h2>
+<p>Tiago Henrique da Silva — <a href="mailto:tiago.hsilva@gmail.com">tiago.hsilva@gmail.com</a></p>
+</section>
+
+<!-- ============================== ENGLISH ============================== -->
+<section id="en" lang="en">
+<h1>Privacy Policy</h1>
+
+<p><strong>Metasfera</strong> is a financial goals app developed by Tiago Henrique da Silva, offered free of charge and supported by
+<strong>ads</strong>. It handles sensitive information — balances, assets, goals and statements — and it is built so that this
+information <strong>never leaves your device</strong>. This page explains what stays on the device, what goes over the internet and
+how you control it.</p>
+
+<h2>1. Your financial data stays on your device</h2>
+<p>The app has no sign-up, no login and no server of its own. Everything you record stays <strong>only on your device</strong>, in the
+app's private storage, and is not sent to me or to anyone else:</p>
+<ul>
+  <li><strong>Pots</strong> (bank accounts, brokerages, cash at home), balances, entries, assets and their operations.</li>
+  <li><strong>Goals</strong>, the links between pots and goals, monthly expenses and the plan of each goal type.</li>
+  <li><strong>Preferences</strong>: your name (if you enter it), currency, language, theme, text size, lock, reminders and
+  "Send crash reports".</li>
+  <li><strong>Downloaded rates and indices</strong> (section 3), kept so the app works offline.</li>
+</ul>
+<p>Android's automatic backup is <strong>turned off</strong> for Metasfera: your data does not go to Google's cloud. To move your data
+to another device, use the app's own backup (section 4).</p>
+
+<h2>2. Statements and spreadsheets you import</h2>
+<ul>
+  <li>The file (OFX, CSV, spreadsheet) is read <strong>on the device</strong>. Only the entries you confirm in the preview are saved; the
+  file is not sent anywhere.</li>
+  <li>If you connect a spreadsheet to update it later ("Connected spreadsheet"), the app keeps the file's name and location on the
+  device, to open it again when you ask.</li>
+</ul>
+
+<h2>3. What goes over the internet</h2>
+<p>To show exchange rates, indices and prices, the app downloads <strong>public data</strong>. The requests carry only what the lookup
+needs — currency and index codes, dates, the public file of the day or the car model you picked — and <strong>never</strong> your
+amounts, names, pots or assets:</p>
+<ul>
+  <li><strong>Banco Central do Brasil</strong> (SGS series and PTAX rates) and <strong>Frankfurter</strong> (exchange rates between other currencies);</li>
+  <li><strong>B3</strong> (public daily price file) and <strong>Tesouro Transparente</strong> (Tesouro Direto prices and rates);</li>
+  <li><strong>FIPE table</strong>, through the public Parallelum API, when you look up a vehicle's price.</li>
+</ul>
+<p>As with any connection, these services receive technical data (IP address, date and time, app/system identification), which may
+stay in their logs. Every connection of the app uses HTTPS.</p>
+
+<h2>4. Backup</h2>
+<ul>
+  <li>A backup (full file or spreadsheet) is only made when <strong>you</strong> ask, and goes wherever you choose (Drive, email,
+  messages...). From then on, the file follows the rules of the service you used.</li>
+  <li>The full backup can be <strong>protected with a password</strong> (AES-256 encryption). Without the password nobody can open the
+  file — not the app, not me. Keep the password safe: it cannot be recovered.</li>
+  <li>The spreadsheet is meant to be opened in Excel and has <strong>no password</strong>: anyone with the file can see the amounts.</li>
+</ul>
+
+<h2>5. Crash reports (Firebase Crashlytics)</h2>
+<p>When the app hits an error, it may send a report so I can fix it. The report carries <strong>only the type of the error and the
+place in the code where it happened</strong>, the device model, the Android and app versions, the date and time and an installation
+identifier generated by Firebase. The error message is removed before sending, and <strong>no</strong> amount, name, pot, goal, asset
+or file goes with it.</p>
+<p>You can turn this off at any time in <em>Settings → Send crash reports</em>; reports not yet sent are deleted. The app does not use
+Google Analytics or any other usage statistics tool.</p>
+
+<h2>6. Ads (Google AdMob)</h2>
+<ul>
+  <li>The app shows ads marked "Ad" on the goals dashboard and the pots list; never at startup, on the lock screen, on import or on forms where you type amounts.</li>
+  <li>Google AdMob may use the device's advertising ID, IP address (approximate location), device information and ad interactions to
+  show, measure and, when you allow it, personalize ads, and to prevent fraud.
+  <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener">How Google uses data from partner apps</a>.</li>
+  <li><strong>None of your financial data is passed to ads</strong>: the app sends AdMob no keywords, no screen content and no
+  information about your goals or pots.</li>
+  <li>Where the law requires it (for example, the European Economic Area, the United Kingdom, Switzerland and Brazil), the app asks for
+  your consent through a Google-certified message; without consent, ads are not personalized. You can change your choice in the app's
+  settings and turn off ad personalization or delete the advertising ID in <em>Android Settings → Google → Ads</em>.</li>
+</ul>
+
+<h2>7. Lock, notifications and widgets</h2>
+<ul>
+  <li>The lock uses the device's biometrics or screen lock through Android itself: the app does <strong>not</strong> receive or store your
+  fingerprint, face or password.</li>
+  <li>Reminders are local notifications, created on the device. With the lock or "Hide values" on, the lock-screen notification shows no
+  name or amount.</li>
+  <li>Home-screen widgets can show percentages only, with no amounts.</li>
+</ul>
+
+<h2>8. Your rights (LGPD, GDPR and US laws)</h2>
+<p>Because your financial data stays on the device, you are in full control of it: <em>Settings → Erase all data</em> deletes
+everything, and so does uninstalling the app. Since the app has no accounts, I cannot identify you in crash reports or ad data. For ad
+data, use the controls in section 6 or <a href="https://myadcenter.google.com" target="_blank" rel="noopener">myadcenter.google.com</a>.
+To ask for information, correction or deletion, or to withdraw consent, write to me at the address below.</p>
+
+<h2>9. Children</h2>
+<p>The app is not directed at children under 13 and I do not knowingly collect their data.</p>
+
+<h2>10. What the app is not</h2>
+<p>Metasfera organizes and projects your goals; it is not a bank, a brokerage or an advisor, it does not move money and it does not
+recommend investments. Projections and returns are estimates.</p>
+
+<h2>11. Third-party services</h2>
+<p><a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google</a>,
+<a href="https://support.google.com/admob/answer/6128543" target="_blank" rel="noopener">AdMob</a>,
+<a href="https://firebase.google.com/support/privacy" target="_blank" rel="noopener">Firebase</a>,
+<a href="https://www.bcb.gov.br" target="_blank" rel="noopener">Banco Central do Brasil</a>,
+<a href="https://frankfurter.dev" target="_blank" rel="noopener">Frankfurter</a>,
+<a href="https://www.b3.com.br" target="_blank" rel="noopener">B3</a>,
+<a href="https://www.tesourotransparente.gov.br" target="_blank" rel="noopener">Tesouro Transparente</a>,
+<a href="https://deividfortuna.github.io/fipe/v2/" target="_blank" rel="noopener">FIPE API (Parallelum)</a>.
+Metasfera has no official link with these services.</p>
+
+<h2>12. Changes</h2>
+<p>This policy may be updated. The date at the top shows the version in force.</p>
+
+<h2>13. Contact</h2>
+<p>Tiago Henrique da Silva — <a href="mailto:tiago.hsilva@gmail.com">tiago.hsilva@gmail.com</a></p>
+</section>
+
+</body>
+</html>
