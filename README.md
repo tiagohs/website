@@ -10,6 +10,7 @@ Site estático hospedado no Cloudflare Pages. Cada produto é uma pasta; cada p�
 /cinema-history/termos/            → termos de uso do Cinema History
 /rabisco-stickers/privacidade/     → política de privacidade do Rabisco Stickers
 /whatss-stickers/privacidade/      → política de privacidade do AppFunStickers
+/metasfera/privacidade/            → política de privacidade do Metasfera (pt-BR e inglês)
 /app-ads.txt                       → autorização do AdMob (vale para todos os apps da conta)
 /cinema-history/media/             → arquivos que o app Cinema History carrega pela internet
                                      (images/: imagens das timelines, antes no Firebase Storage; channels/: avatares dos canais)
@@ -43,6 +44,7 @@ Troque `<base>` pelo domínio final (ex.: `https://meusite.pages.dev` ou `https:
 - Cinema History: `<base>/cinema-history/privacidade/`
 - Rabisco Stickers: `<base>/rabisco-stickers/privacidade/`
 - AppFunStickers: `<base>/whatss-stickers/privacidade/`
+- Metasfera: `<base>/metasfera/privacidade/` (o app abre `https://website-cb5.pages.dev/metasfera/privacidade`)
 
 ## Links que abrem os apps (App Links)
 
