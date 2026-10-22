@@ -16,3 +16,8 @@
 # Página de quem abre um link do Cinema History sem o app: nunca indexar.
 /cinema-history/link/*
   X-Robots-Tag: noindex
+
+# Script Reader: roteiros que o app esconde (RF-64), lidos a cada verificação do catálogo; cache curto para valer logo.
+/script-reader/blocklist.json
+  Content-Type: application/json
+  Cache-Control: public, max-age=300
