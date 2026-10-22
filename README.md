@@ -11,6 +11,9 @@ Site estático hospedado no Cloudflare Pages. Cada produto é uma pasta; cada p�
 /rabisco-stickers/privacidade/     → política de privacidade do Rabisco Stickers
 /whatss-stickers/privacidade/      → política de privacidade do AppFunStickers
 /metasfera/privacidade/            → política de privacidade do Metasfera (pt-BR e inglês)
+/script-reader/privacidade/        → política de privacidade do Script Reader (pt-BR, inglês e espanhol)
+/script-reader/termos/             → termos de uso do Script Reader (pt-BR, inglês e espanhol)
+/script-reader/blocklist.json      → roteiros que o app esconde ({"version": 1, "slugs": [...]}, slugs do Script Slug)
 /app-ads.txt                       → autorização do AdMob (vale para todos os apps da conta)
 /cinema-history/media/             → arquivos que o app Cinema History carrega pela internet
                                      (images/: imagens das timelines, antes no Firebase Storage; channels/: avatares dos canais)
@@ -45,6 +48,9 @@ Troque `<base>` pelo domínio final (ex.: `https://meusite.pages.dev` ou `https:
 - Rabisco Stickers: `<base>/rabisco-stickers/privacidade/`
 - AppFunStickers: `<base>/whatss-stickers/privacidade/`
 - Metasfera: `<base>/metasfera/privacidade/` (o app abre `https://website-cb5.pages.dev/metasfera/privacidade`)
+- Script Reader: `<base>/script-reader/privacidade/` e `<base>/script-reader/termos/` (o app abre os dois em
+  `https://website-cb5.pages.dev/script-reader/…` e lê `/script-reader/blocklist.json` a cada verificação do catálogo;
+  para esconder um roteiro, ponha o slug dele em `slugs`)
 
 ## Links que abrem os apps (App Links)
 
