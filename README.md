@@ -11,6 +11,8 @@ Site estático hospedado no Cloudflare Pages. Cada produto é uma pasta; cada p�
 /rabisco-stickers/privacidade/     → política de privacidade do Rabisco Stickers
 /whatss-stickers/privacidade/      → política de privacidade do AppFunStickers
 /metasfera/privacidade/            → política de privacidade do Metasfera (pt-BR e inglês)
+/planosync/privacidade/            → política de privacidade do PlanoSync (pt-BR e inglês; inclui o Health Connect)
+/planosync/termos/                 → termos de uso do PlanoSync (pt-BR e inglês)
 /script-reader/privacidade/        → política de privacidade do Script Reader (pt-BR, inglês e espanhol)
 /script-reader/termos/             → termos de uso do Script Reader (pt-BR, inglês e espanhol)
 /script-reader/blocklist.json      → roteiros que o app esconde ({"version": 1, "slugs": [...]}, slugs do Script Slug)
